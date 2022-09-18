@@ -1,0 +1,3746 @@
+,address,driving_time_to_parents
+0,Shlomo Kaplanski St. Rishon LeTsiyon,16 - 26 min
+1,King George St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+2,"Rothschild Boulevard  17,Tel Aviv-Yafo",35 min - 1 hr 5 min
+3,"Yoseftal St.  11,Bat Yam",NA
+4,Metula St. Ramat Gan,NA
+5,Nachmani St. Tel Aviv-Yafo,30 min - 1 hr
+6,"Sokolov St.  25,Netanya",NA
+7,"Yosef Lapid St.  3,Netanya",
+8,Bnei Binyamin St. Netanya,1 hr 5 min - 1 hr 50 min
+9,Bnei Binyamin St. Netanya,1 hr 5 min - 1 hr 50 min
+10,"Ehud Manor St.  18,Netanya",NA
+11,"Gyora Yoseftal St.  22,Ashkelon",40 min - 1 hr 15 min
+12,"Matityahu Dankner St.  15,Netanya",1 hr 10 min - 1 hr 50 min
+13,"Sderot Hayim Weizman  67,Netanya",1 hr 10 min - 1 hr 50 min
+14,Haim Barlev St. Beer Sheva,55 min - 1 hr 25 min
+15,"Sderot Menachem Begin  17,Mazkeret Batya",14 - 26 min
+16,Dizengoff St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+17,"Rabbi Abba Abuchatzira  25,Sderot",55 min - 1 hr 40 min
+18,"Ha-Palmakh St.  14,Ashkelon",40 min - 1 hr 5 min
+19,Ha-Tsipornim St. Bat Yam,22 - 40 min
+20,Shivat Tsiyon St. Ashkelon,40 min - 1 hr 10 min
+21,Shvil Hodshey ha-Shana Ashkelon,
+22,Arieh St. Ashkelon,40 min - 1 hr 5 min
+23,HaYain Road Ashkelon,
+24,Sderot David Ben Gurion Ashkelon,40 min - 1 hr 10 min
+25,"Uzi Hitman St.  21,Netanya",NA
+26,Ephraim Tsur St. Ashkelon,40 min - 1 hr 15 min
+27,Reuven St. Ashkelon,40 min - 1 hr 10 min
+28,Shimon ha-Tarsi St. Tel Aviv-Yafo,28 - 55 min
+29,Sirkin St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+30,HaYarkon St. Tel Aviv-Yafo,NA
+31,Ha-Tsiyonut St. Holon,24 - 40 min
+32,Simkha Yaakobzon St. Rishon LeTsiyon,22 - 45 min
+33,Rambam St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+34,"Ha-Kormim St.  14,Rishon LeTsiyon",18 - 35 min
+35,"HaKukiya St.  2,Rishon LeTsiyon",NA
+36,Kaf Tet be-November St. Jerusalem,50 min - 1 hr 40 min
+37,Derech HaZayit Kfar Shmuel,20 - 35 min
+38,Shulamit Aloni St. Rishon LeTsiyon,18 - 35 min
+39,Trumpeldor St. Rishon LeTsiyon,18 - 35 min
+40,Natan Bernitski St. Rishon LeTsiyon,16 - 28 min
+41,Belkind St. Rishon LeTsiyon,20 - 35 min
+42,Harimon St. Rishon LeTsiyon,16 - 28 min
+43,Natan Bernitski St. Rishon LeTsiyon,16 - 28 min
+44,Abarbanel St. Rishon LeTsiyon,22 - 45 min
+45,Tel Hai St. Rishon LeTsiyon,18 - 35 min
+46,Hannah U-Michael Levin St. Rishon LeTsiyon,22 - 40 min
+47,Balfour St. Bat Yam,
+48,"Ha-Brosh St.  3,Beer Yaakov",18 - 40 min
+49,"Shalom Aleichem St.  24,Tel Aviv-Yafo",NA
+50,"Tiltan St.  6,Tiberias",NA
+51,"Tankhum St.  15,Rishon LeTsiyon",20 - 35 min
+52,"Olei HaGardom St.  15,Rishon LeTsiyon",NA
+53,Eisenband St. Rishon LeTsiyon,22 - 40 min
+54,Ein ha-Kore St. Rishon LeTsiyon,NA
+55,Ein ha-Kore St. Rishon LeTsiyon,NA
+56,Abarbanel St. Rishon LeTsiyon,22 - 45 min
+57,Tirat Tsvi St. Rishon LeTsiyon,NA
+58,Vigodski St. Rishon LeTsiyon,NA
+59,"Yitshak Grinboim St.  34,Netanya",NA
+60,Rambam St. Netanya,1 hr 5 min - 1 hr 50 min
+61,"Derech Dganya  48,Netanya",NA
+62,"HaRav Kuk St.  29,Netanya",NA
+63,"Yehuda ha-Nasi St.  27,Netanya",1 hr 10 min - 1 hr 50 min
+64,"Derech Ben Gurion  89,Bat Yam",26 - 50 min
+65,"Alonim St.  18,Netanya",1 hr 10 min - 1 hr 50 min
+66,"Menashe Kapra St.  38,Rehovot",7 - 12 min
+67,Ha-Zohar St. Petah Tikva,40 min - 1 hr 5 min
+68,Beit Lekhem St. Rishon LeTsiyon,20 - 35 min
+69,Pnina U-Moshe St. Rishon LeTsiyon,22 - 40 min
+70,HaRav Uziel St. Rishon LeTsiyon,22 - 40 min
+71,Rothschild St. Rishon LeTsiyon,16 - 30 min
+72,HaShomer St. Rishon LeTsiyon,18 - 35 min
+73,HaGdud Haivri St. Rishon LeTsiyon,
+74,Ha-Hityashvut St. Rishon LeTsiyon,20 - 40 min
+75,Alkalai St. Rishon LeTsiyon,22 - 40 min
+76,Carmel St. Rehovot,10 - 20 min
+77,Kheil ha-Khimush St. Rishon LeTsiyon,22 - 40 min
+78,Ha-Tikva St. Rishon LeTsiyon,18 - 30 min
+79,HaBen HaRishon St. Rishon LeTsiyon,16 - 26 min
+80,Tchernikhovski St. Rishon LeTsiyon,18 - 35 min
+81,Khavakuk St. Rishon LeTsiyon,18 - 35 min
+82,Ruppin St. Rishon LeTsiyon,16 - 30 min
+83,HaKishon St. Rishon LeTsiyon,
+84,Yeverboim St. Rishon LeTsiyon,18 - 30 min
+85,Shaar Hagolan St. Rishon LeTsiyon,20 - 35 min
+86,Rambam St. Rishon LeTsiyon,22 - 40 min
+87,Amzaleg St. Rishon LeTsiyon,18 - 35 min
+88,Lubman St. Rishon LeTsiyon,18 - 35 min
+89,Vigodski St. Rishon LeTsiyon,20 - 35 min
+90,"Berl Katznelson St.  33,Rishon LeTsiyon",16 - 28 min
+91,David Wolffsohn St. Rishon LeTsiyon,
+92,Imber St. Rishon LeTsiyon,18 - 35 min
+93,Binyamin St. Rehovot,7 - 12 min
+94,Abarbanel St. Rishon LeTsiyon,22 - 45 min
+95,Imber St. Rishon LeTsiyon,18 - 35 min
+96,Max Nordau St. Rehovot,7 - 12 min
+97,Ha-Iris St. Rishon LeTsiyon,18 - 35 min
+98,Ha-Akhim Ostashinski St. Rishon LeTsiyon,16 - 30 min
+99,Kiryat Sefer St. Rishon LeTsiyon,18 - 35 min
+100,Jerusalem St. Rishon LeTsiyon,20 - 40 min
+101,Kiryat Sefer St. Rishon LeTsiyon,18 - 35 min
+102,HaMegila St. Rishon LeTsiyon,22 - 40 min
+103,"HaPardes HaRishon St.  31,Rishon LeTsiyon",16 - 28 min
+104,Lilienblum St. Rishon LeTsiyon,18 - 35 min
+105,Shlomo Eliraz St. Rishon LeTsiyon,
+106,Mohiliver St. Rishon LeTsiyon,20 - 35 min
+107,HaShomer St. Rishon LeTsiyon,18 - 35 min
+108,Weizbard St. Rishon LeTsiyon,20 - 40 min
+109,Shalom Shabazi St. Rishon LeTsiyon,20 - 35 min
+110,Ha-Zohar St. Petah Tikva,40 min - 1 hr 5 min
+111,Yerushalayim Ave Lod,18 - 40 min
+112,"Sderot Johana Jabotinsky  58,Beersheba",1 hr - 1 hr 40 min
+113,Yakinton St. Lod,20 - 45 min
+114,"Sderot Shlomo HaMelech  63,Lod",20 - 40 min
+115,"Simkha St.  45,Tel Aviv-Yafo",30 - 55 min
+116,"Maale Ha-Gat St.  15,Ashkelon",35 min - 1 hr 5 min
+117,"Uzi Hitman St.  11,Netanya",1 hr 5 min - 1 hr 40 min
+118,"Lubman St.  5,Rishon LeTsiyon",18 - 35 min
+119,Arye Refael St. Rishon LeTsiyon,20 - 40 min
+120,Gevim St. Rishon LeTsiyon,18 - 30 min
+121,Sharet St. Netanya,1 hr 10 min - 1 hr 50 min
+122,"Brandeis St.  11,Rishon LeTsiyon",22 - 40 min
+123,"Shalom Aleichem St.  9,Rishon LeTsiyon",16 - 28 min
+124,Sderot Shlomo HaMelech Lod,
+125,Ha-Hityashvut St. Rishon LeTsiyon,20 - 40 min
+126,"Nitsa Boulevard  34,Netanya",1 hr 10 min - 1 hr 50 min
+127,HaYarkon St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+128,Shaar HaYam St. Herzliya,50 min - 1 hr 20 min
+129,Melchett St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+130,Biltmore St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+131,Yohanan HaSandlar St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+132,Yosef ha-Nasi St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+133,Trumpeldor St. Tel Aviv-Yafo,35 min - 1 hr 10 min
+134,Dov Hoz St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+135,Shai Agnon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+136,Sokolov St. Netanya,1 hr 10 min - 1 hr 50 min
+137,"Khayat St.  1,Haifa",1 hr 30 min - 2 hr 20 min
+138,HaNotrim St. Rishon LeTsiyon,20 - 35 min
+139,David HaMelech St. Netanya,1 hr 10 min - 1 hr 50 min
+140,Beni Berman St. Netanya,1 hr 5 min - 1 hr 40 min
+141,"Sderot Ben Gurion  143,Netanya",1 hr 5 min - 1 hr 40 min
+142,"Shtulim St.  1,Tel Aviv-Yafo",28 - 50 min
+143,"Sderot Oved Ben Ami  2,Netanya",1 hr 10 min - 1 hr 50 min
+144,"Nitsanim St.  31,Migdal HaEmek",1 hr 30 min - 2 hr 20 min
+145,"Yoram Varon St.  3,Ashkelon",40 min - 1 hr 10 min
+146,"Smilanski St.  69,Netanya",1 hr 10 min - 1 hr 50 min
+147,HaHashmonaim St. Bat Yam,24 - 45 min
+148,"Ahi Mezanek St.  4,Rishon LeTsiyon",24 - 40 min
+149,"Shvat St.  35,Tel Aviv-Yafo",28 - 45 min
+150,Biltmore St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+151,"Masada St.  4,Ramla",12 - 26 min
+152,HaTapuach St. Rishon LeTsiyon,20 - 35 min
+153,"Dizengoff St.  35,Netanya",1 hr 10 min - 1 hr 50 min
+154,HaCarmel St. Rishon LeTsiyon,18 - 35 min
+155,Irit St. Tel Aviv-Yafo,26 - 45 min
+156,David HaMelech St. Netanya,1 hr 10 min - 1 hr 50 min
+157,"Kokhavei Yitskhak St.  3,Tel Aviv-Yafo",30 - 55 min
+158,Bnei Binyamin St. Netanya,1 hr 5 min - 1 hr 50 min
+159,Ha-Gefen St. Ramla,16 - 35 min
+160,Yehuda Halevi St. Rishon LeTsiyon,20 - 40 min
+161,"Henrietta Szold St.  115,Lod",18 - 40 min
+162,"Meir Safran St.  4,Lod",20 - 45 min
+163,"Berl Katznelson St.  17,Rishon LeTsiyon",16 - 30 min
+164,Hovevei Tsiyon St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+165,"Dakar St.  21,Lod",18 - 40 min
+166,"Barak St.  4,Lod",18 - 40 min
+167,Neve Tzedek St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+168,"Sh. Ben Tsiyon St.  5,Rishon LeTsiyon",18 - 35 min
+169,Ha-Banim St. Tiberias,1 hr 50 min - 2 hr 50 min
+170,Fabregat St. Ramat Gan,35 min - 1 hr 10 min
+171,HaRav Uziel St. Rishon LeTsiyon,22 - 40 min
+172,"Ben Akhituv St.  7,Tel Aviv-Yafo",26 - 50 min
+173,"Ahad HaAm St.  6,Haifa",1 hr 30 min - 2 hr 20 min
+174,"Tiomkin St.  19,Rishon LeTsiyon",16 - 30 min
+175,"Tiomkin St.  19,Rishon LeTsiyon",16 - 30 min
+176,"Nitsa Boulevard  20,Netanya",1 hr 10 min - 1 hr 50 min
+177,Ahlama St. Ashdod,30 - 55 min
+178,"Ha-Admor ha-EmtsaI St.  1,Lod",18 - 40 min
+179,"Ha-Rav Nisanbaum St.  37,Bat Yam",24 - 45 min
+180,"Frumkin St.  6,Netanya",1 hr 10 min - 1 hr 50 min
+181,"Rabbi Akiva St.  5,Lod",20 - 45 min
+182,Yitshak Sadeh St. Bat Yam,
+183,"Dov Hoz St.  8,Netanya",1 hr 10 min - 1 hr 50 min
+184,"Rahvat HaRav Uziel  15,Beersheba",1 hr - 1 hr 40 min
+185,Khalutsei Yesud ha-Ma'ala St. Rishon LeTsiyon,18 - 35 min
+186,Weizman St. Bat Yam,24 - 40 min
+187,"Tsadi Gimel Banot St.  32,Rishon LeTsiyon",20 - 40 min
+188,"Shtulim St.  1,Tel Aviv-Yafo",28 - 50 min
+189,Derech Ben Gurion Bat Yam,
+190,Tsvi Hirschfeld St. Rishon LeTsiyon,16 - 26 min
+191,"Tel Hai St.  24,Rishon LeTsiyon",18 - 35 min
+192,"Yokhanan ha-Sandlar St.  8,Rishon LeTsiyon",NA
+193,Shmurat Nahal Bsur St. Netanya,1 hr 5 min - 1 hr 40 min
+194,"HaHayil St.  3,Holon",22 - 40 min
+195,"Ramban St.  1,Netanya",1 hr 5 min - 1 hr 50 min
+196,"Meir Safran St.  2,Lod",20 - 45 min
+197,"Sderot Jabotinsky  31,Netanya",1 hr 5 min - 1 hr 50 min
+198,"Barak St.  20,Lod",20 - 45 min
+199,HaRav Herzog St. Ramla,14 - 28 min
+200,Yokheved Bat Miryam St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+201,Rakhel Alter St. Lod,20 - 40 min
+202,"Petah Tikva St.  53,Netanya",1 hr 5 min - 1 hr 50 min
+203,Ha-Khashmonaim St. Lod,18 - 40 min
+204,"Sderot Shlomo HaMelech  105,Lod",20 - 45 min
+205,"Ussishkin St.  11,Netanya",1 hr 10 min - 1 hr 50 min
+206,"Ha-Gila St.  5,Netanya",1 hr 5 min - 1 hr 50 min
+207,David Wolffsohn St. Rishon LeTsiyon,
+208,David Wolfson St. Petah Tikva,40 min - 1 hr 15 min
+209,Tsadi Gimel Banot St. Rishon LeTsiyon,
+210,Ha-Gila St. Netanya,1 hr 5 min - 1 hr 50 min
+211,Rothschild St. Bat Yam,
+212,Tchernikhovski St. Bat Yam,
+213,Tchernikhovski St. Bat Yam,
+214,Bnei Binyamin St. Netanya,1 hr 5 min - 1 hr 50 min
+215,"Ofra Haza  9,Bat Yam",24 - 45 min
+216,Archi Sherman St. Netanya,1 hr 5 min - 1 hr 50 min
+217,Masaryk St. Netanya,1 hr 10 min - 1 hr 50 min
+218,HaCarmel St. Rishon LeTsiyon,18 - 35 min
+219,"HaShikma St.  32,Bat Yam",
+220,Ha-Sar Shapira St. Bat Yam,26 - 50 min
+221,Bar Kochva St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+222,"Bilu St.  5,Rishon LeTsiyon",18 - 35 min
+223,"Ha-Shakhar St.  10,Hod Hasharon",45 min - 1 hr 15 min
+224,Nakhshol St. Ramla,16 - 35 min
+225,HaShikma St. Bat Yam,24 - 45 min
+226,Yitshak Sadeh St. Bat Yam,
+227,Kehilat Tsefat St. Netanya,1 hr 5 min - 1 hr 50 min
+228,"onyx  20,Be'er Ya'akov",
+229,"Akhad ha-Am St.  4,Netanya",1 hr 10 min - 1 hr 50 min
+230,Shlomo Kaplanski St. Rishon LeTsiyon,16 - 26 min
+231,Gush Etsyon St. Holon,24 - 40 min
+232,"Horowitz St.  8,Rishon LeTsiyon",18 - 30 min
+233,Arik Einstein St. Ashdod,28 - 55 min
+234,David ha-Reuveni St. Rishon LeTsiyon,20 - 40 min
+235,HaDugit St. Rishon LeTsiyon,
+236,Ha-Neviim St. Bat Yam,
+237,"HaSeora St.  1,Netanya",1 hr 10 min - 1 hr 50 min
+238,Daniel St. Bat Yam,24 - 45 min
+239,Gruenbaum St. Holon,26 - 45 min
+240,Harei HaGilad St. Ramat Gan,35 min - 1 hr
+241,Ha-Oren St. Ramla,20 - 40 min
+242,Sokolov St. Rishon LeTsiyon,16 - 30 min
+243,Simha Holtsberg St. Ramla,
+244,Dugit St. Ramla,16 - 35 min
+245,Zeev Yaavets St. Petah Tikva,40 min - 1 hr 10 min
+246,Shmuel Shrira St. Rishon LeTsiyon,
+247,"Anilevich St.  33,Bat Yam",NA
+248,"HaTothanim St.  17,Holon",24 - 45 min
+249,Neve Tzedek St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+250,Yair Avraham Stern St. Netanya,1 hr 10 min - 1 hr 50 min
+251,"Ussishkin St.  32,Netanya",1 hr 10 min - 1 hr 50 min
+252,Ramat Motsa St. Jerusalem,35 - 55 min
+253,Havatikim St. Nesher,1 hr 30 min - 2 hr 20 min
+254,Hen St. Beer Sheva,55 min - 1 hr 30 min
+255,Nahal Yam St. Rishon LeTsiyon,20 - 40 min
+256,Y.L. Perets St. Haifa,1 hr 30 min - 2 hr 20 min
+257,Arlozorov St. Bat Yam,26 - 50 min
+258,"David HaMelech St.  33,Beer Sheva",55 min - 1 hr 30 min
+259,Doctor Weissburg St. Petah Tikva,40 min - 1 hr 10 min
+260,Ben Tsvi Boulevard Netanya,1 hr 5 min - 1 hr 40 min
+261,"HaShiloah St.  13,Holon",20 - 40 min
+262,Kiryat Sefer St. Rishon LeTsiyon,18 - 35 min
+263,Mikha'el Ne'eman St. Tel Aviv-Yafo,50 min - 1 hr 15 min
+264,HaMa'ayan St. Ramat Gan,35 min - 1 hr
+265,Moshe Sharet St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+266,Yitshak Ben Zvi St. Ramla,16 - 35 min
+267,"San Martin St.  4,Lod",18 - 40 min
+268,"Balfour St.  29,Bat Yam",26 - 50 min
+269,Karl Netter St. Rishon LeTsiyon,
+270,Ha-Aliya ha-Rishona St. Ramat Gan,35 min - 1 hr 10 min
+271,Kdoshei Kahir St. Bat Yam,26 - 50 min
+272,Yefe Nof St. Nesher,1 hr 30 min - 2 hr 20 min
+273,Beilinson St. Ramla,20 - 45 min
+274,Hafes Haim St. Petah Tikva,40 min - 1 hr 10 min
+275,Ehud Manor St. Netanya,1 hr 5 min - 1 hr 40 min
+276,Yarden St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+277,Ha-Neviim St. Bat Yam,
+278,Naomi Shemer St. Holon,24 - 45 min
+279,HeHatsav St. Rishon LeTsiyon,20 - 40 min
+280,Sderot Ben Gurion Ramla,14 - 35 min
+281,"Dror St.  20,Rishon LeTsiyon",20 - 40 min
+282,"Emek Khefer St.  6,Netanya",1 hr 10 min - 1 hr 50 min
+283,Yitshak Ben Zvi St. Ramla,16 - 35 min
+284,"Yoel Drubin St.  3,Rishon LeTsiyon",16 - 28 min
+285,"Oskar Schindler St.  16,Bat Yam",28 - 50 min
+286,Meir Yaari St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+287,Stefan Weiz St. Rishon LeTsiyon,20 - 40 min
+288,"Barak St.  20,Lod",20 - 45 min
+289,"Herzl St.  26,Lod",18 - 45 min
+290,"Ha-Avot St.  9,Rishon LeTsiyon",20 - 35 min
+291,"Ha-Sar Shapira St.  38,Bat Yam",26 - 50 min
+292,HaShikma St. Bat Yam,24 - 45 min
+293,"Abarbanel St.  11,Rishon LeTsiyon",22 - 40 min
+294,Yam ha-Melakh St. Ashkelon,40 min - 1 hr 10 min
+295,HaKnesset St. Holon,24 - 45 min
+296,"onyx  4,Be'er Ya'akov",NA
+297,Yo'el Drubin St. Rishon LeTsiyon,14 - 26 min
+298,"HaHadarim St.  6,Rishon LeTsiyon",16 - 28 min
+299,"Bayit Vagan St.  9,Bat Yam",26 - 45 min
+300,Ein Ganim St. Petah Tikva,40 min - 1 hr 10 min
+301,Horowitz St. Rishon LeTsiyon,16 - 28 min
+302,"Avital St.  21,Yokneam Illit",1 hr 20 min - 2 hr
+303,"Derech Raziel  49,Netanya",1 hr 10 min - 1 hr 50 min
+304,"אריק איינשטיין  3,Bat Yam",24 - 45 min
+305,"Margolin St.  15,Rishon LeTsiyon",20 - 40 min
+306,Arik Einstein Bat Yam,24 - 45 min
+307,"Gershon Shatz St.  6,Ramla",16 - 35 min
+308,"Yona Tsvi Feinstein St.  13,Rishon LeTsiyon",18 - 35 min
+309,"HaRehasim St.  49,Ramat Gan",35 min - 1 hr 10 min
+310,Meir Binet St. Ramla,16 - 35 min
+311,"Har HaTsofim St.  19,Rehovot",10 - 18 min
+312,Irus ha-Argaman St. Netanya,1 hr 5 min - 1 hr 40 min
+313,Biltmore St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+314,Rehovot HaNahar Ramat Gan,40 min - 1 hr 5 min
+315,HaHashmonaim St. Bat Yam,24 - 45 min
+316,"Sderot Hachmei Israel  14,Tel Aviv-Yafo",28 - 50 min
+317,Har HaTsofim St. Rehovot,10 - 18 min
+318,"Ha-Akhim Ostashinski St.  22,Rishon LeTsiyon",18 - 35 min
+319,"Abarbanel St.  4,Rishon LeTsiyon",20 - 40 min
+320,"null  7,feinberg",NA
+321,Talpiot St. Ramat Gan,35 min - 1 hr 5 min
+322,Rothschild St. Rishon LeTsiyon,
+323,Haikarim St. Azor,22 - 40 min
+324,Gevim St. Rishon LeTsiyon,18 - 30 min
+325,Nordau St. Rishon LeTsiyon,16 - 30 min
+326,Hatzeva St. Holon,24 - 40 min
+327,"Shmuel Yosef Agnon St.  47,Bat Yam",24 - 45 min
+328,"Meir Vinik St.  20,Rishon LeTsiyon",16 - 26 min
+329,Yehuda Burla St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+330,Ein Ganim St. Petah Tikva,40 min - 1 hr 10 min
+331,Ein Ganim St. Petah Tikva,40 min - 1 hr 10 min
+332,Ein Ganim St. Petah Tikva,40 min - 1 hr 10 min
+333,Rambam St. Petah Tikva,40 min - 1 hr 15 min
+334,"Kalischer St.  15,Beer Sheva",1 hr - 1 hr 30 min
+335,"Moshe Levi  7,Ramla",16 - 30 min
+336,"HaGdud Haivri St.  57,Rishon LeTsiyon",22 - 40 min
+337,Dizengoff St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+338,"Derech Ben Gurion  133,Bat Yam",24 - 45 min
+339,Yosef Aharonovich St. Holon,22 - 40 min
+340,HaHashmonaim St. Bat Yam,24 - 45 min
+341,HaHashmonaim St. Netanya,1 hr 10 min - 1 hr 50 min
+342,Ha-Shlosha St. Bat Yam,24 - 40 min
+343,"Nili St.  31,Netanya",1 hr 10 min - 1 hr 50 min
+344,"Vilna St.  6,Ramla",18 - 40 min
+345,Yona Bugla St. Rishon LeTsiyon,18 - 35 min
+346,"Aharon Kron St.  24,Rishon LeTsiyon",18 - 30 min
+347,"Olei HaGardom St.  49,Rishon LeTsiyon",16 - 28 min
+348,Dizengoff St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+349,"Yaffa Yarkoni St.  5,Holon",26 - 50 min
+350,Vigodski St. Rishon LeTsiyon,20 - 35 min
+351,Hativat Carmeli St. Ashdod,24 - 50 min
+352,Odem St. Beer Yaakov,16 - 35 min
+353,"Professor Brodetski St.  26,Netanya",1 hr 10 min - 1 hr 50 min
+354,"Yitshak Sadeh St.  6,Bat Yam",
+355,"Abarbanel St.  7,Rishon LeTsiyon",22 - 40 min
+356,"Ha-Yakinton St.  3,Rishon LeTsiyon",18 - 35 min
+357,Topaz St. Beer Yaakov,16 - 35 min
+358,Yoseftal St. Ramla,
+359,Albert Einstein St. Lod,20 - 40 min
+360,Albert Einstein St. Lod,NA
+361,Harduf St. Ramla,16 - 35 min
+362,"Moshe Hess St.  4,Rishon LeTsiyon",18 - 30 min
+363,David Remez St. Netanya,1 hr 10 min - 1 hr 50 min
+364,"Yefet St.  34,Tel Aviv-Yafo",30 - 50 min
+365,"Shlomo ha-Melekh St.  53,Netanya",1 hr 10 min - 1 hr 50 min
+366,Ha-Portsim St. Holon,24 - 45 min
+367,"David Wolffsohn St.  46,Rishon LeTsiyon",16 - 28 min
+368,Ein ha-Kore St. Rishon LeTsiyon,18 - 35 min
+369,Ha-Histadrut St. Bat Yam,24 - 45 min
+370,HaHashmonaim St. Bat Yam,24 - 45 min
+371,Khisdai St. Holon,
+372,Moshe Dayan St. Holon,20 - 35 min
+373,Zrubavel St. Bat Yam,28 - 50 min
+374,Rambam St. Bat Yam,26 - 50 min
+375,"Ha-Akhim Suleiman St.  14,Rishon LeTsiyon",22 - 40 min
+376,Max Nordau St. Bat Yam,
+377,"Prof. Schorr St.  9,Tel Aviv-Yafo",40 min - 1 hr 15 min
+378,"HaRav Herzog St.  2,Rishon LeTsiyon",18 - 35 min
+379,Grynszpan St. Petah Tikva,40 min - 1 hr 20 min
+380,"Ha Shunit  4,Yavne",12 - 24 min
+381,Nahal HaBsor St. Gedera,16 - 30 min
+382,HaHashmonaim St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+383,Reuven Barkat St. Holon,26 - 50 min
+384,"Yiftakh St.  16,Tel Aviv-Yafo",35 min - 1 hr
+385,David Reznik St. Netanya,
+386,Tchernikhovski St. Holon,24 - 45 min
+387,Ha-Nevi'im St. Bat Yam,24 - 45 min
+388,"Kheil ha-Raglim St.  11,Rishon LeTsiyon",22 - 40 min
+389,Tora VaAvoda St. Rishon LeTsiyon,20 - 40 min
+390,Ha-Kharuv St. Tirat Carmel,1 hr 40 min - 2 hr 20 min
+391,HaDugit St. Rishon LeTsiyon,
+392,Benjamin St. Ramat Gan,35 min - 1 hr
+393,"Aharon Kron St.  28,Rishon LeTsiyon",18 - 30 min
+394,Jabotinsky St. Rishon LeTsiyon,18 - 35 min
+395,Hish St. Bat Yam,24 - 40 min
+396,"HaGdud Haivri St.  11,Bat Yam",24 - 40 min
+397,Mohiliver St. Tel Aviv-Yafo,30 min - 1 hr 5 min
+398,onyx Be'er Ya'akov,1 hr - 1 hr 40 min
+399,HaTfutsot St. Ramat Gan,35 min - 1 hr 10 min
+400,Beit Horon St. Ramat Gan,35 min - 1 hr 5 min
+401,Bar Kochva St. Ramat Gan,35 min - 1 hr 10 min
+402,Abba Hillel Silver Road Ramat Gan,40 min - 1 hr 5 min
+403,"Zeev Jabotinsky St.  7,Ramat Gan",35 min - 1 hr 5 min
+404,Renanim St. Ramat Gan,40 min - 1 hr 5 min
+405,"Aharon Lublin St.  54,Lod",26 - 50 min
+406,Hahermon St. Beer Yaakov,16 - 35 min
+407,David Bloch St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+408,Tsamarot St. Lod,NA
+409,"Beit Yosef St.  10,Rishon LeTsiyon",22 - 40 min
+410,"Arik Einstein  1,Bat Yam",24 - 45 min
+411,Doctor Yohanan Bader St. Ramat Gan,35 min - 1 hr 10 min
+412,HaNadiv St. Herzliya,50 min - 1 hr 20 min
+413,HaNasi St. Gan Yavne,22 - 40 min
+414,Yehuda ha-Levi St. Tel Aviv-Yafo,35 min - 1 hr 10 min
+415,Olei HaGardom St. Rishon LeTsiyon,
+416,Ruppin St. Rishon LeTsiyon,16 - 30 min
+417,Zeev Jabotinsky St. Ramat Gan,40 min - 1 hr 10 min
+418,"Moshe Tavori St.  2,Petah Tikva",40 min - 1 hr 10 min
+419,Mosinzon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+420,Mosinzon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+421,Mosinzon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+422,Mosinzon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+423,Mosinzon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+424,"Dizengoff St.  38,Netanya",1 hr 10 min - 1 hr 50 min
+425,"Dakar St.  1,Lod",20 - 40 min
+426,"Arlozorov St.  10,Bat Yam",28 - 50 min
+427,"Ahad HaAm St.  1,Bat Yam",26 - 50 min
+428,"Raphael Suissa Boulevard  32,Mazkeret Batya",12 - 24 min
+429,"Yehuda Ragunis St.  4,Rishon LeTsiyon",22 - 45 min
+430,Shtulim St. Tel Aviv-Yafo,28 - 50 min
+431,Meir Shfeya St. Petah Tikva,45 min - 1 hr 20 min
+432,Mendelssohn St. Petah Tikva,40 min - 1 hr 10 min
+433,Shoshanat HaKarmel St. Haifa,1 hr 40 min - 2 hr 30 min
+434,Zamenhoff St. Bat Yam,26 - 50 min
+435,Frug St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+436,Kibuts Galuyot St. Bat Yam,24 - 45 min
+437,Vulkani St. Holon,NA
+438,Khayim Gilad St. Petah Tikva,NA
+439,"Chlenov St.  2,Rishon LeTsiyon",16 - 28 min
+440,Moshe Levi Ramla,16 - 30 min
+441,Geva St. Ashkelon,40 min - 1 hr 15 min
+442,Zisman Shalom St. Ramat Gan,35 min - 1 hr
+443,Yehuda Ragunis St. Rishon LeTsiyon,22 - 45 min
+444,"Derech Ben Gurion  113,Bat Yam",24 - 45 min
+445,"Fikus St.  16,Tel Aviv-Yafo",26 - 45 min
+446,Derech Ben Gurion Bat Yam,
+447,"Yitshak Sadeh St.  8,Bat Yam",
+448,Bialik St. Holon,26 - 50 min
+449,Khabad St. Rishon LeTsiyon,22 - 40 min
+450,"Derech Sheshet HaYamim  78,Rehovot",5 - 8 min
+451,"Jabotinsky St.  56,Rishon LeTsiyon",18 - 35 min
+452,Yehoshua Hankin St. Holon,
+453,"רמב""ם  30,באר שבע",1 hr - 1 hr 40 min
+454,"Ha-Komemiyut St.  14,Bat Yam",24 - 45 min
+455,HaRav Kuk St. Netanya,1 hr 10 min - 1 hr 50 min
+456,Beit Lekhem St. Holon,24 - 45 min
+457,HaAlonim Boulevard Beer Yaakov,
+458,Bialik St. Bat Yam,26 - 50 min
+459,Kdoshei Kahir St. Holon,24 - 40 min
+460,Doctor Mordehai veHava Frieman St. Lod,20 - 45 min
+461,Simha Holtsberg St. Ramla,
+462,"Givat HaTahmoshet St.  4,Holon",22 - 45 min
+463,"Tarmav St.  21,Rishon LeTsiyon",20 - 35 min
+464,"Tarmav St.  21,Rishon LeTsiyon",20 - 35 min
+465,HaBashan St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+466,Rothschild St. Petah Tikva,40 min - 1 hr 10 min
+467,Meir Dankner St. Petah Tikva,45 min - 1 hr 15 min
+468,Bareket St. Beer Yaakov,16 - 30 min
+469,Uzi Khitman St. Holon,24 - 50 min
+470,Shoshana Damari St. Holon,26 - 50 min
+471,Jabotinsky St. Bat Yam,28 - 50 min
+472,"Ha-Komemiyut St.  14,Bat Yam",24 - 45 min
+473,HaAtsmaut Boulevard Bat Yam,26 - 50 min
+474,"Beit ha-Sho'eva St.  8,Jerusalem",NA
+475,"אורגד  4,Netanya",1 hr 10 min - 1 hr 50 min
+476,Hana Rovina St. Herzliya,50 min - 1 hr 20 min
+477,"Ha-Akhim Smilchanski St.  3,Rishon LeTsiyon",16 - 28 min
+478,Moriya St. Beer Sheva,1 hr - 1 hr 40 min
+479,Meir Grossman St. Beer Sheva,1 hr - 1 hr 40 min
+480,"Beit El St.  6,Tel Aviv-Yafo",45 min - 1 hr 20 min
+481,"Shachar St.  7,Or Yehuda",28 - 50 min
+482,Jean Jaures St. Holon,24 - 45 min
+483,Ha-Tsela St. Ramat Gan,NA
+484,"Ha-Pardes St.  6,Netanya",1 hr 10 min - 1 hr 50 min
+485,Herzl St. Petah Tikva,40 min - 1 hr 10 min
+486,Caesarea St. Be'er Sheva,1 hr - 1 hr 30 min
+487,HaRav Tana St. Be'er Sheva,1 hr - 1 hr 50 min
+488,Ehud Manor St. Netanya,1 hr 5 min - 1 hr 40 min
+489,Aharon Lublin St. Lod,24 - 50 min
+490,"Tel Hai St.  12,Rishon LeTsiyon",18 - 35 min
+491,Herzl St. Petah Tikva,40 min - 1 hr 10 min
+492,Barzilai St. Rishon LeTsiyon,16 - 30 min
+493,HaRav Tana St. Beer Sheva,1 hr - 1 hr 50 min
+494,"Netiv Ha Lamed Hei  24,Rehovot",8 - 16 min
+495,"Gluskin St.  10,Rishon LeTsiyon",16 - 30 min
+496,"Emek Khefer St.  47,Netanya",1 hr 10 min - 1 hr 50 min
+497,Betsalel St. Beer Sheva,1 hr - 1 hr 40 min
+498,Shlomo Molkho St. Rishon LeTsiyon,20 - 40 min
+499,HaGat St. Rishon LeTsiyon,20 - 35 min
+500,Mikhael Neeman St. Tel Aviv-Yafo,50 min - 1 hr 15 min
+501,Balfour St. Ashkelon,35 min - 1 hr 5 min
+502,"Palmakh St.  7,Ness Ziona",12 - 26 min
+503,HaGra St. Holon,22 - 35 min
+504,"Rothschild St.  59,Bat Yam",24 - 40 min
+505,"Ha-Hadarim St.  14,Mazkeret Batya",12 - 22 min
+506,"Lavontin St.  10,Netanya",1 hr 10 min - 1 hr 50 min
+507,Nahalat Tsvi St. Petah Tikva,40 min - 1 hr 15 min
+508,Sokolov St. Holon,26 - 55 min
+509,David Elazar St. Ramla,16 - 35 min
+510,"Tova ve-Tuvya Miller St.  9,Rehovot",9 - 20 min
+511,Arlozorov St. Holon,24 - 45 min
+512,Shabazi St. Tel Aviv-Yafo,30 min - 1 hr 5 min
+513,Kaf-Tet BeNovember St. Bat Yam,22 - 40 min
+514,"Sokolov St.  10,Bat Yam",28 - 50 min
+515,David Meir Guttman St. Petah Tikva,45 min - 1 hr 15 min
+516,HaAlonim Boulevard Beer Yaakov,
+517,Yohanan HaSandlar St. Bat Yam,
+518,Katz Michal Leib St. Petah Tikva,40 min - 1 hr 10 min
+519,Ha-Portsim St. Netanya,1 hr 10 min - 1 hr 50 min
+520,Mishmar HaYarden St. Petah Tikva,40 min - 1 hr 15 min
+521,Mishmar HaYarden St. Petah Tikva,40 min - 1 hr 15 min
+522,Kalaniyot Boulevard Ramat Gan,40 min - 1 hr 5 min
+523,Hazon Ish St. Rishon LeTsiyon,20 - 40 min
+524,Manya Shohat St. Rishon LeTsiyon,16 - 28 min
+525,Ha-Portsim St. Holon,24 - 45 min
+526,Feierberg St. Beer Sheva,1 hr 5 min - 1 hr 40 min
+527,Tagore St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+528,"Rabbi Akiva St.  68,Beer Sheva",55 min - 1 hr 30 min
+529,Ben Shemen St. Lod,18 - 40 min
+530,Olei HaGardom St. Beer Sheva,1 hr - 1 hr 40 min
+531,Yigal Alon St. Herzliya,50 min - 1 hr 20 min
+532,"Elkharizi St.  42,Holon",24 - 40 min
+533,"Halper St.  29,Bat Yam",26 - 45 min
+534,Ha-Brosh St. Beer Yaakov,16 - 40 min
+535,"HaKotel HaMaaravi St.  45,Beer Sheva",1 hr - 1 hr 40 min
+536,"Hannah Rovina St.  20,Rishon LeTsiyon",18 - 30 min
+537,Amzaleg St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+538,HaRav Tana St. Beer Sheva,1 hr - 1 hr 50 min
+539,Uchmanit St. Beer Sheva,1 hr 5 min - 1 hr 40 min
+540,Ha-Avot St. Rishon LeTsiyon,20 - 35 min
+541,Dganya St. Holon,26 - 50 min
+542,Yehezkel Danin St. Bat Yam,24 - 45 min
+543,"Nordau St.  12,Ramat Gan",40 min - 1 hr 5 min
+544,"Nitsa Boulevard  22,Netanya",1 hr 10 min - 1 hr 50 min
+545,Zalman Shazar St. Rishon LeTsiyon,20 - 40 min
+546,"Reuven u-Vat Sheva St.  5,Rishon LeTsiyon",22 - 45 min
+547,Shalma Road Tel Aviv,28 - 50 min
+548,Laskov St. Holon,24 - 45 min
+549,HaPardes HaRishon St. Rishon LeTsiyon,16 - 28 min
+550,Charusim St. Ramat Gan,40 min - 1 hr
+551,"Yosef Ben Matityahu St.  9,Beer Sheva",55 min - 1 hr 25 min
+552,Jabotinski St. Ashdod,24 - 50 min
+553,Safed St. Holon,22 - 40 min
+554,Jericho St. Holon,24 - 45 min
+555,Derekh Yavne Rehovot,8 - 16 min
+556,Kovshei ha-Khermon St. Rehovot,6 - 12 min
+557,"Berl Katznelson St.  33,Rishon LeTsiyon",16 - 28 min
+558,Rozov St. Tel Aviv,45 min - 1 hr 15 min
+559,HaKukiya St. Rishon LeTsiyon,20 - 35 min
+560,Nemirover St. Tel Aviv,45 min - 1 hr 15 min
+561,HaHayil St. Holon,22 - 40 min
+562,Ha-Zmora St. Rishon LeTsiyon,
+563,Yehoshua Bin Nun St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+564,"Harduf St.  20,Tirat Carmel",1 hr 40 min - 2 hr 20 min
+565,Arie Akhishar St. Ashkelon,45 min - 1 hr 15 min
+566,"Ben Tsvi Boulevard  3,Netanya",1 hr 5 min - 1 hr 50 min
+567,"Derech Tat Aluf Uri Baron  17,Ariel",55 min - 1 hr 30 min
+568,Yad LaBanim Road Haifa,1 hr 30 min - 2 hr 20 min
+569,"HaGanim St.  14,Haifa",1 hr 30 min - 2 hr 20 min
+570,Moriah Avenue Haifa,1 hr 30 min - 2 hr 30 min
+571,Yad LaBanim Road Haifa,1 hr 30 min - 2 hr 20 min
+572,"Khaviva Reik St.  2,Haifa",1 hr 30 min - 2 hr 20 min
+573,"Geula St.  49,Haifa",1 hr 30 min - 2 hr 20 min
+574,Shmuel Ben Shabat St. Haifa,1 hr 30 min - 2 hr 20 min
+575,"Ruth St.  14,Haifa",1 hr 40 min - 2 hr 30 min
+576,"Alexander Yannai St.  50,Haifa",1 hr 40 min - 2 hr 30 min
+577,Irus St. Kiryat Yam,1 hr 40 min - 2 hr 30 min
+578,Khanita St. Haifa,1 hr 30 min - 2 hr 20 min
+579,Mordei ha-Getaot St. Nesher,1 hr 30 min - 2 hr 20 min
+580,"Derech HaAtsmaut  41,Haifa",1 hr 30 min - 2 hr 20 min
+581,"Derech HaAtsmaut  134,Haifa",1 hr 40 min - 2 hr 30 min
+582,"Hativat Carmeli St.  43,Haifa",1 hr 30 min - 2 hr 20 min
+583,HaHayil St. Haifa,1 hr 40 min - 2 hr 30 min
+584,"Arlozorov St.  47,Haifa",1 hr 30 min - 2 hr 20 min
+585,"Hativat Carmeli St.  39,Haifa",1 hr 30 min - 2 hr 20 min
+586,Yad LaBanim Road Haifa,1 hr 30 min - 2 hr 20 min
+587,Hativat Carmeli St. Haifa,1 hr 30 min - 2 hr 20 min
+588,Almog St. Tirat Carmel,1 hr 40 min - 2 hr 20 min
+589,Herzl St. Haifa,1 hr 30 min - 2 hr 20 min
+590,Doctor Nakhum Shimkin St. Haifa,1 hr 40 min - 2 hr 30 min
+591,David Elazar St. Haifa,NA
+592,"Sahlav  1,Tirat Carmel",1 hr 40 min - 2 hr 20 min
+593,Ahad HaAm St. Haifa,1 hr 30 min - 2 hr 20 min
+594,Yad LaBanim Road Haifa,1 hr 30 min - 2 hr 20 min
+595,Arye Karukh St. Haifa,1 hr 40 min - 2 hr 30 min
+596,Yad LaBanim Road Haifa,1 hr 30 min - 2 hr 20 min
+597,"HaNassi Boulevard  111,Haifa",1 hr 40 min - 2 hr 30 min
+598,HaHayil St. Haifa,1 hr 40 min - 2 hr 30 min
+599,Arie (Luba) Eliav St. Haifa,1 hr 30 min - 2 hr 20 min
+600,Zalman Shneur St. Haifa,1 hr 40 min - 2 hr 30 min
+601,"HaRav Maimon St.  46,Haifa",1 hr 30 min - 2 hr 20 min
+602,Yad LaBanim Road Haifa,1 hr 30 min - 2 hr 20 min
+603,Shabtai Levi St. Haifa,1 hr 40 min - 2 hr 20 min
+604,Khalamish St. Haifa,1 hr 30 min - 2 hr 20 min
+605,"Arie (Luba) Eliav St.  18,Haifa",1 hr 30 min - 2 hr 20 min
+606,"Arie (Luba) Eliav St.  20,Haifa",1 hr 30 min - 2 hr 20 min
+607,Khanita St. Haifa,1 hr 30 min - 2 hr 20 min
+608,Derech Allenby Haifa,1 hr 40 min - 2 hr 20 min
+609,Yishak Shamir St. Tirat Carmel,1 hr 40 min - 2 hr 20 min
+610,Barzilai St. Haifa,NA
+611,HaOgen St. Tirat Carmel,1 hr 40 min - 2 hr 20 min
+612,Tel Khai St. Haifa,1 hr 30 min - 2 hr 30 min
+613,Gush Etsyon St. Haifa,1 hr 30 min - 2 hr 20 min
+614,Almog St. Tirat Carmel,1 hr 40 min - 2 hr 20 min
+615,HaShemesh St. Haifa,1 hr 30 min - 2 hr 20 min
+616,Ha-Sar Shitrit St. Haifa,1 hr 30 min - 2 hr 30 min
+617,"Yokhanan Ratner St.  41,Haifa",1 hr 30 min - 2 hr 20 min
+618,HaYam Road Haifa,1 hr 40 min - 2 hr 20 min
+619,HaRav Ohana St. Haifa,1 hr 30 min - 2 hr 20 min
+620,Ha-Nesher St. Haifa,1 hr 40 min - 2 hr 30 min
+621,Yosef St. Haifa,1 hr 40 min - 2 hr 30 min
+622,Mivtsa Uvda St. Beer Sheva,1 hr - 1 hr 30 min
+623,"Sderot Zalman Shazar  16,Nahariya",1 hr 50 min - 2 hr 50 min
+624,"Ha-Tishbi St.  36,Haifa",NA
+625,"Sderot Ben Gurion  2,Netanya",NA
+626,Bnei Binyamin St. Netanya,1 hr 5 min - 1 hr 50 min
+627,"Nitsa Boulevard  26,Netanya",1 hr 10 min - 1 hr 50 min
+628,Shlomo ha-Melekh St. Netanya,1 hr 10 min - 1 hr 50 min
+629,"Ha-Gila St.  5,Netanya",1 hr 5 min - 1 hr 50 min
+630,"Nitsa Boulevard  26,Netanya",1 hr 10 min - 1 hr 50 min
+631,"Nitsa Boulevard  26,Netanya",1 hr 10 min - 1 hr 50 min
+632,"Etrog St.  8,Caesarea",NA
+633,Ha-Eshel St. Herzliya,50 min - 1 hr 20 min
+634,"David HaMelech St.  8,Netanya",1 hr 10 min - 1 hr 50 min
+635,Shlomo ha-Melekh St. Netanya,1 hr 10 min - 1 hr 50 min
+636,"Ha-Rina St.  9,Netanya",1 hr 5 min - 1 hr 50 min
+637,"Ha-Shamayim St.  25,Caesarea",1 hr 25 min - 2 hr 10 min
+638,"Bnei Binyamin St.  17,Netanya",1 hr 5 min - 1 hr 50 min
+639,"Nitsa Boulevard  8,Netanya",1 hr 10 min - 1 hr 50 min
+640,HaZohar St. Netanya,1 hr 5 min - 1 hr 50 min
+641,"Archi Sherman St.  3,Netanya",1 hr 5 min - 1 hr 50 min
+642,"Kehilat Tsefat St.  1,Netanya",1 hr 5 min - 1 hr 50 min
+643,"Nitsa Boulevard  20,Netanya",1 hr 10 min - 1 hr 50 min
+644,"Pierre Koenig St.  7,Netanya",1 hr 5 min - 1 hr 50 min
+645,Shlomo ha-Melekh St. Netanya,1 hr 10 min - 1 hr 50 min
+646,"HaDalyot St.  10,Netanya",1 hr 5 min - 1 hr 40 min
+647,"Aviv St.  5,Caesarea",1 hr 25 min - 2 hr 10 min
+648,"Nitsa Boulevard  20,Netanya",1 hr 10 min - 1 hr 50 min
+649,"Bnei Binyamin St.  17,Netanya",1 hr 5 min - 1 hr 50 min
+650,"Pierre Koenig St.  7,Netanya",1 hr 5 min - 1 hr 50 min
+651,"Nitsa Boulevard  16,Netanya",1 hr 10 min - 1 hr 50 min
+652,"Shlomo ha-Melekh St.  4,Herzliya",50 min - 1 hr 20 min
+653,"HaTehila St.  26,Netanya",1 hr 5 min - 1 hr 50 min
+654,"Ehud Manor St.  18,Netanya",1 hr 5 min - 1 hr 40 min
+655,"Ha-Gila St.  5,Netanya",1 hr 5 min - 1 hr 50 min
+656,"Bnei Binyamin St.  7,Netanya",1 hr 5 min - 1 hr 50 min
+657,"Bnei Binyamin St.  41,Netanya",1 hr 5 min - 1 hr 50 min
+658,"Nitsa Boulevard  26,Netanya",1 hr 10 min - 1 hr 50 min
+659,"Pierre Koenig St.  11,Netanya",1 hr 5 min - 1 hr 50 min
+660,"Ha-Gila St.  5,Netanya",1 hr 5 min - 1 hr 50 min
+661,"Nitsa Boulevard  16,Netanya",1 hr 10 min - 1 hr 50 min
+662,"Sderot Oved Ben Ami  21,Netanya",1 hr 5 min - 1 hr 50 min
+663,Bialik St. Petah Tikva,40 min - 1 hr 10 min
+664,HaNeviim St. Petah Tikva,35 min - 1 hr 5 min
+665,Yosef Aharonovich St. Petah Tikva,40 min - 1 hr 15 min
+666,HaNeviim St. Petah Tikva,35 min - 1 hr 5 min
+667,Mivtsa Dekel St. Petah Tikva,
+668,Rothschild St. Petah Tikva,40 min - 1 hr 10 min
+669,HaRav Uziel St. Petah Tikva,40 min - 1 hr 10 min
+670,Balfour St. Petah Tikva,40 min - 1 hr 10 min
+671,Balfour St. Petah Tikva,40 min - 1 hr 10 min
+672,Zeev Orlov St. Petah Tikva,45 min - 1 hr 20 min
+673,Balfour St. Petah Tikva,40 min - 1 hr 10 min
+674,Rothschild St. Petah Tikva,40 min - 1 hr 10 min
+675,Balfour St. Petah Tikva,40 min - 1 hr 10 min
+676,Nahalat Tsvi St. Petah Tikva,40 min - 1 hr 15 min
+677,Nahalat Tsvi St. Petah Tikva,40 min - 1 hr 15 min
+678,Rothschild St. Petah Tikva,40 min - 1 hr 10 min
+679,Kam St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+680,Aba Akhimeir St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+681,Yehuda Burla St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+682,"Uziel St.  114,Ramat Gan",35 min - 1 hr 5 min
+683,"Simtat Yiftach  8,Ramat Gan",35 min - 1 hr 5 min
+684,"Yitshak Sadeh St.  14,Netanya",1 hr 10 min - 1 hr 50 min
+685,"HaToren St.  14,Yavne",14 - 24 min
+686,Ha-Shvatim St. Bat Yam,22 - 40 min
+687,"Yohanan HaSandlar St.  2,Bat Yam",22 - 40 min
+688,Balfour St. Bat Yam,
+689,Avishai St. Beer Sheva,55 min - 1 hr 30 min
+690,Ha-Rav Simkha Asaf St. Beer Sheva,55 min - 1 hr 25 min
+691,Ein Gedi St. Beer Sheva,1 hr - 1 hr 40 min
+692,Menahem Dunkelblum St. Beer Sheva,55 min - 1 hr 25 min
+693,Rahvat Mivtsa Kedem Beersheba,55 min - 1 hr 25 min
+694,Refael Klatchkin St. Beer Sheva,55 min - 1 hr 25 min
+695,Max Brod St. Beer Sheva,1 hr - 1 hr 30 min
+696,Refael Klatchkin St. Beer Sheva,55 min - 1 hr 25 min
+697,"Abarbanel St.  14,Beer Sheva",1 hr - 1 hr 30 min
+698,Hahida St. Beer Sheva,
+699,Yosef Ben Matityahu St. Beer Sheva,55 min - 1 hr 25 min
+700,Basel St. Beer Sheva,1 hr - 1 hr 40 min
+701,Adler St. Beer Sheva,55 min - 1 hr 30 min
+702,Reuven Rubin St. Be'er Sheva,55 min - 1 hr 30 min
+703,Mivtsa Uvda St. Beer Sheva,1 hr - 1 hr 30 min
+704,Moshe Dayan St. Beer Sheva,55 min - 1 hr 25 min
+705,Ha-Talmud St. Beer Sheva,55 min - 1 hr 25 min
+706,Derech Metsada Beersheba,55 min - 1 hr 30 min
+707,Ha-Melakhim St. Beer Sheva,55 min - 1 hr 30 min
+708,"Benjamin Minz St.  28,Be'er Sheva",1 hr - 1 hr 30 min
+709,"Pushkin St.  16,Tel Aviv-Yafo",28 - 50 min
+710,"Huna St.  20,Tel Aviv-Yafo",28 - 50 min
+711,"Yitshak Sadeh St.  4,Bat Yam",
+712,Sheshet ha-Yamim St. Bat Yam,24 - 45 min
+713,Argov St. Holon,26 - 45 min
+714,Balfour St. Bat Yam,
+715,Sapir St. Ramla,16 - 30 min
+716,Topaz St. Beer Yaakov,16 - 35 min
+717,Sapir St. Beer Yaakov,16 - 35 min
+718,Sa Nes St. Beer Yaakov,16 - 40 min
+719,Ha-Brosh St. Beer Yaakov,16 - 40 min
+720,Leah Goldberg St. Beer Yaakov,18 - 40 min
+721,HaBanim St. Beer Yaakov,16 - 30 min
+722,Efrayim Kishon St. Beer Yaakov,
+723,Odem St. Beer Yaakov,16 - 35 min
+724,Leah Goldberg St. Beer Yaakov,18 - 40 min
+725,Simtat HaAnkor Beer Yaakov,18 - 35 min
+726,Moshe Dayan St. Ramla,
+727,Yosi Banai St. Ramla,14 - 28 min
+728,Moshe Dayan St. Ramla,
+729,Sderot Ben Gurion Ramla,14 - 35 min
+730,Odem St. Beer Yaakov,16 - 35 min
+731,Dudo Dotan St. Rishon LeTsiyon,20 - 35 min
+732,Ha-Rama St. Ramla,
+733,Simha Holtsberg St. Ramla,
+734,HaRav Kuk St. Ramla,18 - 40 min
+735,HaEtrog St. Ramla,16 - 35 min
+736,Uzi Hitman St. Ramla,
+737,Dudo Dotan St. Rishon LeTsiyon,20 - 35 min
+738,Meir Ariel St. Ramla,14 - 28 min
+739,Topaz St. Beer Yaakov,16 - 35 min
+740,Uzi Hitman St. Ramla,
+741,HaNakar St. Beer Yaakov,16 - 35 min
+742,Ehud Manor St. Ramla,14 - 30 min
+743,Sderot Shlomo HaMelech Lod,
+744,"Moshe Levi  6,Ramla",16 - 30 min
+745,Shoshana Damari St. Ramla,12 - 26 min
+746,Topaz St. Beer Yaakov,16 - 35 min
+747,Nakhum Guttman St. Ramla,16 - 30 min
+748,Dudo Dotan St. Rishon LeTsiyon,20 - 35 min
+749,HaAlonim Boulevard Beer Yaakov,
+750,HaShoshanim St. Beer Yaakov,18 - 35 min
+751,HaYasmin St. Rehovot,5 - 6 min
+752,Bareket St. Be'er Ya'akov,16 - 30 min
+753,Ha-Brosh St. Beer Yaakov,16 - 40 min
+754,Har HaTsofim St. Rehovot,10 - 18 min
+755,HaAlonim Boulevard Beer Yaakov,
+756,HaZayit St. Beer Yaakov,20 - 40 min
+757,Harduf St. Ramla,16 - 35 min
+758,Ehud Manor St. Ramla,14 - 30 min
+759,"onyx  14,Be'er Ya'akov",NA
+760,Ha-Dror St. Yavne,12 - 20 min
+761,Dukhifat St. Beer Yaakov,16 - 35 min
+762,Moshe Levi Ramla,16 - 30 min
+763,HaMashot St. Yavne,14 - 26 min
+764,Inbar St. Rehovot,4 - 6 min
+765,Avner Ben Ner St. Netanya,1 hr 10 min - 1 hr 50 min
+766,HaMigdal HaLavan St. Ramla,14 - 28 min
+767,"Lavontin St.  38,Netanya",1 hr 10 min - 1 hr 50 min
+768,"Agam Dalton St.  18,Ashkelon",45 min - 1 hr 15 min
+769,Ha-Rav Nisanbaum St. Bat Yam,24 - 45 min
+770,Ofra Haza Bat Yam,24 - 45 min
+771,Weizman St. Bat Yam,24 - 40 min
+772,HaPalmach St. Bat Yam,24 - 40 min
+773,Yitshak Sadeh St. Bat Yam,
+774,"Rothschild St.  2,Holon",24 - 45 min
+775,HaShikma St. Bat Yam,24 - 45 min
+776,"Shalom Aleichem St.  1,Bat Yam",26 - 50 min
+777,Shalom Aleichem St. Bat Yam,26 - 50 min
+778,Derech Ben Gurion Bat Yam,
+779,Zrubavel St. Bat Yam,28 - 50 min
+780,Ha-Tsipornim St. Bat Yam,22 - 40 min
+781,Moshe Sharet St. Holon,20 - 40 min
+782,Herutenu St. Tel Aviv-Yafo,28 - 45 min
+783,Racine St. Tel Aviv-Yafo,26 - 50 min
+784,Anilevich St. Bat Yam,24 - 45 min
+785,"HaRav Rubinstein St.  21,Tel Aviv-Yafo",24 - 40 min
+786,Eli Cohen St. Bat Yam,22 - 40 min
+787,Balfour St. Bat Yam,
+788,Yitshak Sadeh St. Bat Yam,
+789,Moshe Sharet St. Bat Yam,24 - 45 min
+790,Rothschild St. Holon,26 - 45 min
+791,Re'uven Barkat St. Holon,26 - 50 min
+792,"Shabazi St.  9,Ramla",16 - 40 min
+793,Yonatan Havafsi St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+794,Amsterdam St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+795,"Ha-Rav Avraham Mordekhai Weingarten St.  17,Jerusalem",55 min - 1 hr 40 min
+796,"HaTsalvanim St.  34,Haifa",1 hr 40 min - 2 hr 30 min
+797,"Brandeis St.  5,Hadera",1 hr 10 min - 1 hr 50 min
+798,Shapira St. Petah Tikva,40 min - 1 hr 10 min
+799,Shapira St. Petah Tikva,40 min - 1 hr 10 min
+800,Yehuda ha-Levi St. Petah Tikva,40 min - 1 hr 15 min
+801,Montefiore St. Petah Tikva,45 min - 1 hr 15 min
+802,"Maapilei Egoz St.  35,Tel Aviv",30 - 55 min
+803,"Shlomo Ibn Gabirol St.  74,Tel Aviv-Yafo",40 min - 1 hr 10 min
+804,"Khevron St.  8,Tel Aviv-Yafo",35 min - 1 hr 10 min
+805,"HaHashmonaim St.  129,Tiberias",1 hr 40 min - 2 hr 40 min
+806,Yitshak Ben Zvi St. Ramla,16 - 35 min
+807,Shapira St. Ramla,16 - 35 min
+808,Amichai St. Ramla,16 - 35 min
+809,Tlamim St. Lod,24 - 50 min
+810,Meir Binet St. Ramla,16 - 35 min
+811,"Ovadya mi-Bartenura St.  10,Tel Aviv-Yafo",45 min - 1 hr 15 min
+812,"Zlatopolski St.  17,Tel Aviv-Yafo",45 min - 1 hr 15 min
+813,"Derech Ben Gurion  75,Bat Yam",26 - 50 min
+814,"HaMigdal HaLavan St.  4,Ramla",14 - 28 min
+815,"Moshe Dayan St.  6,Ramla",16 - 35 min
+816,HaMigdal HaLavan St. Ramla,14 - 28 min
+817,"Eliezer Kaplan St.  11,Ramla",18 - 40 min
+818,"Gershon Shatz St.  11,Ramla",16 - 35 min
+819,"Masada St.  36,Ramla",14 - 28 min
+820,"Yitshak Ben Zvi St.  4,Ramla",16 - 35 min
+821,"Masada St.  3,Ramla",12 - 26 min
+822,H.N. Bialik St. Ramla,12 - 28 min
+823,Kinneret St. Ramla,14 - 28 min
+824,Abba Hillel Silver St. Netanya,1 hr 10 min - 1 hr 50 min
+825,Yirmiyahu St. Netanya,1 hr 5 min - 1 hr 40 min
+826,Uzi Hitman St. Netanya,1 hr 5 min - 1 hr 40 min
+827,Shmuel HaNatziv St. Netanya,1 hr 10 min - 1 hr 50 min
+828,Shmuel HaNatziv St. Netanya,1 hr 10 min - 1 hr 50 min
+829,Shmuel HaNatziv St. Netanya,1 hr 10 min - 1 hr 50 min
+830,Shmuel HaNatziv St. Netanya,1 hr 10 min - 1 hr 50 min
+831,Uzi Hitman St. Netanya,1 hr 5 min - 1 hr 40 min
+832,Atsag St. Netanya,1 hr 10 min - 1 hr 50 min
+833,David HaMelech St. Netanya,1 hr 10 min - 1 hr 50 min
+834,Smilanski St. Netanya,1 hr 10 min - 1 hr 50 min
+835,Yehuda Halevi St. Netanya,NA
+836,Uzi Hitman St. Netanya,1 hr 5 min - 1 hr 40 min
+837,HaKalir St. Netanya,1 hr 5 min - 1 hr 40 min
+838,Yehuda Halevi St. Netanya,1 hr 10 min - 1 hr 50 min
+839,Eliyahu Golomb St. Netanya,
+840,Trumpeldor St. Netanya,1 hr 10 min - 1 hr 50 min
+841,Arik Lavi St. Netanya,1 hr 5 min - 1 hr 40 min
+842,Mishmar HaYarden St. Netanya,1 hr 10 min - 1 hr 50 min
+843,Uzi Hitman St. Netanya,1 hr 5 min - 1 hr 40 min
+844,"Derech Don Yitshak Abarbanel  19,Netanya",1 hr 10 min - 1 hr 50 min
+845,Uzi Hitman St. Netanya,1 hr 5 min - 1 hr 40 min
+846,Sderot Binyamin Netanya,
+847,Arik Lavi St. Netanya,1 hr 5 min - 1 hr 40 min
+848,Nordau Max St. Netanya,1 hr 5 min - 1 hr 40 min
+849,Levi Eshkol St. Netanya,1 hr 5 min - 1 hr 40 min
+850,Agam Kinneret St. Netanya,1 hr 5 min - 1 hr 40 min
+851,Ha-Marganiyot St. Netanya,1 hr 5 min - 1 hr 40 min
+852,Khartsit St. Netanya,1 hr 5 min - 1 hr 40 min
+853,Menachem Begin St. Netanya,1 hr 5 min - 1 hr 40 min
+854,Uzi Hitman St. Netanya,1 hr 5 min - 1 hr 40 min
+855,Zalman Shazar St. Netanya,1 hr 5 min - 1 hr 40 min
+856,Uzi Hitman St. Netanya,1 hr 5 min - 1 hr 40 min
+857,Yitskhak Katsenelson St. Netanya,1 hr 5 min - 1 hr 40 min
+858,Shmurat Nahal Bsur St. Netanya,1 hr 5 min - 1 hr 40 min
+859,"Sderot Hayim Weizman  98,Netanya",1 hr 10 min - 1 hr 50 min
+860,Khativat Alexandroni St. Netanya,1 hr 5 min - 1 hr 40 min
+861,Rishon LeTsiyon St. Netanya,1 hr 10 min - 1 hr 50 min
+862,"Derekh Brekhot ha-Yaar  110,Beit Zait",35 min - 1 hr
+863,"Hamakabim St.  5,Givat Zeev",40 min - 1 hr 10 min
+864,Ben Gurion St. Petah Tikva,40 min - 1 hr 5 min
+865,HaRav Pinzi St. Petah Tikva,35 min - 1 hr 5 min
+866,"Katz Michal Leib St.  72,Petah Tikva",40 min - 1 hr 10 min
+867,Ha-Tishim Ve-Shalosh St. Petah Tikva,50 min - 1 hr 20 min
+868,Degel Reuven St. Petah Tikva,40 min - 1 hr 10 min
+869,Arieh Ben Eliezer St. Petah Tikva,40 min - 1 hr 10 min
+870,Rivka Novik St. Petah Tikva,40 min - 1 hr 10 min
+871,Yosef Nakar St. Petah Tikva,40 min - 1 hr 5 min
+872,Ben Gurion St. Petah Tikva,40 min - 1 hr 5 min
+873,Idelmann St. Petah Tikva,40 min - 1 hr 10 min
+874,Trumpeldor St. Petah Tikva,40 min - 1 hr 10 min
+875,Ezra Unehemiah St. Petah Tikva,40 min - 1 hr 5 min
+876,Ha-Rav Unterman St. Petah Tikva,45 min - 1 hr 15 min
+877,Khana Szenes St. Petah Tikva,40 min - 1 hr 10 min
+878,David Raziel St. Petah Tikva,40 min - 1 hr 5 min
+879,David Simchi St. Petah Tikva,40 min - 1 hr 5 min
+880,Snir St. Nehalim,35 min - 1 hr 15 min
+881,Aminach St. Petah Tikva,40 min - 1 hr 15 min
+882,Dov Hoz St. Petah Tikva,40 min - 1 hr 10 min
+883,Shapira St. Petah Tikva,40 min - 1 hr 10 min
+884,Halper St. Bat Yam,26 - 50 min
+885,Balfour St. Bat Yam,
+886,Yisrael Ben Tsiyon St. Bat Yam,26 - 50 min
+887,Jabotinsky St. Bat Yam,28 - 50 min
+888,Hermon St. Yavne,12 - 22 min
+889,Ahad HaAm St. Ramat Gan,30 - 55 min
+890,Shalom Aleichem St. Bat Yam,26 - 50 min
+891,Mendele Mocher Sforim St. Bat Yam,26 - 45 min
+892,Ahad HaAm St. Ramat Gan,30 - 55 min
+893,Mifrats Shlomo St. Holon,20 - 40 min
+894,Bar Yehuda St. Bat Yam,
+895,"Alterman St.  7,Bat Yam",26 - 50 min
+896,Bar Yehuda St. Bat Yam,
+897,Ha-Hagana St. Bat Yam,26 - 45 min
+898,Albert Einstein St. Lod,20 - 40 min
+899,HaShikma St. Bat Yam,24 - 45 min
+900,Maharozet St. Tel Aviv-Yafo,24 - 40 min
+901,Aplaton St. Tel Aviv-Yafo,26 - 45 min
+902,Ha-Maapilim St. Holon,22 - 40 min
+903,Tzvi Tadmor Holon,24 - 50 min
+904,Galinit St. Tel Aviv-Yafo,26 - 45 min
+905,Aplaton St. Tel Aviv-Yafo,26 - 45 min
+906,Shivtei Israel St. Tel Aviv-Yafo,26 - 45 min
+907,Ha-Dekel St. Holon,24 - 40 min
+908,Shaul Hadadi St. Bat Yam,24 - 40 min
+909,Arba Onot St. Lod,24 - 50 min
+910,Peterson St. Tel Aviv-Yafo,30 - 55 min
+911,Beit Lekhem St. Holon,24 - 45 min
+912,Halper St. Bat Yam,26 - 50 min
+913,Yehoshua Hankin St. Holon,
+914,Knei Suf St. Lod,20 - 45 min
+915,Yehoshua Hankin St. Holon,
+916,Hasar Pinkas St. Bat Yam,
+917,HaShikma St. Bat Yam,24 - 45 min
+918,Yehoshua Hankin St. Holon,
+919,Aharon Buganim St. Ramla,16 - 35 min
+920,HaRav Rubinstein St. Tel Aviv-Yafo,24 - 40 min
+921,Ha-Pardes St. Holon,26 - 45 min
+922,Ein ha-Kore St. Rishon LeTsiyon,18 - 35 min
+923,Trumpeldor St. Bnei Brak,40 min - 1 hr 10 min
+924,Daniel St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+925,HaReshet St. Yavne,14 - 24 min
+926,Shlomo Ben Yosef St. Bat Yam,24 - 45 min
+927,Yerushalayim St. Bat Yam,24 - 45 min
+928,Nahal Tzalim Sderot,20 - 40 min
+929,Eilat St. Holon,24 - 45 min
+930,Haviva Reik St. Holon,20 - 40 min
+931,Ha-Khim St. Holon,24 - 40 min
+932,Mivtsa Sinai St. Bat Yam,22 - 40 min
+933,HaHashmonaim St. Bat Yam,24 - 45 min
+934,Ernest Hugo St. Holon,24 - 45 min
+935,Herzl St. Bat Yam,
+936,Mendele Mocher Sforim St. Bat Yam,26 - 45 min
+937,Hartuv St. Tel Aviv-Yafo,30 - 55 min
+938,Ramkhal St. Holon,22 - 40 min
+939,David Elazar St. Holon,24 - 45 min
+940,HaGalil St. Gedera,16 - 28 min
+941,Zalman Maisel St. Bat Yam,24 - 45 min
+942,"Amatsya St.  1,Jerusalem",55 min - 1 hr 30 min
+943,"Arik Einstein  3,Bat Yam",
+944,"Yohanan HaSandlar St.  1,Bat Yam",22 - 40 min
+945,"Yitshak Sadeh St.  1,Bat Yam",24 - 45 min
+946,"Yitshak Sadeh St.  6,Bat Yam",24 - 45 min
+947,"Arik Einstein  3,Bat Yam",
+948,"Arik Einstein  3,Bat Yam",
+949,"Yohanan HaSandlar St.  6,Bat Yam",
+950,"Yitshak Sadeh St.  8,Bat Yam",
+951,"HaNeviim St.  1,Ashdod",26 - 50 min
+952,"Yehuda Halevi St.  22,Ashdod",28 - 55 min
+953,"Remba St.  15,Ramat Gan",40 min - 1 hr 5 min
+954,"Maccabim St.  28,Pardes Hanna-Karkur",1 hr 10 min - 2 hr
+955,"Elazar Fridman St.  7,Petah Tikva",40 min - 1 hr 10 min
+956,"Max Nordau St.  31,Bat Yam",24 - 50 min
+957,"Ha-Zamir St.  7,Yavne",12 - 22 min
+958,"HaShikma St.  2,Zikhron Yaakov",1 hr 25 min - 2 hr 10 min
+959,Ehud Manor St. Netanya,1 hr 5 min - 1 hr 40 min
+960,Sderot Ben Gurion Netanya,1 hr 5 min - 1 hr 40 min
+961,"Archi Sherman St.  5,Netanya",1 hr 5 min - 1 hr 50 min
+962,Natan Yonatan St. Netanya,1 hr 5 min - 1 hr 40 min
+963,Pierre Koenig St. Netanya,1 hr 5 min - 1 hr 50 min
+964,"Pierre Koenig St.  37,Netanya",1 hr 5 min - 1 hr 50 min
+965,"Yosef Lapid St.  1,Netanya",1 hr 5 min - 1 hr 50 min
+966,Sachlav St. Netanya,1 hr 5 min - 1 hr 40 min
+967,"Masaryk St.  1,Netanya",1 hr 10 min - 1 hr 50 min
+968,Bnei Binyamin St. Netanya,1 hr 5 min - 1 hr 50 min
+969,"Sderot Ben Gurion  2,Netanya",1 hr 10 min - 1 hr 50 min
+970,Natan Yonatan St. Netanya,1 hr 5 min - 1 hr 40 min
+971,Sderot Ben Gurion Netanya,1 hr 5 min - 1 hr 40 min
+972,"Bnei Binyamin St.  7,Netanya",1 hr 5 min - 1 hr 50 min
+973,"Shlomo Ben Yosef St.  31,Givat Shmuel",40 min - 1 hr 5 min
+974,Abba Ahimeir St. Ramla,
+975,"Beer Ora St.  3,Ramat Gan",35 min - 1 hr 5 min
+976,"HaRabi mi-Ruzhin St.  10,Ramat Gan",35 min - 1 hr 10 min
+977,"HaRabi mi-Ruzhin St.  10,Ramat Gan",35 min - 1 hr 10 min
+978,"Beer Ora St.  3,Ramat Gan",35 min - 1 hr 5 min
+979,"HaRabi mi-Ruzhin St.  10,Ramat Gan",35 min - 1 hr 10 min
+980,"HaRabi mi-Ruzhin St.  10,Ramat Gan",35 min - 1 hr 10 min
+981,"Beer Ora St.  3,Ramat Gan",35 min - 1 hr 5 min
+982,"Zerakh St.  28,Tel Aviv-Yafo",30 - 55 min
+983,"Golomb St.  8,Ramat Gan",40 min - 1 hr 10 min
+984,"Barkai St.  6,Ramat Gan",40 min - 1 hr 10 min
+985,"Haroe St.  192,Ramat Gan",35 min - 1 hr 5 min
+986,"Harimon St.  6,Givat Shmuel",40 min - 1 hr 10 min
+987,"Bernstein-Cohen St.  11,Tel Aviv-Yafo",40 min - 1 hr 15 min
+988,"Tchernikhovski St.  47,Tel Aviv-Yafo",40 min - 1 hr 15 min
+989,"Rambam St.  3,Givatayim",35 min - 1 hr
+990,"David Ben Gurion Road  126,Ramat Gan",40 min - 1 hr 15 min
+991,"HaNasi St.  16,Givat Shmuel",40 min - 1 hr 10 min
+992,Ha-Tavor St. Ganei Tikva,40 min - 1 hr 10 min
+993,"Truman St.  13,Ramat Gan",35 min - 1 hr 10 min
+994,"Mirkin St.  2,Ramat Gan",40 min - 1 hr 10 min
+995,"Simtat Tsvi Fixler  3,Giv'at Shmu'el",35 min - 1 hr 5 min
+996,"Haroe St.  203,Ramat Gan",35 min - 1 hr 5 min
+997,Beeri St. Netanya,
+998,"Arye Motskin St.  5,Netanya",1 hr 5 min - 1 hr 40 min
+999,"Arik Lavi St.  16,Netanya",1 hr 5 min - 1 hr 40 min
+1000,"Agam Kinneret St.  12,Netanya",1 hr 5 min - 1 hr 40 min
+1001,"Shmurat Nahal Bsur St.  3,Netanya",1 hr 5 min - 1 hr 40 min
+1002,Beeri St. Netanya,
+1003,Beilinson St. Netanya,1 hr 10 min - 1 hr 50 min
+1004,Baruch Ram St. Netanya,1 hr 10 min - 1 hr 50 min
+1005,"Yitshak Grinboim St.  39,Netanya",NA
+1006,"Derech Don Yitshak Abarbanel  19,Netanya",NA
+1007,Alonei Aba St. Netanya,1 hr 10 min - 1 hr 50 min
+1008,HaRav Reines St. Netanya,
+1009,Hahedva St. Netanya,1 hr 5 min - 1 hr 50 min
+1010,Rabbi Shalom Ifargan St. Netanya,1 hr 5 min - 1 hr 40 min
+1011,Yehezkel Ben Bozi St. Netanya,1 hr 5 min - 1 hr 40 min
+1012,Nakhum St. Netanya,NA
+1013,HaHasida St. Netanya,1 hr 10 min - 1 hr 50 min
+1014,HaRav Reines St. Netanya,
+1015,Trumpeldor St. Netanya,1 hr 10 min - 1 hr 50 min
+1016,HaRav Maze St. Netanya,1 hr 10 min - 1 hr 50 min
+1017,Sderot Hayim Weizman Netanya,1 hr 10 min - 1 hr 50 min
+1018,"Moshe Hess St.  15,Netanya",1 hr 10 min - 1 hr 50 min
+1019,HaRav Yaakov Rakah St. Netanya,1 hr 10 min - 1 hr 50 min
+1020,Beeri St. Netanya,
+1021,Derech Raziel Netanya,1 hr 10 min - 1 hr 50 min
+1022,Balfour St. Netanya,1 hr 10 min - 1 hr 50 min
+1023,Sderot Binyamin Netanya,
+1024,Sderot Hayim Weizman Netanya,1 hr 10 min - 1 hr 50 min
+1025,Arieh Ben Eliezer St. Netanya,1 hr 10 min - 1 hr 50 min
+1026,Sderot Binyamin Netanya,
+1027,Shai Agnon St. Netanya,1 hr 5 min - 1 hr 40 min
+1028,Balfour St. Netanya,1 hr 10 min - 1 hr 50 min
+1029,Rabbi Akiva St. Netanya,1 hr 10 min - 1 hr 50 min
+1030,Sderot Ben Gurion Netanya,1 hr 5 min - 1 hr 40 min
+1031,HaKalir St. Netanya,1 hr 5 min - 1 hr 40 min
+1032,Giyora Yoseftal St. Netanya,1 hr 5 min - 1 hr 50 min
+1033,Sderot Jabotinsky Netanya,1 hr 5 min - 1 hr 50 min
+1034,Ha-Tor St. Netanya,1 hr 10 min - 1 hr 50 min
+1035,Rambam St. Netanya,1 hr 5 min - 1 hr 50 min
+1036,Yehuda Halevi St. Netanya,1 hr 10 min - 1 hr 50 min
+1037,Aluf Asaf Simhoni St. Netanya,1 hr 10 min - 1 hr 50 min
+1038,Tchernikhovski St. Netanya,1 hr 10 min - 1 hr 50 min
+1039,Ha-Dekel St. Netanya,1 hr 5 min - 1 hr 50 min
+1040,Dov Gruner St. Netanya,1 hr 10 min - 1 hr 50 min
+1041,Avraham Abu Shdid St. Netanya,1 hr 10 min - 1 hr 50 min
+1042,Gidon St. Netanya,1 hr 10 min - 1 hr 50 min
+1043,HaKalir St. Netanya,1 hr 5 min - 1 hr 40 min
+1044,HaRav Gad Mahluf St. Netanya,1 hr 10 min - 1 hr 50 min
+1045,Shmurat Nakhal Banias St. Netanya,1 hr 5 min - 1 hr 40 min
+1046,Rambam St. Netanya,1 hr 5 min - 1 hr 50 min
+1047,Professor Schorr St. Netanya,1 hr 10 min - 1 hr 50 min
+1048,Yair Avraham Stern St. Netanya,1 hr 10 min - 1 hr 50 min
+1049,Nakhum St. Netanya,1 hr 5 min - 1 hr 50 min
+1050,Sderot Golda Meir Netanya,1 hr - 1 hr 40 min
+1051,HaKalir St. Netanya,1 hr 5 min - 1 hr 40 min
+1052,"HaTehila St.  10,Netanya",1 hr 5 min - 1 hr 50 min
+1053,Archi Sherman St. Netanya,1 hr 5 min - 1 hr 50 min
+1054,"Baruch Ram St.  23,Netanya",1 hr 10 min - 1 hr 50 min
+1055,"Yaakov Dori St.  4,Netanya",1 hr 5 min - 1 hr 50 min
+1056,"Nitsa Boulevard  26,Netanya",1 hr 10 min - 1 hr 50 min
+1057,"Menachem Begin St.  9,Netanya",1 hr 5 min - 1 hr 40 min
+1058,"Ha-Hagana St.  7,Bat Yam",26 - 45 min
+1059,"Mahal St.  59,Tel Aviv-Yafo",30 - 55 min
+1060,Geulim St. Holon,24 - 45 min
+1061,Ha-Rav Herzog St. Bat Yam,26 - 45 min
+1062,Nitsana St. Bat Yam,24 - 40 min
+1063,Ha-Sigalon St. Holon,24 - 45 min
+1064,Yavnieli St. Holon,26 - 45 min
+1065,Tsvi Shapira St. Holon,26 - 50 min
+1066,Reuven Barkat St. Holon,26 - 50 min
+1067,HaTsanhanim St. Holon,28 - 55 min
+1068,Ha-Sigalon St. Holon,24 - 45 min
+1069,"Ha-Rav Nisanbaum St.  37,Bat Yam",24 - 45 min
+1070,Tora VaAvoda St. Rishon LeTsiyon,20 - 40 min
+1071,Geulim St. Holon,24 - 45 min
+1072,Geulim St. Holon,24 - 45 min
+1073,Ha-Rav Nisanbaum St. Bat Yam,24 - 45 min
+1074,Tsvi Shapira St. Holon,26 - 50 min
+1075,Arlozorov St. Bat Yam,26 - 50 min
+1076,Shlomo Kaplanski St. Rishon LeTsiyon,16 - 26 min
+1077,HaRav Kapah St. Holon,24 - 40 min
+1078,Yavnieli St. Holon,26 - 45 min
+1079,Brazaville St. Holon,24 - 45 min
+1080,Yosef Aharonovich St. Holon,22 - 40 min
+1081,Arlozorov St. Holon,24 - 45 min
+1082,Neve Tzedek St. Tel Aviv,35 min - 1 hr 5 min
+1083,Bernstein-Cohen St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1084,Manne St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1085,Yona HaNavi St. Tel Aviv-Yafo,35 min - 1 hr 10 min
+1086,Ben Yehuda St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+1087,Zrubavel St. Tel Aviv-Yafo,30 min - 1 hr 5 min
+1088,Rembrandt St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1089,HaHashmonaim St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+1090,"Moriya  22,Ari'el",55 min - 1 hr 40 min
+1091,Yehuda Halevi St. Rishon LeTsiyon,20 - 40 min
+1092,"HaGdud Haivri St.  61,Rishon LeTsiyon",22 - 40 min
+1093,HaGdud Haivri St. Rishon LeTsiyon,
+1094,"HaShomer St.  14,Rishon LeTsiyon",18 - 35 min
+1095,HaMoran St. Rishon LeTsiyon,18 - 35 min
+1096,Tiomkin St. Rishon LeTsiyon,16 - 30 min
+1097,Pika St. Rishon LeTsiyon,22 - 40 min
+1098,Eliezer Balaban St. Rishon LeTsiyon,20 - 45 min
+1099,Ha-Golan St. Beer Yaakov,16 - 35 min
+1100,David Shimoni St. Rehovot,9 - 20 min
+1101,Yakinton St. Lod,20 - 45 min
+1102,HaGalil St. Haifa,1 hr 30 min - 2 hr 20 min
+1103,HaRav Kapah St. Holon,24 - 40 min
+1104,Mikve Yisrael St. Holon,26 - 50 min
+1105,Chayim Vital St. Tel Aviv-Yafo,28 - 50 min
+1106,"Eilat St.  43,Holon",24 - 45 min
+1107,HaShikma St. Bat Yam,24 - 45 min
+1108,HaGvaot St. Bat Yam,22 - 40 min
+1109,Arlozorov St. Bat Yam,26 - 50 min
+1110,Ha-Rav Herzog St. Bat Yam,26 - 45 min
+1111,Ha-Tavor St. Bat Yam,22 - 40 min
+1112,Memorial Gimel St. Bat Yam,26 - 45 min
+1113,"Eli Cohen St.  27,Bat Yam",22 - 40 min
+1114,"Rothschild St.  27,Rishon LeTsiyon",16 - 35 min
+1115,"Yaakov Sela St.  4,Tel Aviv-Yafo",30 - 55 min
+1116,"Ha-Tana Nakhum Ish Gamzu St.  123,Tiberias",1 hr 50 min - 2 hr 40 min
+1117,Shalom Aleichem St. Ashkelon,40 min - 1 hr 15 min
+1118,Ephraim Tsur St. Ashkelon,40 min - 1 hr 15 min
+1119,Shapira St. Ashkelon,45 min - 1 hr 20 min
+1120,Gyora Yoseftal St. Ashkelon,40 min - 1 hr 15 min
+1121,Sderot Montefiore Ashkelon,35 min - 1 hr 5 min
+1122,Mikha St. Ashkelon,40 min - 1 hr 10 min
+1123,Neve Shalom St. Ashkelon,40 min - 1 hr 10 min
+1124,Yehuda Halevi St. Ashkelon,40 min - 1 hr 15 min
+1125,Bialik St. Ashkelon,40 min - 1 hr 10 min
+1126,Hida St. Ashkelon,40 min - 1 hr 10 min
+1127,Yehuda Halevi St. Ashkelon,40 min - 1 hr 15 min
+1128,Iyar St. Ashkelon,35 min - 1 hr 5 min
+1129,Maale Ha-Gat St. Ashkelon,
+1130,Bialik St. Ashkelon,40 min - 1 hr 10 min
+1131,Eliezer Milrod St. Ashkelon,40 min - 1 hr 15 min
+1132,"Gyora Yoseftal St.  6,Ashkelon",40 min - 1 hr 15 min
+1133,Bialik St. Ashkelon,40 min - 1 hr 10 min
+1134,Hana Adler St. Ashkelon,40 min - 1 hr 5 min
+1135,Yehuda Halevi St. Ashkelon,40 min - 1 hr 15 min
+1136,Arieh St. Ashkelon,40 min - 1 hr 5 min
+1137,Ha-Histadrut St. Ashkelon,40 min - 1 hr 15 min
+1138,Ephraim Tsur St. Ashkelon,40 min - 1 hr 15 min
+1139,"Yehuda Halevi St.  9,Ashkelon",40 min - 1 hr 15 min
+1140,"Tsahal St.  1,Ariel",55 min - 1 hr 30 min
+1141,"Derech HaTsiyonut  79,Ariel",55 min - 1 hr 30 min
+1142,"Sheshet Ha-Yamim St.  8,Ariel",55 min - 1 hr 30 min
+1143,"HaGalil St.  13,Ariel",55 min - 1 hr 30 min
+1144,"Song of Songs  5,Neria",NA
+1145,"Shaar HaGai St.  19,Ariel",55 min - 1 hr 30 min
+1146,"Ha-Arava St.  49,Ariel",55 min - 1 hr 30 min
+1147,"Tarshish St.  15,Kdumim",1 hr 10 min - 1 hr 50 min
+1148,"Yefe Nof St.  16,Ariel",55 min - 1 hr 40 min
+1149,"Ir HaYona St.  12,Ariel",55 min - 1 hr 40 min
+1150,"Avner St.  17,Ariel",55 min - 1 hr 30 min
+1151,"Ramat HaGolan St.  10,Ari'el",55 min - 1 hr 30 min
+1152,"Derech HaNahshonim  6,Ariel",55 min - 1 hr 30 min
+1153,"Ramat HaGolan St.  21,Ari'el",55 min - 1 hr 40 min
+1154,"Ha-Vradim St.  9,Ariel",55 min - 1 hr 30 min
+1155,"Yehuda St.  6,Ariel",55 min - 1 hr 30 min
+1156,"Ha-Komemiyut St.  2,Ariel",55 min - 1 hr 30 min
+1157,"Ha-Negev St.  5,Ariel",55 min - 1 hr 30 min
+1158,"Ha-Pisga St.  40,Ariel",55 min - 1 hr 40 min
+1159,"Ramat HaGolan St.  18,Ari'el",55 min - 1 hr 30 min
+1160,"Ha-Brosh St.  58,Karnei Shomron",1 hr 10 min - 1 hr 50 min
+1161,"Avner St.  18,Ariel",55 min - 1 hr 30 min
+1162,"Ha-Negev St.  43,Ari'el",55 min - 1 hr 30 min
+1163,"HaGalil St.  20,אריאל",55 min - 1 hr 30 min
+1164,"Matityahu Dankner St.  15,Netanya",1 hr 10 min - 1 hr 50 min
+1165,"Pierre Koenig St.  3,Netanya",1 hr 5 min - 1 hr 50 min
+1166,"Isser Harel St.  3,Netanya",1 hr 10 min - 1 hr 50 min
+1167,Bnei Binyamin St. Netanya,1 hr 5 min - 1 hr 50 min
+1168,Uzi Hitman St. Netanya,1 hr 5 min - 1 hr 40 min
+1169,"David HaMelech St.  8,Netanya",1 hr 10 min - 1 hr 50 min
+1170,"Borokhov St.  13,Netanya",1 hr 10 min - 1 hr 50 min
+1171,Ha-Sar Rabinovich St. Bat Yam,24 - 45 min
+1172,"Tnuat HaMeri St.  10,Ramat Gan",40 min - 1 hr 10 min
+1173,"HaRav Yehuda Tsvi Meltser St.  4,Rehovot",10 - 20 min
+1174,"Anafa St.  2,Mazkeret Batya",12 - 22 min
+1175,"Ha-Akhim Trabes St.  4,Rehovot",5 - 8 min
+1176,"Tarshish St.  18,Rehovot",4 min
+1177,"Nufar St.  4,Yavne",12 - 22 min
+1178,Carlebach St. Tel Aviv-Yafo,30 min - 1 hr
+1179,Bar Yokhai St. Tel Aviv-Yafo,28 - 50 min
+1180,HaBaron Hirsch St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1181,Yisrael Ben Tsiyon St. Bat Yam,26 - 50 min
+1182,Fikus St. Tel Aviv-Yafo,26 - 45 min
+1183,"Engel St.  8,Tel Aviv-Yafo",35 min - 1 hr 5 min
+1184,Yefe Nof St. Ashkelon,40 min - 1 hr 10 min
+1185,Yefe Nof St. Ashkelon,40 min - 1 hr 10 min
+1186,Yefe Nof St. Ashkelon,40 min - 1 hr 10 min
+1187,Shika Gertsberg St. Rishon LeTsiyon,18 - 35 min
+1188,Yaakov Tamari Rehovot,10 - 20 min
+1189,Yaakov Tamari Rehovot,10 - 20 min
+1190,"Ahad HaAm St.  6,Haifa",1 hr 30 min - 2 hr 20 min
+1191,"Ahad HaAm St.  6,Haifa",1 hr 30 min - 2 hr 20 min
+1192,Khayat St. Haifa,1 hr 30 min - 2 hr 20 min
+1193,"Sderot HaMeginim  1,Haifa",1 hr 30 min - 2 hr 20 min
+1194,"Salesian St.  9,Haifa",1 hr 30 min - 2 hr 20 min
+1195,Khayat St. Haifa,1 hr 30 min - 2 hr 20 min
+1196,"Ein Dor St.  11,Haifa",1 hr 30 min - 2 hr 20 min
+1197,"Shivat Tsiyon St.  1,Haifa",1 hr 30 min - 2 hr 20 min
+1198,HaTishim Ve-Shalosh St. Haifa,1 hr 40 min - 2 hr 20 min
+1199,"Derech Allenby  10,Haifa",1 hr 30 min - 2 hr 20 min
+1200,HaBankim St. Haifa,1 hr 30 min - 2 hr 20 min
+1201,Hadera St. Haifa,1 hr 30 min - 2 hr 20 min
+1202,"Ahad HaAm St.  7,Haifa",1 hr 30 min - 2 hr 20 min
+1203,"Sderot HaMeginim  46,Haifa",1 hr 30 min - 2 hr 20 min
+1204,"Derech Israel bar Yehuda  1,Haifa",NA
+1205,Tabur HaArets St. Tiberias,NA
+1206,Al Hadif St. Tiberias,NA
+1207,"Ha-Narkis St.  411,Tiberias",1 hr 40 min - 2 hr 40 min
+1208,"Ha-Banim St.  12,Tiberias",NA
+1209,"Golani St.  1,Tiberias",NA
+1210,Bar Kochva St. Tiberias,1 hr 40 min - 2 hr 30 min
+1211,Tseelon St. Tiberias,1 hr 40 min - 2 hr 40 min
+1212,"Metsada St.  3,Tiberias",1 hr 40 min - 2 hr 40 min
+1213,"Gdud Barak St.  17,Tiberias",1 hr 50 min - 2 hr 50 min
+1214,"Ha-Banim St.  10,Tiberias",1 hr 50 min - 2 hr 50 min
+1215,Tsiyon Bahalul St. Tiberias,1 hr 40 min - 2 hr 40 min
+1216,Brenner St. Tiberias,1 hr 50 min - 2 hr 40 min
+1217,"HaRav Kuk St.  25,Netanya",1 hr 10 min - 1 hr 50 min
+1218,Tel Hai St. Beer Sheva,1 hr - 1 hr 40 min
+1219,Shear Yashuv St. Beer Sheva,1 hr - 1 hr 40 min
+1220,Giyora Yoseftal St. Beer Sheva,50 min - 1 hr 20 min
+1221,Nakhum Guttman St. Beer Sheva,1 hr - 1 hr 40 min
+1222,Avraham Avinu St. Beer Sheva,55 min - 1 hr 25 min
+1223,Alfasi St. Beer Sheva,55 min - 1 hr 30 min
+1224,"Rahvat Shlomtsiyon  15,Beersheba",55 min - 1 hr 30 min
+1225,"Lavontin St.  16,Haifa",1 hr 40 min - 2 hr 20 min
+1226,"Rakhel St.  3,Haifa",1 hr 40 min - 2 hr 30 min
+1227,Rothschild St. Bat Yam,
+1228,"Yitshak Sadeh St.  8,Bat Yam",
+1229,Ha-Lamed Hei St. Givatayim,40 min - 1 hr 10 min
+1230,"Yitshak Sadeh St.  10,Bat Yam",24 - 45 min
+1231,"Yitshak Sadeh St.  2,Bat Yam",24 - 45 min
+1232,Sumkan St. Tel Aviv-Yafo,24 - 40 min
+1233,"Dakar St.  2,Bat Yam",26 - 50 min
+1234,"Ha-Rav Herzog St.  32,Bat Yam",26 - 45 min
+1235,Ha-Komemiyut St. Bat Yam,
+1236,"Yitshak Sadeh St.  8,Bat Yam",
+1237,Derech Ben Gurion Bat Yam,
+1238,"HaAtsmaut Boulevard  10,Bat Yam",26 - 50 min
+1239,"Rothschild St.  4,Bat Yam",28 - 50 min
+1240,Moshe Sharet St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1241,Leonardo da Vinci St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+1242,"Biltmore St.  14,Tel Aviv-Yafo",40 min - 1 hr 10 min
+1243,Biltmore St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1244,"Leonardo da Vinci St.  1,Tel Aviv-Yafo",35 min - 1 hr 5 min
+1245,Jabotinsky St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1246,"Yonatan Havafsi St.  6,Tel Aviv-Yafo",45 min - 1 hr 15 min
+1247,HaYarkon St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1248,Bavli St. Tel Aviv-Yafo,40 min - 1 hr 5 min
+1249,Yonatan Havafsi St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1250,Epstein St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1251,Fishman-Maimon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1252,Biltmore St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1253,Zirelson St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1254,Ha-Shoftim St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+1255,Yonatan Havafsi St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1256,Pinsker St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1257,Weizmann St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1258,Mordechai Namir Road Tel Aviv-Yafo,40 min - 1 hr 10 min
+1259,"Hoshea St.  18,Tel Aviv-Yafo",
+1260,Bar Kochva St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1261,Arie Pasternak St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1262,Cremieux St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+1263,"Pinsker St.  4,Tel Aviv-Yafo",35 min - 1 hr 10 min
+1264,"Aharon Becker St.  2,Tel Aviv-Yafo",45 min - 1 hr 15 min
+1265,Ben Shaprut St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1266,Bar Giyora St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1267,Ahavat Tsiyon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1268,Shlomtsiyon HaMalka St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1269,Remez St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1270,Sderot Washington Tel Aviv-Yafo,30 - 55 min
+1271,Victor Hugo St. Tel Aviv-Yafo,26 - 45 min
+1272,Rabenu Khananel St. Tel Aviv-Yafo,30 - 50 min
+1273,Hess St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1274,Shir St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+1275,Bnei Ephraim St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1276,Bnei Ephraim St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1277,Kehilat Padova St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1278,Beit Pelet St. Tel Aviv-Yafo,26 - 45 min
+1279,Alexander Yannai St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1280,Merkaz Baalei Melaha St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+1281,Yishaayahu St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1282,Tsadok ha-Cohen St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+1283,Yishaayahu St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1284,Tsadok ha-Cohen St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+1285,"King George St.  30,Tel Aviv-Yafo",35 min - 1 hr 10 min
+1286,King George St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1287,Sderot Chen Tel Aviv-Yafo,
+1288,Dov Hoz St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1289,HaHashmonaim St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+1290,Graets St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+1291,Avraham Shlonsky St. Tel Aviv-Yafo,45 min - 1 hr 10 min
+1292,Yisrael mi-Salant St. Tel Aviv-Yafo,30 - 55 min
+1293,Kaminska St. Tel Aviv-Yafo,26 - 45 min
+1294,Tsahal St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1295,"Hei be-Iyar St.  10,Tel Aviv-Yafo",40 min - 1 hr 10 min
+1296,Shalag St. Tel Aviv-Yafo,40 min - 1 hr 20 min
+1297,Shlomo Maimon St. Tel Aviv-Yafo,28 - 50 min
+1298,Toulouse St. Tel Aviv-Yafo,26 - 45 min
+1299,Lehi Road Tel Aviv-Yafo,28 - 45 min
+1300,Misgav Am St. Tel Aviv-Yafo,28 - 50 min
+1301,Nakhalat Yitskhak St. Tel Aviv-Yafo,35 min - 1 hr
+1302,Misgav Am St. Tel Aviv-Yafo,28 - 50 min
+1303,Haggibbor HaAlmoni St. Tel Aviv-Yafo,30 min - 1 hr
+1304,Derech Menachem Begin Tel Aviv-Yafo,35 min - 1 hr
+1305,Nakhalat Yitskhak St. Tel Aviv-Yafo,35 min - 1 hr
+1306,Negba St. Tel Aviv-Yafo,30 - 55 min
+1307,Haggibbor HaAlmoni St. Tel Aviv-Yafo,30 min - 1 hr
+1308,Misgav Am St. Tel Aviv-Yafo,28 - 50 min
+1309,Misgav Am St. Tel Aviv-Yafo,28 - 50 min
+1310,Haggibbor HaAlmoni St. Tel Aviv-Yafo,30 min - 1 hr
+1311,Tslilei HaNina St. Tel Aviv-Yafo,30 - 55 min
+1312,Wingate St. Tel Aviv-Yafo,
+1313,HaHashmonaim St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+1314,Ha-Kanaim St. Tel Aviv-Yafo,28 - 50 min
+1315,Wingate St. Tel Aviv-Yafo,
+1316,Isser Yehuda Unterman St. Tel Aviv-Yafo,30 min - 1 hr
+1317,Ha-Partizan ha-Yehudi St. Tel Aviv-Yafo,30 - 55 min
+1318,Negba St. Tel Aviv-Yafo,30 - 55 min
+1319,Nadav St. Tel Aviv-Yafo,35 - 55 min
+1320,Balfour St. Bat Yam,
+1321,"Arik Einstein  3,Bat Yam",
+1322,David Elazar St. Holon,24 - 45 min
+1323,Rothschild St. Petah Tikva,40 min - 1 hr 10 min
+1324,"Shaar ha-Gai St.  3,Beer Sheva",NA
+1325,Rimalt St. Ramat Gan,35 min - 1 hr 10 min
+1326,Rimalt St. Ramat Gan,35 min - 1 hr 10 min
+1327,Yeshurun St. Ramat Gan,35 min - 1 hr 10 min
+1328,Ha-Yarden St. Ramat Gan,35 min - 1 hr 10 min
+1329,Ha-Rav Nisanbaum St. Bat Yam,24 - 45 min
+1330,Yohanan HaSandlar St. Bat Yam,
+1331,Brandeis St. Rishon LeTsiyon,22 - 40 min
+1332,Yom Hakipurim St. Holon,24 - 45 min
+1333,Yehoshua Gibstein St. Rishon LeTsiyon,18 - 30 min
+1334,Yaffa Yarkoni St. Holon,26 - 50 min
+1335,Keren Kayemet le-Yisrael St. Holon,24 - 45 min
+1336,David Remez St. Rishon LeTsiyon,14 - 24 min
+1337,Yohanan HaSandlar St. Bat Yam,
+1338,Giladi Aharon St. Holon,24 - 50 min
+1339,Ha-Khelmonit St. Rishon LeTsiyon,18 - 35 min
+1340,Yehuda Leib Pinsker St. Rishon LeTsiyon,
+1341,David Elazar St. Holon,24 - 45 min
+1342,HaRav Uziel St. Rishon LeTsiyon,22 - 40 min
+1343,Eliyahu Krauze St. Holon,26 - 55 min
+1344,Eliyahu Krauze St. Holon,26 - 55 min
+1345,Haim Hefer St. Rishon LeTsiyon,20 - 35 min
+1346,Montefiore St. Holon,24 - 40 min
+1347,Haim Weizman St. Holon,
+1348,Yitskhak Rabin St. Holon,22 - 40 min
+1349,Sderot Ben Gurion Holon,22 - 40 min
+1350,Arlozorov St. Holon,24 - 45 min
+1351,Vulkani St. Holon,26 - 45 min
+1352,Shimon Avidan St. Holon,22 - 40 min
+1353,Rashi St. Rishon LeTsiyon,22 - 40 min
+1354,Metula St. Holon,24 - 45 min
+1355,"Yoseftal St.  56,Bat Yam",26 - 50 min
+1356,"Halper St.  23,Bat Yam",28 - 50 min
+1357,"Ha-Rav Herzog St.  7,Bat Yam",24 - 45 min
+1358,"Jabotinsky St.  6,Bat Yam",26 - 50 min
+1359,"HaAtsmaut Boulevard  10,Bat Yam",26 - 50 min
+1360,Ha-Tsiyonut St. Ashdod,28 - 55 min
+1361,Yaravam ha-Melekh St. Ashdod,20 - 40 min
+1362,Kinor St. Ashdod,28 - 55 min
+1363,Mevo HaMelech Omri Ashdod,28 - 50 min
+1364,Avot Yeshurun St. Ashdod,28 min - 1 hr
+1365,Tamuz St. Ashdod,28 - 55 min
+1366,Kikar Sigal Ashdod,28 - 50 min
+1367,"Mevo HaIrit  10,Ashdod",26 - 50 min
+1368,Mevo HaKarkom Ashdod,26 - 50 min
+1369,Arieh Ben Eliezer St. Ashdod,28 min - 1 hr
+1370,Leshem St. Ashdod,30 - 55 min
+1371,Arieh Ben Eliezer St. Ashdod,28 min - 1 hr
+1372,Har Tsiyon St. Ashdod,30 - 55 min
+1373,"Ha-Dekel St.  9,Ashdod",
+1374,"Kineret St.  33,Ashdod",30 - 55 min
+1375,Har Shomron St. Ashdod,30 - 55 min
+1376,Khativat Givati St. Ashdod,28 - 50 min
+1377,Kinor St. Ashdod,28 - 55 min
+1378,Exodus St. Ashdod,28 - 55 min
+1379,Nakhal Lakhish St. Ashdod,28 - 55 min
+1380,Uziyahu St. Ashdod,24 - 50 min
+1381,Tarshish St. Ashdod,30 - 55 min
+1382,Sderot Yerushalayim Ashdod,26 - 50 min
+1383,Kinor St. Ashdod,28 - 55 min
+1384,Dov Gur St. Ashdod,26 - 50 min
+1385,Yehuda Halevi St. Ashdod,28 - 55 min
+1386,Avraham Ofer St. Ashdod,28 min - 1 hr
+1387,"Sderot Sheshet HaYamim  317,Eilat",NA
+1388,Aharon Zisling St. Beer Sheva,55 min - 1 hr 30 min
+1389,Gideon Hausner St. Beer Sheva,
+1390,"Henri Kendel St.  10,Beer Sheva",1 hr - 1 hr 40 min
+1391,"Yehuda Halevi St.  48,Beer Sheva",55 min - 1 hr 25 min
+1392,Avraham Avinu St. Beer Sheva,55 min - 1 hr 25 min
+1393,"Benjamin Minz St.  28,Beer Sheva",1 hr - 1 hr 30 min
+1394,"Sderot Johana Jabotinsky  12,Beersheba",NA
+1395,"Zion Gate St.  14,Holon",24 - 45 min
+1396,"Derech Ben Gurion  97,Bat Yam",
+1397,HaGalil St. Rishon LeTsiyon,14 - 26 min
+1398,HaEshel St. Rishon LeTsiyon,20 - 35 min
+1399,Bilu St. Rishon LeTsiyon,18 - 35 min
+1400,Aharon Kron St. Rishon LeTsiyon,16 - 30 min
+1401,Pinsker St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1402,Elroi St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+1403,Retsif Herbert Samuel St. Tel Aviv-Yafo,35 min - 1 hr 15 min
+1404,"HaYarkon St.  29,Tel Aviv-Yafo",35 min - 1 hr 5 min
+1405,"Pierre Gilbert St.  19,Netanya",1 hr 10 min - 1 hr 50 min
+1406,"Dov Barnea St.  7,Beer Sheva",55 min - 1 hr 20 min
+1407,"Sderot Yeelim  84,Beersheba",1 hr - 1 hr 40 min
+1408,Sderot Yerushalayim Beersheba,1 hr - 1 hr 40 min
+1409,Mekor Khayim St. Beer Sheva,1 hr - 1 hr 40 min
+1410,Efroni St. Lehavim,50 min - 1 hr 10 min
+1411,Kinneret St. Bat Yam,24 - 40 min
+1412,Ha-Narkis St. Kiryat Ekron,7 - 16 min
+1413,"Ha-Atsmaut St.  20,Ashdod",28 - 55 min
+1414,"Sderot Herzl  7,Tverya",1 hr 50 min - 2 hr 40 min
+1415,"Klil Hahoresh St.  349,Tiberias",1 hr 40 min - 2 hr 30 min
+1416,"Shlomo ha-Melekh St.  1,Bat Yam",26 - 50 min
+1417,"Balfour St.  115,Bat Yam",26 - 50 min
+1418,David Shealtiel St. Holon,24 - 40 min
+1419,"HaMaapilim St.  17,Bat Yam",22 - 40 min
+1420,"HaHashmonaim St.  53,Bat Yam",24 - 45 min
+1421,"Ha-Meyasdim St.  13,Netanya",1 hr 10 min - 1 hr 50 min
+1422,Tabib St. Rishon LeTsiyon,18 - 35 min
+1423,HaDegel Haivri St. Rishon LeTsiyon,18 - 35 min
+1424,HaGat St. Rishon LeTsiyon,20 - 35 min
+1425,Mordehai Popel St. Rishon LeTsiyon,22 - 45 min
+1426,HaSadeh St. Rishon LeTsiyon,16 - 28 min
+1427,HaShomer St. Rishon LeTsiyon,18 - 35 min
+1428,Pnina U-Moshe St. Rishon LeTsiyon,22 - 40 min
+1429,"Moshe Fried St.  39,Rehovot",6 - 9 min
+1430,"Korczak St.  9,Ramla",18 - 35 min
+1431,Ha-Sarig St. Rishon LeTsiyon,18 - 35 min
+1432,Ha-Rav Goren St. Rishon LeTsiyon,18 - 35 min
+1433,Ha-Rav Goren St. Rishon LeTsiyon,18 - 35 min
+1434,HaTizmoret St. Rishon LeTsiyon,16 - 28 min
+1435,Mordehai Popel St. Rishon LeTsiyon,22 - 45 min
+1436,"HaAluf David St.  11,Rishon LeTsiyon",16 - 35 min
+1437,Mivtsa Hiram St. Rishon LeTsiyon,
+1438,"HaAtsmaut St.  36,Rishon LeTsiyon",18 - 35 min
+1439,"Ma'agal HaShalom St.  1,Rishon LeTsiyon",18 - 35 min
+1440,HaNurit St. Rishon LeTsiyon,18 - 35 min
+1441,HaDyonon St. Rishon LeTsiyon,20 - 40 min
+1442,Ben Saruq St. Rishon LeTsiyon,20 - 35 min
+1443,Sderot Ben Gurion Rishon LeTsiyon,16 - 28 min
+1444,Hazorim St. Rishon LeTsiyon,18 - 35 min
+1445,Sde Nahum St. Rishon LeTsiyon,20 - 35 min
+1446,Har Metsada St. Ashdod,30 - 55 min
+1447,Shevet Zvulun St. Ashdod,30 - 55 min
+1448,Dov Gaponov St. Ashdod,30 - 55 min
+1449,Mango St. Ashdod,
+1450,Har Knaan St. Ashdod,
+1451,Mevo HaIrit Ashdod,26 - 50 min
+1452,"HaOnot  6,Ashkelon",NA
+1453,Har Shomron St. Ashdod,30 - 55 min
+1454,Mevo HaIrit Ashdod,26 - 50 min
+1455,Shoham St. Ashdod,30 - 55 min
+1456,Jabotinsky Johana St. Ashdod,28 - 55 min
+1457,HaChovlim St. Ashdod,28 min - 1 hr
+1458,Sderot Rothschild Ashdod,30 - 55 min
+1459,Ha-Atsmaut St. Ashdod,28 - 55 min
+1460,Shevet Yehuda St. Ashdod,28 - 55 min
+1461,Keren ha-Yesod St. Ashdod,30 - 55 min
+1462,Akhad ha-Am St. Ashdod,28 - 55 min
+1463,Shevet Dan St. Ashdod,28 - 55 min
+1464,Leshem St. Ashdod,30 - 55 min
+1465,Shevet Shimon St. Ashdod,30 - 55 min
+1466,Nakhal Lakhish St. Ashdod,28 - 55 min
+1467,Victor Hugo St. Ashdod,30 - 55 min
+1468,Tapuakh St. Ashdod,28 - 50 min
+1469,Yehuda Halevi St. Ashdod,28 - 55 min
+1470,Kokhav ha-Shakhar St. Ashdod,
+1471,"Ha-Shalom St.  11,Ramla",16 - 35 min
+1472,HaTsanhanim St. Petah Tikva,40 min - 1 hr 5 min
+1473,HaTsanhanim St. Petah Tikva,40 min - 1 hr 5 min
+1474,Ha-Rav Yakov Toledano St. Petah Tikva,40 min - 1 hr 15 min
+1475,Hovevei Tsiyon St. Petah Tikva,45 min - 1 hr 15 min
+1476,Ha-Shlosha St. Petah Tikva,40 min - 1 hr 10 min
+1477,Yehuda Leib Pinsker St. Petah Tikva,45 min - 1 hr 20 min
+1478,"Ha-Khashmonaim St.  7,Lod",20 - 40 min
+1479,Hovevei Tsiyon St. Petah Tikva,45 min - 1 hr 15 min
+1480,Rothschild St. Bat Yam,
+1481,Dolphin St. Holon,22 - 40 min
+1482,"Hasar Pinkas St.  18,Bat Yam",26 - 50 min
+1483,"HaShikma St.  50,Bat Yam",24 - 45 min
+1484,Kdoshei Kahir St. Holon,24 - 40 min
+1485,HaRav Kuk St. Bat Yam,26 - 50 min
+1486,"Mivtsa Sinai St.  24,Bat Yam",22 - 40 min
+1487,Jerusalem Boulevard Tel Aviv-Yafo,24 - 45 min
+1488,Kdoshei Kahir St. Holon,24 - 40 min
+1489,Moshe Sharet St. Holon,20 - 40 min
+1490,Irit St. Tel Aviv-Yafo,26 - 45 min
+1491,Yigael Yadin St. Holon,24 - 45 min
+1492,Herzl St. Bat Yam,
+1493,Bar Ilan St. Bat Yam,26 - 45 min
+1494,HaGdud Haivri St. Bat Yam,24 - 45 min
+1495,HaRav Maimon St. Bat Yam,22 - 40 min
+1496,Fikus St. Tel Aviv-Yafo,26 - 45 min
+1497,"Yitshak Sadeh St.  4,Bat Yam",
+1498,Hasar Pinkas St. Bat Yam,
+1499,HaRav Rubinstein St. Tel Aviv-Yafo,24 - 40 min
+1500,Ein Gedi St. Holon,24 - 40 min
+1501,"Naomi Shemer  9,Bat Yam",
+1502,HaAtsmaut Boulevard Bat Yam,26 - 50 min
+1503,Kiryat Shmona St. Holon,22 - 45 min
+1504,Dolphin St. Holon,22 - 40 min
+1505,Rambam St. Bat Yam,26 - 50 min
+1506,Ha-Sharon St. Bat Yam,24 - 40 min
+1507,"Ha-Neviim St.  2,Bat Yam",24 - 45 min
+1508,"Yitshak Sadeh St.  4,Bat Yam",
+1509,עדה Rishon LeTsiyon,18 - 35 min
+1510,Barukh Karo St. Tel Aviv-Yafo,28 - 50 min
+1511,Kdoshei Kahir St. Bat Yam,26 - 50 min
+1512,Klausner St. Bat Yam,26 - 50 min
+1513,Mivtsa Sinai St. Bat Yam,22 - 40 min
+1514,Kovshei ha-Khermon St. Bat Yam,24 - 40 min
+1515,Yitshak Sadeh St. Bat Yam,
+1516,Ha-Komemiyut St. Bat Yam,
+1517,"Kaf-Tet BeNovember St.  41,Bat Yam",24 - 45 min
+1518,"HaAtsmaut Boulevard  67,Bat Yam",
+1519,"Ha-Asif St.  21,Haifa",1 hr 30 min - 2 hr 30 min
+1520,"HaShomer St.  34,Kiryat Bialik",1 hr 40 min - 2 hr 20 min
+1521,"Emek ha-Zeitim St.  9,Haifa",NA
+1522,Khana Szenes St. Haifa,1 hr 40 min - 2 hr 30 min
+1523,Dror St. Haifa,1 hr 40 min - 2 hr 20 min
+1524,"Bar Giyora St.  42,Haifa",1 hr 30 min - 2 hr 20 min
+1525,"Yohanan Hakadosh St.  17,Haifa",1 hr 30 min - 2 hr 20 min
+1526,"Shilo St.  86,Rosh Haayin",40 min - 1 hr 10 min
+1527,"Sderot HaKongres  22,Ramat Gan",35 min - 1 hr 5 min
+1528,"Masada St.  42,Ramla",14 - 28 min
+1529,"Etsel St.  4,Ramla",16 - 35 min
+1530,"Yaakov Dori  7,Ramla",24 - 40 min
+1531,Sderot Yerushalayim Ashkelon,40 min - 1 hr 5 min
+1532,Bergson St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1533,Mosinzon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1534,Mosinzon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1535,Mosinzon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1536,Mosinzon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1537,Mosinzon St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1538,Carlebach St. Tel Aviv-Yafo,30 min - 1 hr
+1539,Maharozet St. Tel Aviv-Yafo,24 - 40 min
+1540,Dov Hoz St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1541,HaZohar St. Tel Aviv-Yafo,40 min - 1 hr 5 min
+1542,Yohanan Horkanos St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1543,Nakhum Sokolov St. Tel Aviv-Yafo,
+1544,Arba Aratsot St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+1545,Nakhum Sokolov St. Tel Aviv-Yafo,
+1546,Bograshov St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1547,Bavli St. Tel Aviv-Yafo,40 min - 1 hr 5 min
+1548,Shlomo Ibn Gabirol St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1549,Avraham Boyer St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1550,HaRakevet St. Tel Aviv-Yafo,30 - 55 min
+1551,Nahalat Binyamin St. Tel Aviv-Yafo,30 min - 1 hr
+1552,"HaRimon St.  1,Ashdod",28 - 50 min
+1553,"Ha-Kalanit St.  5,Ashdod",26 - 50 min
+1554,Shimon Dubnov St. Holon,26 - 50 min
+1555,Har ha-Tsofim St. Holon,
+1556,Shaul ha-Melekh St. Ness Ziona,16 - 30 min
+1557,Derech Mordehai Bashist Rehovot,7 - 16 min
+1558,"Hess St.  32,Haifa",1 hr 40 min - 2 hr 30 min
+1559,HaYitshar St. Rishon LeTsiyon,18 - 35 min
+1560,HaAtsmaut Boulevard Bat Yam,26 - 50 min
+1561,"Spiegelman St.  14,Netanya",1 hr 5 min - 1 hr 50 min
+1562,Ehud Manor St. Ashdod,28 - 55 min
+1563,Ha-Tavor St. Bat Yam,22 - 40 min
+1564,Arlozorov St. Bat Yam,26 - 50 min
+1565,"Yona HaNavi St.  5,Netanya",1 hr 5 min - 1 hr 40 min
+1566,Bikat ha-Yarden St. Ganei Tikva,40 min - 1 hr 5 min
+1567,Bikat ha-Yarden St. Ganei Tikva,40 min - 1 hr 5 min
+1568,Bikat ha-Yarden St. Ganei Tikva,40 min - 1 hr 5 min
+1569,Anielewicz St. Yehud-Monosson,30 - 55 min
+1570,Derech Eilot Ganei Tikva,40 min - 1 hr 5 min
+1571,"HaMaavak St.  11,Givatayim",35 min - 1 hr
+1572,"Bialik St.  11,Ness Ziona",12 - 28 min
+1573,Yefe Nof St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1574,Kadesh St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1575,Ramat Yizrael St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1576,Keren HaYesod St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1577,"Tsipori St.  21,Migdal HaEmek",1 hr 30 min - 2 hr 20 min
+1578,HaTidhar St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1579,Nahal Hatsvi St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1580,Arbel St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1581,Nahal Hatsvi St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1582,HaKitsanit St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1583,Ha-Dovrat St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1584,Ha-Nesiim St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1585,Ha-Arava St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1586,Tsipori St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1587,"Habad St.  11,Migdal HaEmek",1 hr 30 min - 2 hr 20 min
+1588,Harduf St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1589,Ha-Arava St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1590,Keren HaYesod St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1591,"Tashyag St.  8,Migdal HaEmek",1 hr 30 min - 2 hr 20 min
+1592,Ha-Vered St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1593,Ha-Dovrat St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1594,HaTidhar St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1595,Ha-Kharuv St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1596,Sinai St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1597,Nitsanim St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1598,Kadesh St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1599,Ha-Oren St. Ramat Yishai,1 hr 25 min - 2 hr 10 min
+1600,HaRav Ovadia Yosef Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1601,Kadesh St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1602,HaTidhar St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1603,Tsipori St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1604,Nahal Hatsvi St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1605,Ha-Shaked St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1606,HaShikma St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1607,HaShikma St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1608,Nahal Hatsvi St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1609,Tsipori St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1610,"Hofit  4,Kfar Baruch",1 hr 30 min - 2 hr 20 min
+1611,Tsipori St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1612,HaKitsanit St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1613,HaTidhar St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1614,HaRakafot St. Alonei Abba,1 hr 30 min - 2 hr 10 min
+1615,HaSahlav St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1616,Ha-Alonim St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+1617,"Yehoshua Bin Nun St.  64,Rosh Haayin",40 min - 1 hr 10 min
+1618,Hovevei Tsiyon St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1619,Haggibbor HaAlmoni St. Tel Aviv-Yafo,30 min - 1 hr
+1620,Pines St. Tel Aviv-Yafo,30 min - 1 hr 5 min
+1621,"Kedem St.  77,Tel Aviv-Yafo",28 - 50 min
+1622,Kedem St. Tel Aviv-Yafo,30 - 50 min
+1623,Aluf Kalman Magen St. Tel Aviv,35 min - 1 hr
+1624,"Moshe Lerer St.  30,Ness Ziona",12 - 22 min
+1625,David Tidhar St. Rishon LeTsiyon,18 - 35 min
+1626,"Ha-Imaot St.  15,Ness Ziona",12 - 28 min
+1627,"Professor Moshe Schorr St.  28,Holon",24 - 50 min
+1628,Heil HaShiryon St. Rishon LeTsiyon,22 - 40 min
+1629,Sderot Zalman Shneur Rishon LeTsiyon,18 - 35 min
+1630,"Rehavam Zeevi Boulevard  38,Rishon LeTsiyon",22 - 40 min
+1631,"Ariav St.  6,Rishon LeTsiyon",20 - 35 min
+1632,"Tora VaAvoda St.  32,Rishon LeTsiyon",18 - 35 min
+1633,Mivtsa Noa St. Rishon LeTsiyon,22 - 40 min
+1634,Khana Szenes St. Rishon LeTsiyon,18 - 35 min
+1635,"Yaakov Cohen St.  34,Rishon LeTsiyon",18 - 35 min
+1636,"Sinai St.  15,Ness Ziona",12 - 28 min
+1637,"Yehuda Leib Pinsker St.  44,Rishon LeTsiyon",20 - 40 min
+1638,"Ha-Khelmonit St.  2,Rishon LeTsiyon",18 - 35 min
+1639,"Eilat St.  13,Bat Yam",24 - 40 min
+1640,David Tidhar St. Rishon LeTsiyon,18 - 35 min
+1641,HaKnesset St. Rishon LeTsiyon,18 - 35 min
+1642,Nehemia St. Rishon LeTsiyon,18 - 35 min
+1643,Tsvi Shats St. Holon,24 - 40 min
+1644,Ha-Shaked St. Rishon LeTsiyon,16 - 30 min
+1645,Ha-Hityashvut St. Rishon LeTsiyon,20 - 40 min
+1646,Ha-Akhad Asar St. Rishon LeTsiyon,20 - 40 min
+1647,Mordei ha-Getaot St. Rishon LeTsiyon,18 - 35 min
+1648,Akhad ha-Am St. Rishon LeTsiyon,18 - 35 min
+1649,Shulamit Aloni St. Rishon LeTsiyon,18 - 35 min
+1650,"Tsadi Gimel Banot St.  2,Rishon LeTsiyon",22 - 40 min
+1651,Rabbi Yosef Boukhris Rishon LeTsiyon,18 - 35 min
+1652,"Ha-Neviim St.  24,Bat Yam",24 - 45 min
+1653,"Netsakh Yerushalayim St.  3,אפרת",1 hr - 1 hr 40 min
+1654,Dona Gratsya St. Tiberias,1 hr 50 min - 2 hr 50 min
+1655,"Aliza Begin St.  1,Tiberias",1 hr 50 min - 2 hr 40 min
+1656,Gdud Barak St. Tiberias,1 hr 50 min - 2 hr 50 min
+1657,Brenner St. Tiberias,NA
+1658,Ahad HaAm St. Tiberias,1 hr 50 min - 2 hr 40 min
+1659,"Aliza Begin St.  1,Tiberias",1 hr 50 min - 2 hr 40 min
+1660,Ahad HaAm St. Tiberias,1 hr 50 min - 2 hr 40 min
+1661,Ahad HaAm St. Tiberias,1 hr 50 min - 2 hr 40 min
+1662,Ahad HaAm St. Tiberias,1 hr 50 min - 2 hr 40 min
+1663,Maale Kakal St. Tiberias,1 hr 40 min - 2 hr 30 min
+1664,"HaAtsmaut Boulevard  77,Bat Yam",26 - 45 min
+1665,HaMashot St. Rishon LeTsiyon,20 - 40 min
+1666,Alexander Yannai St. Beer Sheva,55 min - 1 hr 30 min
+1667,Pinkhas Rosen St. Beer Sheva,55 min - 1 hr 30 min
+1668,Hahida St. Beer Sheva,
+1669,Esther HaMalka St. Beer Sheva,55 min - 1 hr 30 min
+1670,Avraham Avinu St. Beer Sheva,55 min - 1 hr 25 min
+1671,"Arieh Ben Eliezer St.  32,Lod",18 - 40 min
+1672,"Rakhel Alter St.  7,Lod",20 - 40 min
+1673,"Ben Shemen St.  8,Lod",18 - 40 min
+1674,"Arieh Rubin St.  4,Lod",20 - 40 min
+1675,Tapuz St. Lod,20 - 40 min
+1676,"Arieh Rubin St.  19,Lod",18 - 40 min
+1677,Fikus St. Lod,24 - 50 min
+1678,Sderot Shlomo HaMelech Lod,
+1679,"Albert Einstein St.  26,Lod",20 - 45 min
+1680,"Akiva Saar St.  25,Lod",20 - 40 min
+1681,"Avishai Elashvili St.  7,Lod",20 - 45 min
+1682,"Ben Shemen St.  8,Lod",18 - 40 min
+1683,"Alei Koteret St.  3,Lod",24 - 50 min
+1684,"HaEla St.  1,Lod",18 - 45 min
+1685,משה לוי Ramla,16 - 30 min
+1686,Yishaayahu St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1687,HaRav Maimon St. Ramla,16 - 35 min
+1688,"Tchernikhovski St.  4,Netanya",1 hr 10 min - 1 hr 50 min
+1689,"Y.H. Brener St.  16,Netanya",1 hr 10 min - 1 hr 50 min
+1690,"MacDonald St.  18,Netanya",1 hr 10 min - 1 hr 50 min
+1691,"David HaMelech St.  23,Netanya",1 hr 10 min - 1 hr 50 min
+1692,"Ussishkin St.  42,Netanya",1 hr 10 min - 1 hr 50 min
+1693,"Petah Tikva St.  21,Netanya",1 hr 10 min - 1 hr 50 min
+1694,"Agam Kinneret St.  5,Netanya",1 hr 5 min - 1 hr 40 min
+1695,"Shoshana Damari St.  11,Kfar Yona",1 hr - 1 hr 40 min
+1696,"Ben Tsvi Boulevard  110,Netanya",1 hr 5 min - 1 hr 40 min
+1697,"Zalman Shazar St.  3,Netanya",1 hr 5 min - 1 hr 40 min
+1698,"Eliezer Ben Yehuda St.  32,Netanya",1 hr 10 min - 1 hr 50 min
+1699,"Masaryk St.  3,Netanya",1 hr 10 min - 1 hr 50 min
+1700,"Nitsa Boulevard  26,Netanya",1 hr 10 min - 1 hr 50 min
+1701,"Haim Laskov St.  12,Netanya",1 hr 5 min - 1 hr 40 min
+1702,"Sderot Jabotinsky  34,Netanya",1 hr 10 min - 1 hr 50 min
+1703,"Shmuel HaNatziv St.  18,Netanya",1 hr 10 min - 1 hr 50 min
+1704,"Agam Kinneret St.  5,Netanya",1 hr 5 min - 1 hr 40 min
+1705,"Pierre Gilbert St.  19,Netanya",1 hr 10 min - 1 hr 50 min
+1706,"Sderot Hayim Weizman  104,Netanya",1 hr 10 min - 1 hr 50 min
+1707,"Yaakov Weiss St.  10,Netanya",1 hr 10 min - 1 hr 50 min
+1708,"Yehoshafat Hamelekh St.  22,Herzliya",50 min - 1 hr 25 min
+1709,"Sderot Hayim Weizman  90,Netanya",1 hr 10 min - 1 hr 50 min
+1710,"Ovadya Ben Shalom St.  29,Netanya",1 hr 5 min - 1 hr 50 min
+1711,"Sderot Hayim Weizman  7,Netanya",1 hr 10 min - 1 hr 50 min
+1712,"Yehuda Halevi St.  25,Netanya",1 hr 10 min - 1 hr 50 min
+1713,"Shmurat Nahal Bsur St.  14,Netanya",1 hr 5 min - 1 hr 40 min
+1714,"Derech Don Yitshak Abarbanel  19,Netanya",1 hr 10 min - 1 hr 50 min
+1715,"Ahvat Adam St.  66,Kfar Yona",1 hr - 1 hr 40 min
+1716,"Yohanan HaSandlar St.  18,Netanya",1 hr 10 min - 1 hr 50 min
+1717,"Sderot Hayim Weizman  61,Netanya",1 hr 10 min - 1 hr 50 min
+1718,"Yermiyahu Halperin St.  15,Netanya",1 hr 10 min - 1 hr 50 min
+1719,"Beeri St.  22,Netanya",1 hr 10 min - 1 hr 50 min
+1720,HaDugit St. Rishon LeTsiyon,
+1721,Mikhal Pokhachevski St. Rishon LeTsiyon,16 - 26 min
+1722,Einot Tsukim St. Ashkelon,40 min - 1 hr 15 min
+1723,Keren Kayemet le-Yisrael St. Rishon LeTsiyon,18 - 35 min
+1724,"HaAmadot St.  7,Bat Yam",26 - 50 min
+1725,"Professor Moshe Schorr St.  47,Holon",24 - 45 min
+1726,"HaHashmonaim St.  50,Bat Yam",24 - 45 min
+1727,Ha-Rav Desler St. Bnei Brak,40 min - 1 hr 15 min
+1728,A.D. Gordon St. Netanya,1 hr 10 min - 1 hr 50 min
+1729,Ha-Rav Nisanbaum St. Bat Yam,24 - 45 min
+1730,"HaYotsrim  1,Ashkelon",NA
+1731,"Aharon St.  15,Tel Aviv-Yafo",26 - 45 min
+1732,"Sderot Montefiore  2,Ashkelon",40 min - 1 hr 5 min
+1733,"Hagana Road  150,Tel Aviv-Yafo",30 - 55 min
+1734,"Hailan St.  28,Ashkelon",40 min - 1 hr 15 min
+1735,"Ha-Rav Herzog St.  33,Bnei Brak",40 min - 1 hr 15 min
+1736,Neomi Shemer St. Ashkelon,40 min - 1 hr 5 min
+1737,"Akhad ha-Am St.  12,Ashdod",28 - 55 min
+1738,"Levi Shoshan St.  3,Netanya",1 hr 5 min - 1 hr 40 min
+1739,"Henrietta Szold St.  113,Lod",18 - 40 min
+1740,HaMegila St. Rishon LeTsiyon,22 - 40 min
+1741,HaMegila St. Rishon LeTsiyon,22 - 40 min
+1742,"Derech Sheshet HaYamim  72,Rehovot",5 - 8 min
+1743,Shalom Tsaidi St. Rehovot,5 - 7 min
+1744,"Simtat Har Nevo  10,Eilat",3 hr 20 min - 4 hr 30 min
+1745,"Brandeis St.  1,Rishon LeTsiyon",20 - 40 min
+1746,"Sderot Eliyahu  23,Mazkeret Batya",12 - 24 min
+1747,"Ehud Dolinski St.  9,Rehovot",5 - 12 min
+1748,Sderot Eliyahu Mazkeret Batya,12 - 22 min
+1749,"Tel Aviv St.  8,Ness Ziona",14 - 26 min
+1750,"Kalman Byaler St.  20,Rehovot",4 - 7 min
+1751,"Mordehai Popel St.  6,Rishon LeTsiyon",22 - 45 min
+1752,"Zrubavel St.  14,Ness Ziona",12 - 26 min
+1753,"Yaakov Tamari  8,Rehovot",NA
+1754,HaOfek St. Ness Ziona,14 - 28 min
+1755,"Moshe Fried St.  37,Rehovot",6 - 9 min
+1756,"Tsvi Herman Shapira St.  5,Rishon LeTsiyon",18 - 35 min
+1757,"Oved Ladzinski St.  10,Rehovot",5 - 12 min
+1758,"Ha-Akhad Asar St.  25,Rishon LeTsiyon",20 - 40 min
+1759,Ha-Aviv St. Ness Ziona,12 - 22 min
+1760,"Yehoshua Lustig St.  2,Rehovot",7 - 9 min
+1761,"Avner Ben Yehuda St.  6,Ness Ziona",12 - 20 min
+1762,"Sderot Eliyahu  23,Mazkeret Batya",12 - 24 min
+1763,"Tseelon St.  6,Rehovot",8 - 14 min
+1764,"Ben Gurion St.  30,Ness Ziona",14 - 28 min
+1765,Moshe Lerer St. Ness Ziona,14 - 22 min
+1766,"Yaakov Tamari  7,Rehovot",NA
+1767,"Ezra St.  43,Rehovot",7 - 16 min
+1768,"Haroe St.  10,Rehovot",7 - 12 min
+1769,Rambam St. Petah Tikva,40 min - 1 hr 15 min
+1770,Ein Ganim St. Petah Tikva,40 min - 1 hr 10 min
+1771,Khurgin St. Ramat Gan,40 min - 1 hr 10 min
+1772,"Ha-Biluyim St.  3,Ramat Gan",35 min - 1 hr 10 min
+1773,Meir Safran St. Lod,20 - 45 min
+1774,Shalma Road Tel Aviv,28 - 50 min
+1775,Harduf St. Ramla,16 - 35 min
+1776,Ha-Palmakh St. Holon,28 - 45 min
+1777,Frug St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1778,Yehoshua Bin Nun St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1779,Nakhum Sokolov St. Tel Aviv-Yafo,
+1780,Sderot Levi Eshkol Tel Aviv-Yafo,40 min - 1 hr 15 min
+1781,Nechemiah St. Tel Aviv-Yafo,30 min - 1 hr
+1782,Kompert St. Tel Aviv-Yafo,28 - 50 min
+1783,Yavne St. Tel Aviv-Yafo,30 min - 1 hr
+1784,Nissim Aloni St. Tel Aviv-Yafo,40 min - 1 hr 5 min
+1785,Basel St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1786,Amos St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1787,"Yoel Salomon St.  12,Netanya",1 hr 10 min - 1 hr 50 min
+1788,Yona HaNavi St. Tel Aviv-Yafo,35 min - 1 hr 10 min
+1789,Bograshov St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1790,HaAyal St. Jerusalem,50 min - 1 hr 20 min
+1791,HaZohar St. Tel Aviv-Yafo,40 min - 1 hr 5 min
+1792,Dizengoff St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+1793,Beit Hilel St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+1794,Neve Tzedek St. Tel Aviv-Yafo,30 min - 1 hr
+1795,Maon St. Tel Aviv-Yafo,28 - 50 min
+1796,Markolet St. Tel Aviv-Yafo,30 - 55 min
+1797,"Shlomo Ibn Gabirol St.  128,Tel Aviv-Yafo",40 min - 1 hr 10 min
+1798,Yirmeyahu St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1799,David Remez St. Netanya,1 hr 10 min - 1 hr 50 min
+1800,Allenby St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+1801,Nof Harim St. Jerusalem,45 min - 1 hr 15 min
+1802,Amasa St. Jerusalem,50 min - 1 hr 20 min
+1803,Nissim Aloni St. Tel Aviv-Yafo,40 min - 1 hr 5 min
+1804,Kadish Luz St. Jerusalem,50 min - 1 hr 20 min
+1805,Kinneret St. Bat Yam,24 - 40 min
+1806,"Refa'el Bar Lavi St.  18,Jerusalem",55 min - 1 hr 40 min
+1807,Eli Cohen St. Netanya,1 hr 5 min - 1 hr 50 min
+1808,Shalom Aleichem St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1809,Uruguay St. Jerusalem,55 min - 1 hr 25 min
+1810,Apak St. Tel Aviv-Yafo,28 - 55 min
+1811,Avraham Stern St. Tel Aviv-Yafo,30 - 55 min
+1812,David Remez St. Givatayim,35 min - 1 hr
+1813,Ofira St. Beer Sheva,1 hr - 1 hr 40 min
+1814,Sderot Johana Jabotinsky Beersheba,1 hr - 1 hr 40 min
+1815,Sderot Yoseftal Holon,26 - 45 min
+1816,"הרב עובדיה יוסף  8,Lod",18 - 40 min
+1817,HaAtsmaut Boulevard Bat Yam,26 - 50 min
+1818,Kislev St. Ashkelon,40 min - 1 hr 5 min
+1819,Sderot Yerushalayim Ashkelon,40 min - 1 hr 5 min
+1820,Maale Ha-Gat St. Ashkelon,
+1821,Kislev St. Ashkelon,40 min - 1 hr 5 min
+1822,Maale Ha-Gat St. Ashkelon,
+1823,Kanfei Nesharim St. Ashkelon,35 min - 1 hr 5 min
+1824,Malkei Israel St. Ashkelon,40 min - 1 hr 10 min
+1825,Sderot Emek Hefer Ashkelon,45 min - 1 hr 15 min
+1826,Emek HaEla Boulevard Ashkelon,40 min - 1 hr 15 min
+1827,Adar St. Ashkelon,40 min - 1 hr 5 min
+1828,Yoel St. Ashkelon,40 min - 1 hr 10 min
+1829,Amishav St. Ashkelon,35 min - 1 hr 5 min
+1830,Arye Tagar St. Ashkelon,40 min - 1 hr 10 min
+1831,Ort St. Ashkelon,40 min - 1 hr 10 min
+1832,Arye Tagar St. Ashkelon,40 min - 1 hr 10 min
+1833,Ofira St. Ashkelon,35 min - 1 hr 5 min
+1834,Tamuz St. Ashkelon,35 min - 1 hr 5 min
+1835,Malkei Israel St. Ashkelon,40 min - 1 hr 10 min
+1836,Eliezer Milrod St. Ashkelon,40 min - 1 hr 15 min
+1837,Bikurei Anavim St. Ashkelon,35 min - 1 hr 5 min
+1838,Modiin St. Ashkelon,40 min - 1 hr 10 min
+1839,Yefe Nof St. Ashkelon,40 min - 1 hr 10 min
+1840,Maale Ha-Gat St. Ashkelon,
+1841,Sderot David Ben Gurion Ashkelon,40 min - 1 hr 10 min
+1842,Amiad St. Ashkelon,35 min - 1 hr 5 min
+1843,Maale Ha-Gat St. Ashkelon,
+1844,Emek HaEla Boulevard Ashkelon,40 min - 1 hr 15 min
+1845,Sderot Yerushalayim Ashkelon,40 min - 1 hr 5 min
+1846,Yefe Nof St. Ashkelon,40 min - 1 hr 10 min
+1847,Ehud St. Ashkelon,40 min - 1 hr 10 min
+1848,Ha-Tikva St. Ashkelon,45 min - 1 hr 20 min
+1849,Hatsiyyonut Boulevard Ashkelon,
+1850,Ort St. Ashkelon,40 min - 1 hr 10 min
+1851,Sarig St. Ashkelon,40 min - 1 hr 5 min
+1852,HaGolan St. Ashkelon,35 min - 1 hr 5 min
+1853,Kadesh Boulevard Ashkelon,35 min - 1 hr 5 min
+1854,Yefe Nof St. Ashkelon,40 min - 1 hr 10 min
+1855,Yefe Nof St. Ashkelon,40 min - 1 hr 10 min
+1856,Yehuda Halevi St. Ashkelon,40 min - 1 hr 15 min
+1857,Gush Etsyon St. Ashkelon,40 min - 1 hr 10 min
+1858,Hatsiyyonut Boulevard Ashkelon,
+1859,Sderot David Ben Gurion Ashkelon,40 min - 1 hr 10 min
+1860,Yonatan Netanyahu St. Ashkelon,35 min - 1 hr 5 min
+1861,Eli Cohen St. Ashkelon,40 min - 1 hr 5 min
+1862,Ha-Shunit St. Ashkelon,40 min - 1 hr 10 min
+1863,Arieh St. Ashkelon,40 min - 1 hr 5 min
+1864,Ha-Tayasim St. Ashkelon,
+1865,Shapira St. Ashkelon,45 min - 1 hr 20 min
+1866,Maale Ha-Gat St. Ashkelon,
+1867,Kanfei Nesharim St. Ashkelon,35 min - 1 hr 5 min
+1868,"HaOnot  2,Ashkelon",NA
+1869,Shapira St. Ashkelon,45 min - 1 hr 20 min
+1870,"Bat Galim St.  7,Ashkelon",40 min - 1 hr 10 min
+1871,Bar Kochva St. Ashkelon,40 min - 1 hr 10 min
+1872,HaRav Yitshak Nisim St. Ashkelon,45 min - 1 hr 15 min
+1873,Beitar St. Ashkelon,40 min - 1 hr 10 min
+1874,Emek HaEla Boulevard Ashkelon,40 min - 1 hr 15 min
+1875,Emek HaEla Boulevard Ashkelon,40 min - 1 hr 15 min
+1876,Sinai St. Ashkelon,40 min - 1 hr 5 min
+1877,Moshe Weber St. Ashkelon,40 min - 1 hr 10 min
+1878,Ort St. Ashkelon,40 min - 1 hr 10 min
+1879,HaRav Yechya Arosi St. Ashkelon,
+1880,Mishal St. Ashkelon,40 min - 1 hr 10 min
+1881,Khana Szenes St. Rishon LeTsiyon,18 - 35 min
+1882,David Niv St. Beer Sheva,1 hr 5 min - 1 hr 40 min
+1883,Sderot Rashi Ashdod,24 - 45 min
+1884,Sderot Rashi Ashdod,24 - 45 min
+1885,Ha-Aliya St. Ashdod,26 - 50 min
+1886,"Wingate St.  1,Tel Aviv-Yafo",
+1887,"Wingate St.  1,Tel Aviv-Yafo",
+1888,"Bosem St.  46,Tel Aviv-Yafo",30 - 55 min
+1889,"HaBalonim St.  24,Tel Aviv-Yafo",28 - 50 min
+1890,"Kaplanski St.  3,Tel Aviv-Yafo",28 - 50 min
+1891,Shaul Avigur St. Tel Aviv-Yafo,
+1892,"Bosem St.  22,Tel Aviv-Yafo",30 - 55 min
+1893,"Derech Menachem Begin  144,Tel Aviv-Yafo",
+1894,"Plugot St.  14,Tel Aviv-Yafo",30 - 55 min
+1895,"Haggibbor HaAlmoni St.  46,Tel Aviv-Yafo",30 min - 1 hr
+1896,"La Guardia St.  1,Tel Aviv-Yafo",28 - 55 min
+1897,"Dagan St.  5,Even Yehuda",1 hr - 1 hr 50 min
+1898,"Ha-Rav Alnekave St.  34,Tel Aviv-Yafo",30 - 55 min
+1899,"Ha-Rav Alnekave St.  44,Tel Aviv-Yafo",30 - 50 min
+1900,"Itiel St.  17,Tel Aviv-Yafo",30 - 55 min
+1901,"Moshe Dayan Road  26,Tel Aviv-Yafo",30 - 50 min
+1902,"Moshe Dayan Road  34,Tel Aviv-Yafo",28 - 50 min
+1903,HaPalmah St. Tel Aviv-Yafo,30 - 55 min
+1904,"Shlomo Ibn Gabirol St.  116,Tel Aviv-Yafo",40 min - 1 hr 10 min
+1905,Shalma Road Tel Aviv-Yafo,28 - 50 min
+1906,"Mikve Israel St.  4,Tel Aviv-Yafo",30 min - 1 hr
+1907,"Maapilei Egoz St.  84,Tel Aviv-Yafo",30 min - 1 hr
+1908,"Ivri St.  4,Tel Aviv-Yafo",28 - 50 min
+1909,"Mahal St.  14,Tel Aviv-Yafo",30 - 50 min
+1910,"Yad HaMaavir St.  1,Tel Aviv-Yafo",45 min - 1 hr 15 min
+1911,Uri Tsvi Grinberg St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+1912,"Ben Yehuda St.  36,Tel Aviv-Yafo",40 min - 1 hr 20 min
+1913,"Shloshet ha-Khitsim St.  3,Tel Aviv-Yafo",28 - 45 min
+1914,"Sderot Hachmei Israel  58,Tel Aviv-Yafo",28 - 55 min
+1915,"Livne St.  6,Tel Aviv-Yafo",30 - 55 min
+1916,"Maapilei Egoz St.  39,Tel Aviv-Yafo",30 - 55 min
+1917,Ringelblum St. Tel Aviv-Yafo,26 - 45 min
+1918,"Netaim St.  21,Tel Aviv-Yafo",30 - 55 min
+1919,Isaac Stern St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1920,"Ben Akhituv St.  7,Tel Aviv-Yafo",26 - 50 min
+1921,"Wingate St.  1,Tel Aviv-Yafo",
+1922,"Maapilei Egoz St.  38,Tel Aviv-Yafo",30 - 55 min
+1923,"Yunitsman St.  1,Tel Aviv-Yafo",45 min - 1 hr 15 min
+1924,"Mahal St.  62,Tel Aviv-Yafo",30 - 55 min
+1925,HaKongres St. Tel Aviv-Yafo,
+1926,"Shlomo Ibn Gabirol St.  116,Tel Aviv-Yafo",40 min - 1 hr 10 min
+1927,Shaul Avigur St. Tel Aviv-Yafo,
+1928,"Shvat St.  28,Tel Aviv-Yafo",28 - 45 min
+1929,"Wingate St.  1,Tel Aviv-Yafo",
+1930,Michelangelo St. Tel Aviv-Yafo,26 - 50 min
+1931,Sderot Levi Eshkol Tel Aviv-Yafo,40 min - 1 hr 15 min
+1932,Haskel St. Tel Aviv-Yafo,30 - 55 min
+1933,"Hartuv St.  9,Tel Aviv-Yafo",30 - 55 min
+1934,Shtulim St. Tel Aviv-Yafo,28 - 50 min
+1935,"Mount Hermon  1,Or Yehuda",NA
+1936,"Tamuz St.  21,Tel Aviv-Yafo",28 - 45 min
+1937,Lehi Road Tel Aviv-Yafo,28 - 45 min
+1938,HaYarkon St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+1939,"Mahal St.  70,Tel Aviv-Yafo",30 - 55 min
+1940,Shtulim St. Tel Aviv-Yafo,28 - 50 min
+1941,"Shlomo Ibn Gabirol St.  116,Tel Aviv-Yafo",40 min - 1 hr 10 min
+1942,"Sderot Sheshet HaYamim  30,Tel Aviv-Yafo",30 - 55 min
+1943,Tagore St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+1944,"Maapilei Egoz St.  40,Tel Aviv-Yafo",30 - 55 min
+1945,"Haim Barlev Road  173,Tel Aviv-Yafo",30 - 55 min
+1946,"Tsonzer St.  6,Tel Aviv-Yafo",26 - 45 min
+1947,"Lehi Road  36,Tel Aviv-Yafo",26 - 45 min
+1948,"Wingate St.  1,Tel Aviv-Yafo",
+1949,"Sderot Yad LaBanim  23,Tel Aviv-Yafo",
+1950,Ein Ganim St. Petah Tikva,40 min - 1 hr 10 min
+1951,Ein Ganim St. Petah Tikva,40 min - 1 hr 10 min
+1952,Ha-Hagana St. Bat Yam,26 - 45 min
+1953,Brenner St. Bat Yam,24 - 45 min
+1954,HaTsanhanim St. Holon,28 - 55 min
+1955,"Ibn Gabirol St.  45,Afula",1 hr 30 min - 2 hr 30 min
+1956,"Dudu Dotan St.  6,Netanya",1 hr 5 min - 1 hr 40 min
+1957,"Sderot HaKongres  22,Ramat Gan",35 min - 1 hr 5 min
+1958,"Sderot Moshe Sharet  19,Kiryat Yam",NA
+1959,"Beeri St.  10,Netanya",NA
+1960,"Ha-Podim St.  4,Ramat Gan",40 min - 1 hr 10 min
+1961,Uzi Hitman St. Ramla,
+1962,Ein Dor St. Rishon LeTsiyon,20 - 40 min
+1963,Weizmann St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+1964,"HaRav Maze St.  1,Netanya",1 hr 10 min - 1 hr 50 min
+1965,Derech Raziel Netanya,1 hr 10 min - 1 hr 50 min
+1966,"HaBrigada HaYehudit St.  48,Netanya",1 hr 5 min - 1 hr 40 min
+1967,"Balfour St.  11,Netanya",1 hr 10 min - 1 hr 50 min
+1968,"Smilanski St.  69,Netanya",1 hr 10 min - 1 hr 50 min
+1969,"Ha-Rav Nisim St.  15,Ashdod",26 - 55 min
+1970,"Balfour St.  60,Nahariyya",1 hr 50 min - 3 hr
+1971,Khokhit St. Beer Sheva,1 hr 5 min - 1 hr 40 min
+1972,"Aba Hillel Silver St.  15,Ashdod",26 - 55 min
+1973,Levi Eshkol St. Nahariyya,1 hr 50 min - 3 hr
+1974,"HaKerem St.  19,Acre",1 hr 50 min - 2 hr 50 min
+1975,Ben Yehuda St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+1976,Ben Yehuda St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+1977,Ayit St. Beer Sheva,
+1978,Ben Yehuda St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+1979,Ben Asher St. Beer Sheva,55 min - 1 hr 25 min
+1980,Ben Yehuda St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+1981,Ben Yehuda St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+1982,Kalman Porat St. Beer Sheva,55 min - 1 hr 20 min
+1983,Yerushalayim St. Bat Yam,24 - 45 min
+1984,Avraham Nisan St. Jerusalem,50 min - 1 hr 20 min
+1985,"Sheshet HaYamim St.  6,Jerusalem",45 min - 1 hr 20 min
+1986,Dam ha-Maccabim St. Tel Aviv-Yafo,35 min - 1 hr
+1987,Ha-Raaba St. Tel Aviv-Yafo,30 - 55 min
+1988,"Ha-Tavor St.  5,Ramla",14 - 28 min
+1989,"Dakar St.  9,Lod",20 - 45 min
+1990,"HaAlonim Boulevard  2,Beer Yaakov",16 - 35 min
+1991,HaAlonim Boulevard Beer Yaakov,
+1992,Ha-Gefen St. Beer Yaakov,18 - 40 min
+1993,"HaHashmal St.  10,Haifa",1 hr 30 min - 2 hr 20 min
+1994,Derekh Shimshon Tsur Rehovot,3 min
+1995,"Don Yosef HaNasi St.  3,Holon",26 - 45 min
+1996,"Derech Ben Gurion  83,Bat Yam",26 - 50 min
+1997,HaKotel HaMaaravi St. Beer Sheva,1 hr - 1 hr 40 min
+1998,"Bazelet St.  14,Rosh Haayin",40 min - 1 hr 15 min
+1999,Basel St. Beer Sheva,1 hr - 1 hr 40 min
+2000,Olei HaGardom St. Beer Sheva,1 hr - 1 hr 40 min
+2001,Hazani St. Beer Sheva,55 min - 1 hr 30 min
+2002,Khogla St. Beer Sheva,1 hr - 1 hr 40 min
+2003,Bar Yokhai St. Jerusalem,50 min - 1 hr 25 min
+2004,"Hazani St.  34,Beer Sheva",55 min - 1 hr 30 min
+2005,Bar Kokhva St. Yeruham,1 hr 20 min - 2 hr
+2006,Yitskhak Welbar St. Beer Sheva,1 hr - 1 hr 40 min
+2007,Kalischer St. Be'er Sheva,1 hr - 1 hr 30 min
+2008,Alfasi St. Beer Sheva,55 min - 1 hr 30 min
+2009,Gideon Hausner St. Beer Sheva,
+2010,Beit El St. Beer Sheva,1 hr - 1 hr 40 min
+2011,"Brenner St.  13,Tiberias",1 hr 40 min - 2 hr 40 min
+2012,Amnon veTamar St. Ramla,14 - 28 min
+2013,"Nahal Zohar St.  52,Modiin-Maccabim-Reut",22 - 40 min
+2014,"Ha-Rav Herzog St.  53,Beer Sheva",55 min - 1 hr 30 min
+2015,HaRav Yehya Kapah St. Beer Sheva,1 hr - 1 hr 30 min
+2016,Mekor Khayim St. Beer Sheva,1 hr - 1 hr 40 min
+2017,Yosef Burg St. Beer Sheva,NA
+2018,"Kalischer St.  48,Beer Sheva",
+2019,David HaMelech St. Beer Sheva,55 min - 1 hr 30 min
+2020,"Havakuk HaNavi St.  4,Ashdod",26 - 50 min
+2021,Sderot Yerushalayim Beersheba,1 hr - 1 hr 40 min
+2022,"Mevo Hama  6,Rishon LeTsiyon",20 - 40 min
+2023,Derech HaShalom Beersheba,1 hr - 1 hr 40 min
+2024,"Mivtsa Moshe St.  21,Be'er Sheva",1 hr - 1 hr 40 min
+2025,"Betsalel St.  31,Beer Sheva",1 hr - 1 hr 40 min
+2026,Olei HaGardom St. Beer Sheva,1 hr - 1 hr 40 min
+2027,Eliyahu ha-Navi St. Be'er Sheva,55 min - 1 hr 25 min
+2028,Martin Buber St. Rishon LeTsiyon,18 - 35 min
+2029,"Elul St.  7,Ashdod",28 - 55 min
+2030,"Fikus St.  5,Tel Aviv-Yafo",24 - 45 min
+2031,"David HaMelech St.  21,Beer Sheva",55 min - 1 hr 30 min
+2032,"HaRav Tana St.  12,Beer Sheva",1 hr - 1 hr 50 min
+2033,Abba Eban St. Jerusalem,45 min - 1 hr 20 min
+2034,"אורגד  3,Netanya",1 hr 10 min - 1 hr 50 min
+2035,Moshe Hess St. Holon,24 - 50 min
+2036,Ha-Rav Yaakov Berman St. Rehovot,10 - 20 min
+2037,Tel-Chay Boulevard Ashdod,
+2038,"HaSlav St.  11,Jerusalem",50 min - 1 hr 25 min
+2039,Uruguay St. Jerusalem,50 min - 1 hr 25 min
+2040,Herzog St. Ra'anana,50 min - 1 hr 25 min
+2041,"HaHagana St.  38,Givatayim",35 min - 1 hr 5 min
+2042,"Snunit St.  60,Ness Ziona",12 - 20 min
+2043,HaMigdal HaLavan St. Ramla,14 - 28 min
+2044,"Mordekhai ha-Yehudi St.  15,Jerusalem",55 min - 1 hr 40 min
+2045,"HaMargalit St.  2,Jerusalem",55 min - 1 hr 25 min
+2046,"Barak St.  21,Ariel",55 min - 1 hr 30 min
+2047,"Simha Holtsberg St.  15,Ramla",16 - 35 min
+2048,"Nitsa Boulevard  8,Netanya",1 hr 10 min - 1 hr 50 min
+2049,Yedaaya ha-Pnini St. Tel Aviv-Yafo,28 - 50 min
+2050,"Gadish St.  10,Tel Aviv-Yafo",28 - 50 min
+2051,"Vered St.  20,Tel Aviv-Yafo",30 - 50 min
+2052,"Misgav Am St.  12,Tel Aviv-Yafo",28 - 50 min
+2053,"Vered St.  20,Tel Aviv-Yafo",30 - 50 min
+2054,"Gadish St.  10,Tel Aviv-Yafo",28 - 50 min
+2055,Khaviva Reik St. Tel Aviv-Yafo,30 - 55 min
+2056,"Khaviva Reik St.  1,Tel Aviv-Yafo",30 - 55 min
+2057,"Misgav Am St.  12,Tel Aviv-Yafo",28 - 50 min
+2058,"Ahimaats St.  24,Tel Aviv-Yafo",30 - 55 min
+2059,"Ahvat Adam St.  1,Kfar Yona",1 hr - 1 hr 40 min
+2060,"Ha-93 St.  4,Netanya",1 hr 10 min - 1 hr 50 min
+2061,"Egoz St.  16,Lod",18 - 40 min
+2062,Helets St. Rishon LeTsiyon,16 - 30 min
+2063,Helets St. Rishon LeTsiyon,16 - 30 min
+2064,Helets St. Rishon LeTsiyon,16 - 30 min
+2065,"HaTanaim St.  13,Netanya",1 hr 10 min - 1 hr 50 min
+2066,"Meir Nakar St.  39,Jerusalem",1 hr - 1 hr 50 min
+2067,Ha-Hagana St. Bat Yam,26 - 45 min
+2068,Rogozin St. Ashdod,28 min - 1 hr
+2069,"HaMaapilim St.  17,Bat Yam",22 - 40 min
+2070,HaTanaim St. Holon,20 - 35 min
+2071,"Herzl St.  2,Bat Yam",26 - 45 min
+2072,"Moshe Stav St.  5,Beer Sheva",1 hr - 1 hr 40 min
+2073,Moshe Dayan St. Holon,20 - 35 min
+2074,Olei HaGardom St. Netanya,1 hr 5 min - 1 hr 40 min
+2075,Emek Dotan St. Holon,22 - 40 min
+2076,Ha-Palmakh St. Holon,28 - 45 min
+2077,HaLohamim St. Even Yehuda,55 min - 1 hr 40 min
+2078,Nov St. Rishon LeTsiyon,22 - 40 min
+2079,Sderot Oved Ben Ami Netanya,NA
+2080,Ha-Dekel St. Ashdod,28 min - 1 hr
+2081,"Menora St.  6,Jerusalem",45 min - 1 hr 25 min
+2082,Rabi Nekhemya Mota St. Rishon LeTsiyon,18 - 35 min
+2083,"Tnuot ha-Noar St.  13,Rishon LeTsiyon",NA
+2084,Yehuda Leib Pinsker St. Rishon LeTsiyon,
+2085,Livorno St. Bat Yam,24 - 40 min
+2086,Korkidi St. Tel Aviv-Yafo,26 - 45 min
+2087,Emek HaHula St. Ramat Gan,35 min - 1 hr 10 min
+2088,"Pnina U-Moshe St.  3,Rishon LeTsiyon",22 - 40 min
+2089,"Herzl St.  38,Netanya",1 hr 10 min - 1 hr 50 min
+2090,"Mordei ha-Getaot St.  40,Rishon LeTsiyon",18 - 35 min
+2091,"Khakhmei Atuna St.  52,Tel Aviv-Yafo",28 - 55 min
+2092,Elul St. Ashdod,28 - 55 min
+2093,Khartsit St. Netanya,1 hr 5 min - 1 hr 40 min
+2094,"Yonatan Netanyahu St.  6,Ashkelon",35 min - 1 hr 5 min
+2095,"Shlomo Eliraz St.  1,Rishon LeTsiyon",20 - 40 min
+2096,"Yehuda Halevi St.  3,Rishon LeTsiyon",20 - 40 min
+2097,Aba Akhimeir St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+2098,Ha-Atsmaut St. Ashdod,28 - 55 min
+2099,Dov Yosef St. Beer Sheva,1 hr - 1 hr 30 min
+2100,Mivtsa Moshe St. Be'er Sheva,1 hr - 1 hr 40 min
+2101,"Lehi St.  10,Netanya",1 hr 10 min - 1 hr 50 min
+2102,Keren HaYesod St. Bat Yam,22 - 40 min
+2103,"Herzl St.  88,Bat Yam",26 - 50 min
+2104,Mikhael Neeman St. Tel Aviv-Yafo,50 min - 1 hr 15 min
+2105,"HaRav Tana St.  10,Beer Sheva",1 hr - 1 hr 40 min
+2106,"Ha-Tsiyonut St.  71,Ashdod",28 - 55 min
+2107,"Etsel St.  13,Ramat Gan",35 min - 1 hr 10 min
+2108,Ha-Rishonim St. Petah Tikva,45 min - 1 hr 15 min
+2109,Ben Yehuda St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+2110,"Trumpeldor St.  58,Tel Aviv-Yafo",40 min - 1 hr 15 min
+2111,Arnon St. Tel Aviv-Yafo,40 min - 1 hr 20 min
+2112,Israelis St. Tel Aviv-Yafo,40 min - 1 hr 20 min
+2113,Ben Yehuda St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+2114,"HaNesiim St.  10,Tel Aviv-Yafo",40 min - 1 hr 5 min
+2115,HaYarkon St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+2116,"Yeshurun St.  3,Tel Aviv-Yafo",40 min - 1 hr 15 min
+2117,Rav Hai Gaon St. Tel Aviv-Yafo,26 - 45 min
+2118,Metsada St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+2119,Yisrael Galili St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+2120,Mapu St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+2121,Rachel Imenu St. Jerusalem,55 min - 1 hr 30 min
+2122,Ha-Shlosha St. Bat Yam,24 - 40 min
+2123,Shalom Aleichem St. Bat Yam,26 - 50 min
+2124,Shalom Aleichem St. Bat Yam,26 - 50 min
+2125,Masaryk St. Bat Yam,
+2126,Masaryk St. Bat Yam,
+2127,Masaryk St. Bat Yam,
+2128,"Shalom Aleichem St.  2,Bat Yam",26 - 50 min
+2129,"Sheshet ha-Yamim St.  30,Bat Yam",24 - 45 min
+2130,Shalom Aleichem St. Bat Yam,26 - 50 min
+2131,Shalom Aleichem St. Bat Yam,26 - 50 min
+2132,Arieh Ben Eliezer St. Jerusalem,50 min - 1 hr 25 min
+2133,"HaNofech St.  243,Jerusalem",50 min - 1 hr 20 min
+2134,Sderot Hativat Yiftach Lod,18 - 45 min
+2135,Yakinton St. Jerusalem,55 min - 1 hr 25 min
+2136,"Hativat Carmeli St.  23,Haifa",1 hr 30 min - 2 hr 10 min
+2137,HaBrigada HaYehudit St. Netanya,1 hr 5 min - 1 hr 40 min
+2138,Ha-Asif St. Haifa,1 hr 30 min - 2 hr 30 min
+2139,"Shaul ha-Melekh St.  4,Ashdod",NA
+2140,"Derekh ha-Bsamim  14,Eilat",3 hr 30 min - 4 hr 40 min
+2141,"Shmaryahu Levin St.  15,Tel Aviv-Yafo",40 min - 1 hr 5 min
+2142,Karl Netter St. Rishon LeTsiyon,
+2143,"Ha-Perakh St.  94,Rishon LeTsiyon",20 - 40 min
+2144,"Tsora St.  3,Holon",24 - 45 min
+2145,Ha-Sar Shapira St. Bat Yam,26 - 50 min
+2146,HaPalmach St. Bat Yam,24 - 40 min
+2147,Shabazi St. Ramla,16 - 40 min
+2148,"Agas St.  9,Ashdod",28 - 50 min
+2149,Mishol Susya Beersheba,1 hr - 1 hr 40 min
+2150,"Sderot Hativat HaNegev  27,Eilat",NA
+2151,"Yerushalayim St.  59,Bat Yam",24 - 45 min
+2152,"Sokolov St.  28,Rishon LeTsiyon",16 - 28 min
+2153,"Zeev Jabotinsky St.  30,Holon",26 - 45 min
+2154,Ha-Sar Shapira St. Bat Yam,26 - 50 min
+2155,Ha-Neviim St. Bat Yam,
+2156,Kehilat Canada St. Tel Aviv-Yafo,24 - 40 min
+2157,Uzi Hitman St. Ramla,
+2158,Masada St. Haifa,1 hr 30 min - 2 hr 20 min
+2159,HaGuy St. Ness Ziona,14 - 28 min
+2160,"Gershom St.  3,Ramat Gan",35 min - 1 hr 5 min
+2161,Yoel Salomon St. Netanya,1 hr 10 min - 1 hr 50 min
+2162,Ehud Manor St. Netanya,1 hr 5 min - 1 hr 40 min
+2163,Menachem Begin St. Netanya,1 hr 5 min - 1 hr 40 min
+2164,Ha-Rav Nisanbaum St. Bat Yam,24 - 45 min
+2165,Haim Hefer St. Rishon LeTsiyon,20 - 35 min
+2166,"Ein Gedi St.  9,Rosh Haayin",40 min - 1 hr 10 min
+2167,Shmuel HaNatziv St. Netanya,1 hr 10 min - 1 hr 50 min
+2168,Yoseftal St. Ramla,
+2169,Yehuda Stein St. Ramla,16 - 35 min
+2170,"HaHashmonaim St.  52,Netanya",1 hr 10 min - 1 hr 50 min
+2171,HaKotel HaMaaravi St. Beer Sheva,1 hr - 1 hr 40 min
+2172,Wingate St. Beer Sheva,55 min - 1 hr 30 min
+2173,Yehuda Halevi St. Beer Sheva,55 min - 1 hr 30 min
+2174,Hahida St. Beer Sheva,
+2175,Yigal Alon St. Tel Aviv-Yafo,30 min - 1 hr
+2176,"HaMuchtar St.  7,Beer Sheva",1 hr - 1 hr 40 min
+2177,"HaMuchtar St.  7,Beer Sheva",1 hr - 1 hr 40 min
+2178,"Rambam St.  62,Beer Sheva",1 hr - 1 hr 40 min
+2179,"Yaakov Schiffer St.  6,Netanya",1 hr 5 min - 1 hr 40 min
+2180,Sokolov St. Holon,26 - 50 min
+2181,"Rambam St.  32,Beer Sheva",1 hr - 1 hr 40 min
+2182,"Henri Kendel St.  12,Beer Sheva",1 hr - 1 hr 40 min
+2183,Rut Shapira St. Beer Sheva,1 hr 5 min - 1 hr 40 min
+2184,"Henri Kendel St.  10,Be'er Sheva",1 hr - 1 hr 40 min
+2185,"HaMuchtar St.  7,Beer Sheva",1 hr - 1 hr 40 min
+2186,Moriya St. Beer Sheva,1 hr - 1 hr 40 min
+2187,"Sderot Yerushalayim  7,Beersheba",1 hr - 1 hr 40 min
+2188,"Saar St.  7,Kfar Vradim",NA
+2189,"Trumpeldor St.  33,Netanya",1 hr 10 min - 1 hr 50 min
+2190,Nissim Aloni St. Tel Aviv-Yafo,40 min - 1 hr 5 min
+2191,"Yitshak Sadeh St.  4,Bat Yam",
+2192,Dugit St. Ramla,16 - 35 min
+2193,Akhad ha-Am St. Ashdod,28 - 55 min
+2194,Shaar ha-Gai St. Beer Sheva,1 hr - 1 hr 40 min
+2195,Kdoshei Belsen St. Netanya,1 hr 10 min - 1 hr 50 min
+2196,"Yoseftal St.  45,Bat Yam",
+2197,Yamit St. Rishon LeTsiyon,20 - 40 min
+2198,Ha-Zmora St. Rishon LeTsiyon,
+2199,Mordehai HaYehudi St. Rishon LeTsiyon,22 - 40 min
+2200,HaMegila St. Rishon LeTsiyon,22 - 40 min
+2201,Alter David Kurtzman St. Rishon LeTsiyon,18 - 35 min
+2202,Ha-Yekev St. Rishon LeTsiyon,18 - 35 min
+2203,Aba Hillel Silver St. Rishon LeTsiyon,18 - 35 min
+2204,Nov St. Rishon LeTsiyon,22 - 40 min
+2205,"Sderot Hayim Weizman  51,Netanya",1 hr 10 min - 1 hr 50 min
+2206,Moshe Kleinman St. Jerusalem,50 min - 1 hr 25 min
+2207,"Dror St.  15,Rishon LeTsiyon",20 - 35 min
+2208,Givati St. Rishon LeTsiyon,20 - 40 min
+2209,"Yona Bugla St.  15,Rishon LeTsiyon",20 - 35 min
+2210,HaRav Tana St. Beer Sheva,1 hr - 1 hr 50 min
+2211,Mikhael Neeman St. Tel Aviv-Yafo,50 min - 1 hr 15 min
+2212,"Exodus St.  15,Netanya",1 hr 5 min - 1 hr 50 min
+2213,"HaNurit St.  20,Ashdod",24 - 45 min
+2214,Ha-Zohar St. Petah Tikva,40 min - 1 hr 5 min
+2215,Baal Shem Tov St. Petah Tikva,40 min - 1 hr 5 min
+2216,HaRav Uziel St. Bat Yam,24 - 45 min
+2217,"Ha-Zamir St.  7,Yavne",12 - 22 min
+2218,"Bar Kochva St.  16,Netanya",1 hr 10 min - 1 hr 50 min
+2219,"Gad Machnes St.  6,Netanya",1 hr 10 min - 1 hr 50 min
+2220,"Ha-Gila St.  17,Netanya",1 hr 5 min - 1 hr 50 min
+2221,"David HaMelech St.  3,Netanya",1 hr 10 min - 1 hr 50 min
+2222,"Isser Harel St.  7,Netanya",1 hr 10 min - 1 hr 50 min
+2223,"Yehuda Halevi St.  23,Netanya",1 hr 10 min - 1 hr 50 min
+2224,Har Tsiyon St. Netanya,1 hr 10 min - 1 hr 50 min
+2225,"Sokolov St.  24,Netanya",1 hr 10 min - 1 hr 50 min
+2226,"Arye Motskin St.  27,Netanya",1 hr 5 min - 1 hr 40 min
+2227,"Sderot Jabotinsky  8,Netanya",1 hr 10 min - 1 hr 50 min
+2228,"Sderot Hayim Weizman  37,Netanya",1 hr 10 min - 1 hr 50 min
+2229,"Ha-Rav Herzog St.  12,Netanya",1 hr 10 min - 1 hr 50 min
+2230,"Sderot Yerushalayim  37,Netanya",1 hr 10 min - 1 hr 50 min
+2231,"HaCongress HaTsiyoni  6,Netanya",50 min - 1 hr 20 min
+2232,"Reuven Barkat St.  9,Netanya",
+2233,"Yoel Salomon St.  12,Netanya",1 hr 10 min - 1 hr 50 min
+2234,"Elkalai St.  19,Netanya",1 hr 10 min - 1 hr 50 min
+2235,"Sderot Jabotinsky  8,Netanya",1 hr 10 min - 1 hr 50 min
+2236,"Yoel Salomon St.  14,Netanya",1 hr 10 min - 1 hr 50 min
+2237,"Yosef Lapid St.  1,Netanya",1 hr 5 min - 1 hr 50 min
+2238,"Emek Khefer St.  92,Netanya",1 hr 10 min - 1 hr 50 min
+2239,"Gad Machnes St.  19,Netanya",1 hr 10 min - 2 hr
+2240,"Derech Raziel  10,Netanya",1 hr 5 min - 1 hr 50 min
+2241,"Yehuda Halevi St.  64,Netanya",1 hr 10 min - 1 hr 50 min
+2242,"Pierre Koenig St.  11,Netanya",1 hr 5 min - 1 hr 50 min
+2243,"Ha-Lamed Hei St.  6,Netanya",1 hr 10 min - 1 hr 50 min
+2244,"Ben Avi  44,Netanya",1 hr 10 min - 1 hr 50 min
+2245,"Avner Ben Ner St.  14,Netanya",1 hr 10 min - 1 hr 50 min
+2246,Beeri St. Netanya,
+2247,"Shlomo ha-Melekh St.  4,Netanya",1 hr 10 min - 1 hr 50 min
+2248,"Mordekhai Anielewicz St.  3,Netanya",1 hr 10 min - 1 hr 50 min
+2249,"Yehuda Halevi St.  25,Netanya",1 hr 10 min - 1 hr 50 min
+2250,"HaRav Kuk St.  55,Netanya",1 hr 10 min - 1 hr 50 min
+2251,"Sderot Jabotinsky  36,Netanya",1 hr 10 min - 1 hr 50 min
+2252,"A.D. Gordon St.  24,Netanya",1 hr 10 min - 1 hr 50 min
+2253,"Moshe Shapira St.  9,Netanya",1 hr 10 min - 1 hr 50 min
+2254,"Shlomo ha-Melekh St.  18,Netanya",1 hr 10 min - 1 hr 50 min
+2255,"Beeri St.  71,Netanya",1 hr 10 min - 1 hr 50 min
+2256,"Beeri St.  70,Netanya",1 hr 10 min - 1 hr 50 min
+2257,"David Yellin St.  21,Netanya",1 hr 10 min - 1 hr 50 min
+2258,Ha-Yedidut St. Netanya,1 hr 10 min - 1 hr 50 min
+2259,"Smilanski St.  28,Netanya",1 hr 10 min - 1 hr 50 min
+2260,"Sderot Jabotinsky  41,Netanya",1 hr 5 min - 1 hr 50 min
+2261,"Kikar HaAtsmaut  4,Netanya",1 hr 10 min - 1 hr 50 min
+2262,Rambam St. Beer Sheva,1 hr - 1 hr 40 min
+2263,"A.D. Gordon St.  6,Lod",20 - 45 min
+2264,"David HaMelech St.  3,Beer Sheva",55 min - 1 hr 25 min
+2265,"Ha-Khashmonaim St.  6,Lod",20 - 45 min
+2266,"Eliyahu Golomb St.  3,Lod",20 - 45 min
+2267,"HaBesht St.  26,Holon",22 - 35 min
+2268,"Givati St.  20,Bat Yam",26 - 50 min
+2269,"Eli Cohen St.  4,Bat Yam",24 - 40 min
+2270,Nirim St. Rishon LeTsiyon,22 - 45 min
+2271,בני אמדורסקי Raanana,55 min - 1 hr 30 min
+2272,"Ha-Khamisha St.  42,Rosh Haayin",40 min - 1 hr 10 min
+2273,Herzl Rosenblum St. Beer Sheva,1 hr - 1 hr 40 min
+2274,Sderot Yerushalayim Beersheba,1 hr - 1 hr 40 min
+2275,Leo Piccard St. Beer Sheva,55 min - 1 hr 25 min
+2276,Shaar ha-Gai St. Beer Sheva,1 hr - 1 hr 40 min
+2277,Eliyahu ha-Navi St. Beer Sheva,55 min - 1 hr 25 min
+2278,"Ha-Ilanot St.  98,Ramla",18 - 40 min
+2279,HaTsanhanim St. Ramla,16 - 35 min
+2280,Yitshak Ben Zvi St. Ramla,16 - 35 min
+2281,Ha-Rama St. Ramla,
+2282,"Sderot Hativat Yiftach  10,Lod",20 - 45 min
+2283,"Aharon Ben Yosef St.  25,Ramla",18 - 40 min
+2284,"Uzi Hitman St.  3,Netanya",1 hr 5 min - 1 hr 40 min
+2285,"Ehud Manor St.  18,Netanya",1 hr 5 min - 1 hr 40 min
+2286,"Dwight Eisenhower St.  3,Netanya",1 hr 5 min - 1 hr 40 min
+2287,"Uzi Hitman St.  11,Netanya",1 hr 5 min - 1 hr 40 min
+2288,"Uzi Hitman St.  5,Netanya",1 hr 5 min - 1 hr 40 min
+2289,"Ehud Manor St.  7,Netanya",1 hr 5 min - 1 hr 40 min
+2290,"Sderot Ben Gurion  141,Netanya",
+2291,"Sderot Ben Gurion  2,Netanya",1 hr 10 min - 1 hr 50 min
+2292,"Ha-Hadarim St.  19,Lod",20 - 45 min
+2293,Akhad ha-Am St. Ashdod,28 - 55 min
+2294,HaEtrog St. Ramla,16 - 35 min
+2295,"Ha-Khamisha St.  42,Rosh Haayin",40 min - 1 hr 10 min
+2296,HaEtrog St. Ramla,16 - 35 min
+2297,"Ben Tsvi Boulevard  82,Netanya",1 hr 5 min - 1 hr 40 min
+2298,"Ha-Khamisha St.  42,Rosh Haayin",40 min - 1 hr 10 min
+2299,"Shaul Hadadi St.  14,Bat Yam",22 - 40 min
+2300,Yosef Aharonovich St. Holon,22 - 40 min
+2301,"HaHashmonaim St.  6,Bat Yam",24 - 45 min
+2302,"HaBanim St.  25,Holon",24 - 40 min
+2303,"Moshe Dayan St.  6,Ramla",16 - 35 min
+2304,"Abba Hillel Silver Road  44,Ramat Gan",35 min - 1 hr 5 min
+2305,"Eshel St.  5,Bat Hefer",1 hr - 1 hr 40 min
+2306,"Hativat Harel St.  3,Lod",16 - 35 min
+2307,"Henrietta Szold St.  114,Lod",18 - 40 min
+2308,"Ben Shemen St.  12,Lod",18 - 40 min
+2309,"Salnikin St.  4,Lod",24 - 50 min
+2310,"Yehoshua Rabinovich St.  28,Holon",22 - 40 min
+2311,Through a beacon Ma'ale Efrayim,1 hr 40 min - 2 hr 30 min
+2312,"Uzi Hitman St.  21,Netanya",1 hr 5 min - 1 hr 40 min
+2313,Basel St. Beer Sheva,1 hr - 1 hr 40 min
+2314,"Mordehai HaYehudi St.  12,Rishon LeTsiyon",22 - 40 min
+2315,"Ha-Gdud ha-Ivri St.  1,Ramla",16 - 35 min
+2316,"Haim Moshe Shapira St.  12,Lod",20 - 45 min
+2317,"HaKalir St.  11,Netanya",1 hr 5 min - 1 hr 40 min
+2318,Hannah U-Michael Levin St. Rishon LeTsiyon,22 - 40 min
+2319,Shvo St. Beer Yaakov,16 - 30 min
+2320,"Amal St.  10,Holon",24 - 40 min
+2321,"A.D. Gordon St.  2,Rishon LeTsiyon",16 - 30 min
+2322,"Elazar Ben Yair St.  67,Arad",1 hr 10 min - 1 hr 40 min
+2323,"Pinsker St.  30,Nahariyya",1 hr 50 min - 3 hr
+2324,"Iris St.  26,Nahariyya",1 hr 50 min - 2 hr 50 min
+2325,"the date  204,Nir Moshe",NA
+2326,HaMaayan St. Givatayim,35 min - 1 hr 10 min
+2327,HaMaayan St. Givatayim,35 min - 1 hr 10 min
+2328,HaMaayan St. Givatayim,35 min - 1 hr 10 min
+2329,HaMaayan St. Givatayim,35 min - 1 hr 10 min
+2330,"Katzenelson St.  63,Givatayim",40 min - 1 hr 10 min
+2331,"Gilad St.  6,Rosh Haayin",40 min - 1 hr 10 min
+2332,"Sderot Hayim Weizman  101,Netanya",1 hr 10 min - 1 hr 50 min
+2333,Nahalat Tsvi St. Petah Tikva,NA
+2334,"Shaar HaGai St.  5,Netanya",1 hr 10 min - 1 hr 50 min
+2335,"Keren Kayemet le-Yisrael St.  18,Kiryat Bialik",1 hr 30 min - 2 hr 30 min
+2336,Albert Einstein St. Lod,20 - 40 min
+2337,Kibuts Galuyot St. Ashdod,26 - 55 min
+2338,Jabotinski St. Ashkelon,40 min - 1 hr 15 min
+2339,Janus Korczak St. Ashkelon,40 min - 1 hr 15 min
+2340,Ha-Psanter St. Rishon LeTsiyon,16 - 28 min
+2341,"Shvil HaMarganit  3,Akko",1 hr 40 min - 2 hr 40 min
+2342,Shabazi St. Ramla,16 - 40 min
+2343,"Sokolov St.  5,Bat Yam",28 - 50 min
+2344,HaGdud Haivri St. Bat Yam,24 - 45 min
+2345,Sokolov St. Bat Yam,26 - 50 min
+2346,Daniel St. Bat Yam,24 - 45 min
+2347,Sokolov St. Bat Yam,26 - 50 min
+2348,Derech Ben Gurion Bat Yam,
+2349,HaBanim St. Holon,24 - 40 min
+2350,Herzl St. Bat Yam,
+2351,HaAtsmaut Boulevard Bat Yam,26 - 50 min
+2352,Halper St. Bat Yam,26 - 50 min
+2353,Sayarim St. Gan Yavne,20 - 35 min
+2354,Avraham Ofer St. Ashdod,28 min - 1 hr
+2355,"Asa Kadmoni St.  10,Tel Aviv-Yafo",30 - 55 min
+2356,HaGiborim St. Bat Yam,24 - 45 min
+2357,"Shevet Dan St.  16,Ashdod",30 - 55 min
+2358,"Kabir St.  32,Tel Aviv-Yafo",30 - 55 min
+2359,Yosef Tsvi Rimon St. Jerusalem,45 min - 1 hr 15 min
+2360,Kaf-Tet BeNovember St. Bat Yam,22 - 40 min
+2361,"Sderto HaShita St.  19,Ofakim",1 hr - 1 hr 40 min
+2362,HaRav Shalom Shabazi St. Jerusalem,50 min - 1 hr 25 min
+2363,Avraham Stern St. Jerusalem,50 min - 1 hr 25 min
+2364,Moshe Shapira St. Netanya,1 hr 10 min - 1 hr 50 min
+2365,"Herbert Samuel St.  90,Hadera",1 hr 10 min - 1 hr 50 min
+2366,"Kadish Luz St.  13,Haifa",1 hr 30 min - 2 hr 20 min
+2367,"Sderot Emek Hefer  3,Ashkelon",45 min - 1 hr 15 min
+2368,"Rubin St.  18,Harish",1 hr 10 min - 1 hr 50 min
+2369,"HaShomer St.  20,Ramla",18 - 35 min
+2370,Ramban St. Beer Sheva,55 min - 1 hr 25 min
+2371,"Abba Hillel Silver Road  39,Ramat Gan",40 min - 1 hr 5 min
+2372,Bernstein St. Holon,26 - 45 min
+2373,Israel Shochat St. Beer Sheva,1 hr - 1 hr 40 min
+2374,"David Niv St.  11,Beer Sheva",1 hr - 1 hr 40 min
+2375,Ofira St. Beer Sheva,1 hr - 1 hr 40 min
+2376,"Kalanit St.  74,Beer Sheva",1 hr 5 min - 1 hr 40 min
+2377,Kalanit St. Netivot,1 hr - 1 hr 30 min
+2378,"Tabenkin St.  12,Beer Sheva",1 hr - 1 hr 30 min
+2379,Herzl Blvd Jerusalem,45 min - 1 hr 20 min
+2380,A.L. Ziso St. Beer Sheva,1 hr - 1 hr 30 min
+2381,"Barukh Karo St.  22,Tel Aviv-Yafo",26 - 50 min
+2382,Shaul HaMelech St. Beer Sheva,
+2383,Shahal St. Beer Sheva,1 hr - 1 hr 40 min
+2384,Krinitsi St. Ramat Gan,40 min - 1 hr 10 min
+2385,Shaul Zilberman St. Rehovot,8 - 14 min
+2386,Atsmaut St. Ness Ziona,14 - 30 min
+2387,"Rambam St.  43,Bet Shemesh",30 - 55 min
+2388,"Ha-Arava St.  63,Ariel",55 min - 1 hr 30 min
+2389,Ha-Talmud St. Beer Sheva,55 min - 1 hr 25 min
+2390,Bar Nisan St. Beer Sheva,NA
+2391,Gershon Avner St. Jerusalem,
+2392,Ehud Manor St. Holon,24 - 45 min
+2393,Wingate St. Beer Sheva,55 min - 1 hr 30 min
+2394,Rahvat HaRosh Beersheba,55 min - 1 hr 30 min
+2395,Abba Ahimeir St. Ramla,
+2396,"Shapira St.  3,Ashkelon",45 min - 1 hr 15 min
+2397,"Yitskhak Rabin St.  40,Holon",22 - 40 min
+2398,Anafa St. Karmiel,1 hr 50 min - 2 hr 50 min
+2399,Yosef Nakar St. Petah Tikva,40 min - 1 hr 5 min
+2400,"Derech Menachem Begin  144,Tel Aviv-Yafo",35 min - 1 hr
+2401,Ha-Neviim St. Bat Yam,24 - 45 min
+2402,"Dafna St.  34,Tel Aviv-Yafo",40 min - 1 hr 10 min
+2403,"Shlomo ha-Melekh St.  37,Herzliya",50 min - 1 hr 25 min
+2404,Uziel St. Ramat Gan,40 min - 1 hr 10 min
+2405,"Alma St.  11,Jerusalem",45 min - 1 hr 25 min
+2406,"Ha-Khartsit St.  9,Rishon LeTsiyon",18 - 35 min
+2407,"Tsvi Hirschfeld St.  37,Rishon LeTsiyon",16 - 26 min
+2408,"Meir Yaari St.  18,Tel Aviv-Yafo",45 min - 1 hr 10 min
+2409,"HaOranim St.  1,Yokneam Illit",1 hr 25 min - 2 hr 10 min
+2410,"Shmuel Tamir Katzenelson St.  20,Jerusalem",50 min - 1 hr 25 min
+2411,"Shmaryahu Levin St.  7,Rishon LeTsiyon",20 - 40 min
+2412,"Ha-Zamir St.  16,Nahariyya",NA
+2413,"Kiryat Shmona St.  4,Holon",22 - 45 min
+2414,"Yisra'el Poli Polyakov St.  6,Ramla",14 - 28 min
+2415,"Jerusalem St.  28,Rishon LeTsiyon",18 - 35 min
+2416,Bareket St. Ashdod,30 - 55 min
+2417,"Bayit Vagan St.  19,Bat Yam",24 - 40 min
+2418,Ha-Almugim St. Rishon LeTsiyon,20 - 40 min
+2419,Yehoshua Hankin St. Holon,26 - 50 min
+2420,Shivat Tsiyon St. Ashkelon,40 min - 1 hr 10 min
+2421,"Megiddo St.  1,Ashkelon",40 min - 1 hr 10 min
+2422,Ha-Tayasim St. Ashkelon,40 min - 1 hr 10 min
+2423,"Exodus St.  32,Ashkelon",35 min - 1 hr 5 min
+2424,"Ha-Histadrut St.  29,Ashkelon",40 min - 1 hr 15 min
+2425,"David Raziel St.  6,Ashkelon",35 min - 1 hr 5 min
+2426,Hatsiyyonut Boulevard Ashkelon,35 min - 1 hr 5 min
+2427,"Tirosh St.  25,Ashkelon",40 min - 1 hr 5 min
+2428,HaRav Yechya Arosi St. Ashkelon,40 min - 1 hr 10 min
+2429,"HaYain Road  15,Ashkelon",35 min - 1 hr 5 min
+2430,"Ort St.  12,Ashkelon",40 min - 1 hr 10 min
+2431,HaYain Road Ashkelon,35 min - 1 hr 5 min
+2432,Maale Ha-Gat St. Ashkelon,35 min - 1 hr 5 min
+2433,"Yiftakh St.  1,Ashkelon",40 min - 1 hr 15 min
+2434,Shvil Hodshey ha-Shana Ashkelon,40 min - 1 hr 5 min
+2435,Ha-Negev St. Ashkelon,35 min - 1 hr 5 min
+2436,Caf Tet Benovenber St. Ashkelon,35 min - 1 hr 5 min
+2437,"Yaakov Meridor St.  8,Ashkelon",35 min - 1 hr 5 min
+2438,"Hatsiyyonut Boulevard  77,Ashkelon",35 min - 1 hr 5 min
+2439,"Sderot Emek Hefer  17,Ashkelon",40 min - 1 hr 15 min
+2440,Yoseftal St. Bat Yam,24 - 45 min
+2441,"Wingate St.  1,Tel Aviv-Yafo",30 - 55 min
+2442,"Yoseftal St.  45,Bat Yam",24 - 45 min
+2443,"Sderot Yad LaBanim  23,Tel Aviv-Yafo",35 min - 1 hr
+2444,"Givat HaTahmoshet St.  30,Holon",20 - 40 min
+2445,Gershon Avner St. Jerusalem,1 hr - 1 hr 50 min
+2446,"Kalischer St.  48,Beer Sheva",1 hr - 1 hr 30 min
+2447,"Derech HaBsor  19,Meitar",1 hr - 1 hr 25 min
+2448,"Golani St.  101,Tiberias",NA
+2449,Ha-Zmora St. Rishon LeTsiyon,18 - 35 min
+2450,Kheil Nashim St. Jerusalem,50 min - 1 hr 40 min
+2451,Yoseftal St. Bat Yam,24 - 45 min
+2452,Karl Netter St. Rishon LeTsiyon,20 - 35 min
+2453,Derech Ben Gurion Bat Yam,26 - 50 min
+2454,"Derech Ben Gurion  11,Rehovot",8 - 14 min
+2455,"Nissim Aloni St.  5,Tel Aviv-Yafo",40 min - 1 hr 5 min
+2456,David Reznik St. Netanya,1 hr 5 min - 1 hr 50 min
+2457,Mivtsa Moshe St. Beer Sheva,1 hr - 1 hr 40 min
+2458,"Herzl St.  4,Zikhron Yaakov",1 hr 25 min - 2 hr 10 min
+2459,"Ha-Pisga St.  24,אריאל",55 min - 1 hr 30 min
+2460,Yona Ben Amitai St. Bet Shemesh,40 min - 1 hr 10 min
+2461,HaKosem Milublin St. Rishon LeTsiyon,18 - 35 min
+2462,Ha-Rama St. Ramla,14 - 30 min
+2463,"Shor St.  4,Eilat",3 hr 20 min - 4 hr 40 min
+2464,Simtat Naama Eilat,3 hr 20 min - 4 hr 30 min
+2465,"Tsin Lane  688,Eilat",3 hr 20 min - 4 hr 40 min
+2466,"Parag St.  4,Eilat",3 hr 20 min - 4 hr 30 min
+2467,"Sderot Argaman  28,Eilat",3 hr 20 min - 4 hr 40 min
+2468,Derekh ha-Bsamim Eilat,NA
+2469,"Ein Netafim St.  29,Eilat",3 hr 20 min - 4 hr 30 min
+2470,Etsel St. Netanya,1 hr 10 min - 1 hr 50 min
+2471,Rothschild St. Rishon LeTsiyon,16 - 30 min
+2472,Yunitsman St. Tel Aviv-Yafo,50 min - 1 hr 15 min
+2473,"Derech Ben Gurion  138,Bat Yam",24 - 45 min
+2474,"Rimon St.  327,Tzur Hadassah",45 min - 1 hr 15 min
+2475,Anielewicz St. Holon,24 - 45 min
+2476,Ha-Aliya St. Nahariyya,2 - 3 hr
+2477,"Natan Elbaz St.  6,Ashdod",28 - 50 min
+2478,Ha-Ganenet St. Jerusalem,50 min - 1 hr 20 min
+2479,"Natan Elbaz St.  6,Ashdod",28 - 50 min
+2480,"Nahal Kishon St.  15,Ashdod",30 - 55 min
+2481,"Mevo Elkalai  7,Ashdod",26 - 50 min
+2482,"Yitshak Sadeh St.  8,Bat Yam",26 - 50 min
+2483,Ha-Lot St. Jerusalem,50 min - 1 hr 25 min
+2484,"Mota Gur St.  6,Kiryat Motzkin",1 hr 40 min - 2 hr 30 min
+2485,"HaMaapilim St.  42,Ashdod",26 - 55 min
+2486,"onyx  20,Be'er Ya'akov",16 - 40 min
+2487,"Mivtsa Ovda St.  34,Ariel",55 min - 1 hr 40 min
+2488,Vilna St. Ramla,18 - 40 min
+2489,"Professor Avraham Amir St.  3,Beer Sheva",55 min - 1 hr 25 min
+2490,Moshe Kahiri St. Beer Sheva,55 min - 1 hr 25 min
+2491,Gideon Hausner St. Beer Sheva,55 min - 1 hr 25 min
+2492,"Moshe Dayan St.  4,Ramla",16 - 35 min
+2493,Truman St. Ramat Gan,35 min - 1 hr 10 min
+2494,HaShomer St. Bat Yam,26 - 45 min
+2495,Masaryk St. Bat Yam,26 - 50 min
+2496,Harduf St. Jerusalem,55 min - 1 hr 25 min
+2497,Eliyahu Golomb St. Netanya,1 hr 10 min - 2 hr
+2498,"Romema St.  31,Tel Aviv-Yafo",45 min - 1 hr 15 min
+2499,"1331 St.  3,Tel Aviv-Yafo",35 min - 1 hr 5 min
+2500,Yoseftal St. Ramla,18 - 40 min
+2501,Samuel Luis Herbert St. Rishon LeTsiyon,20 - 35 min
+2502,Ha-Rav Tsadok St. Rishon LeTsiyon,20 - 40 min
+2503,Berl Katznelson St. Rishon LeTsiyon,16 - 28 min
+2504,"Hivner St.  23,Petah Tikva",40 min - 1 hr 10 min
+2505,"Venus St.  9,Eilat",3 hr 20 min - 4 hr 30 min
+2506,"Sderot Hen  7,Netanya",1 hr 10 min - 2 hr
+2507,"Ussishkin St.  10,Ramat Hasharon",45 min - 1 hr 20 min
+2508,"HaTanaim St.  2,Holon",24 - 40 min
+2509,Herzl St. Nahariyya,2 - 3 hr
+2510,Yehuda Leib Pinsker St. Rishon LeTsiyon,20 - 40 min
+2511,"Maalot St.  16,Holon",22 - 45 min
+2512,"Beilinson St.  6,Holon",24 - 40 min
+2513,"Nissim Aloni St.  4,Tel Aviv-Yafo",40 min - 1 hr 5 min
+2514,HaLevana St. Rishon LeTsiyon,22 - 40 min
+2515,Ha-Oren St. Karmiel,1 hr 50 min - 2 hr 50 min
+2516,Rothschild St. Bat Yam,28 - 50 min
+2517,Dan St. Jerusalem,50 min - 1 hr 25 min
+2518,Dan St. Jerusalem,50 min - 1 hr 25 min
+2519,"Kdoshei Irak St.  22,Netanya",1 hr 10 min - 1 hr 50 min
+2520,"Yokhanan ha-Sandlar St.  2,Rishon LeTsiyon",22 - 40 min
+2521,"HaShikma St.  32,Bat Yam",26 - 45 min
+2522,Mishmarot St. Jerusalem,50 min - 1 hr 30 min
+2523,"Yefe-Rom St.  5,Jerusalem",55 min - 1 hr 25 min
+2524,Al Kanfei Nesharim St. Rishon LeTsiyon,22 - 40 min
+2525,"Bialik St.  40,Ashdod",28 - 55 min
+2526,"Hoshea St.  18,Tel Aviv-Yafo",45 min - 1 hr 15 min
+2527,Tchernichovsky St. Jerusalem,50 min - 1 hr 40 min
+2528,Nahal HaBsor St. Ashdod,30 - 55 min
+2529,"Nesher St.  4,Nahariyya",1 hr 50 min - 3 hr
+2530,"Derech Ben Gurion  125,Bat Yam",24 - 45 min
+2531,"Yitshak Sadeh St.  8,Bat Yam",26 - 50 min
+2532,Balfour St. Bat Yam,26 - 50 min
+2533,Herzl St. Bat Yam,28 - 50 min
+2534,"Ha-Komemiyut St.  1,Bat Yam",24 - 45 min
+2535,"Ha-Neviim St.  54,Bat Yam",24 - 45 min
+2536,"Yohanan HaSandlar St.  6,Bat Yam",24 - 45 min
+2537,"Ha-Neviim St.  58,Bat Yam",24 - 45 min
+2538,"Yerushalayim St.  46,Bat Yam",24 - 45 min
+2539,"Derech Ben Gurion  125,Bat Yam",24 - 45 min
+2540,"Yitshak Sadeh St.  4,Bat Yam",24 - 45 min
+2541,"Tabenkin St.  13,Bat Yam",26 - 50 min
+2542,"Yoseftal St.  115,Bat Yam",22 - 40 min
+2543,"Yigal Mosinzon St.  28,Or Akiva",1 hr 30 min - 2 hr 10 min
+2544,"Derech Ben Gurion  97,Bat Yam",NA
+2545,"Ha-Neviim St.  60,Bat Yam",24 - 45 min
+2546,"Yitshak Sadeh St.  6,Bat Yam",24 - 45 min
+2547,"Herzl St.  49,Bat Yam",28 - 50 min
+2548,"Derech Ben Gurion  97,Bat Yam",26 - 50 min
+2549,Ha-Komemiyut St. Bat Yam,22 - 40 min
+2550,"HaMashot St.  9,Yavne",14 - 26 min
+2551,"Yehuda Leib Pinsker St.  50,Rishon LeTsiyon",20 - 40 min
+2552,"Barkan St.  17,Holon",24 - 45 min
+2553,"HaRav Rubinstein St.  51,Tel Aviv-Yafo",24 - 40 min
+2554,"Yehoshua Hankin St.  118,Holon",26 - 50 min
+2555,"Moshe Sharet St.  19,Bat Yam",24 - 45 min
+2556,"Ha-Tayasim St.  1,Holon",22 - 40 min
+2557,Kehilat Lvov St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+2558,Prof. Katsir St. Holon,26 - 45 min
+2559,"Herzl St.  17,Ness Ziona",14 - 24 min
+2560,Shaul HaMelech St. Beer Sheva,55 min - 1 hr 30 min
+2561,"Doctor Yohanan Bader St.  6,Ramat Gan",40 min - 1 hr 15 min
+2562,Ha-Shunit St. Herzliya,50 min - 1 hr 20 min
+2563,"Naaman Belkind St.  7,Netanya",1 hr 10 min - 1 hr 50 min
+2564,"Y.M. Pines St.  14,Netanya",1 hr 10 min - 1 hr 50 min
+2565,"Perlstein St.  1,Bat Yam",26 - 50 min
+2566,"Ha-Tsipornim St.  3,Bat Yam",22 - 40 min
+2567,Mivtsa Dekel St. Petah Tikva,45 min - 1 hr 20 min
+2568,Shlomo Eliraz St. Rishon LeTsiyon,22 - 40 min
+2569,Mordekhy Elqahi St. Jerusalem,1 hr - 1 hr 50 min
+2570,"Haim Nachman Bialik St.  37,Beer Sheva",1 hr - 1 hr 40 min
+2571,"Sderot Ben Gurion  141,Netanya",1 hr 5 min - 1 hr 50 min
+2572,"Sidney Smith St.  144,Acre",1 hr 50 min - 2 hr 50 min
+2573,"Thelma Yellin St.  7,Mazkeret Batya",12 - 26 min
+2574,"Tnuot ha-Noar St.  18,Rishon LeTsiyon",NA
+2575,"HaPeleg St.  265,Beerotayim",1 hr - 1 hr 40 min
+2576,"Salah ad Din St.  82,Acre",1 hr 50 min - 2 hr 50 min
+2577,Ha-Akhim Suleiman St. Rishon LeTsiyon,22 - 40 min
+2578,"Ha-Tsiv'oni  17,Nofim",1 hr - 1 hr 40 min
+2579,"Sderot Max VeAmpro Shein  12,Rehovot",2 min
+2580,"Ahad HaAm St.  3,Tiberias",1 hr 50 min - 2 hr 40 min
+2581,"Rothschild St.  160,Petah Tikva",40 min - 1 hr 10 min
+2582,Shmuel Salant St. Petah Tikva,40 min - 1 hr 10 min
+2583,"Zeev Brande St.  21,Petah Tikva",40 min - 1 hr 15 min
+2584,"Zeev Brande St.  21,Petah Tikva",40 min - 1 hr 15 min
+2585,"Zeev Brande St.  44,Petah Tikva",40 min - 1 hr 10 min
+2586,"Shmuel Salant St.  25,Petah Tikva",40 min - 1 hr 10 min
+2587,"Shmuel Salant St.  25,Petah Tikva",40 min - 1 hr 10 min
+2588,"Zeev Brande St.  44,Petah Tikva",40 min - 1 hr 10 min
+2589,Tchernikhovski St. Bat Yam,26 - 50 min
+2590,Shlomo Eliraz St. Rishon LeTsiyon,22 - 40 min
+2591,Hasar Pinkas St. Bat Yam,26 - 50 min
+2592,Khisdai St. Holon,22 - 40 min
+2593,"Yud Alef be-Adar St.  14,Holon",24 - 40 min
+2594,HaRav Shimon Yitshak Afaryat St. Ramla,18 - 40 min
+2595,"Nakhshol St.  8,Ramla",16 - 35 min
+2596,Herzl St. Ness Ziona,14 - 24 min
+2597,Refael de la Pergola St. Jerusalem,55 min - 1 hr 30 min
+2598,Natan Elbaz St. Ashdod,28 - 50 min
+2599,Mango St. Ashdod,28 - 55 min
+2600,Ha-Gra mi-Vilna St. Ashdod,24 - 45 min
+2601,Ha-Reshet St. Bat Yam,26 - 50 min
+2602,Rachel Imenu St. Jerusalem,55 min - 1 hr 30 min
+2603,Kovshei ha-Khermon St. Bat Yam,24 - 40 min
+2604,"Khazit Khamesh St.  11,Holon",24 - 40 min
+2605,"Moshe Dayan Road  61,Tel Aviv-Yafo",30 min - 1 hr
+2606,"Beit Yisrael St.  30,Immanuel",1 hr 5 min - 1 hr 40 min
+2607,Huberman St. Beer Sheva,1 hr - 1 hr 40 min
+2608,HaHashmonaim St. Netanya,NA
+2609,"Ahad HaAm St.  7,Bat Yam",26 - 50 min
+2610,Max Nordau St. Bat Yam,
+2611,HaGat St. Rishon LeTsiyon,20 - 35 min
+2612,"Ha-Reshet St.  21,Bat Yam",26 - 50 min
+2613,"Zamenhoff St.  10,Bat Yam",26 - 50 min
+2614,Rashi St. Rishon LeTsiyon,22 - 40 min
+2615,"Ha-Lulav St.  29,Rishon LeTsiyon",22 - 40 min
+2616,"Sderot Eliyahu Golomb  11,Haifa",1 hr 40 min - 2 hr 30 min
+2617,"Zayit St.  1,Nili",35 min - 1 hr 10 min
+2618,"Arik Einstein  3,Bat Yam",
+2619,"Arik Einstein  3,Bat Yam",
+2620,"Simha Holtsberg St.  5,Rehovot",3 - 6 min
+2621,Aizick Remba St. Jerusalem,1 hr - 1 hr 50 min
+2622,"Vered St.  27,Kiryat Motzkin",1 hr 40 min - 2 hr 30 min
+2623,Ringelblum St. Beer Sheva,55 min - 1 hr 25 min
+2624,Etrog St. Bat Yam,24 - 40 min
+2625,Israel Shochat St. Beer Sheva,1 hr - 1 hr 40 min
+2626,HaNofar St. Netanya,1 hr 5 min - 1 hr 50 min
+2627,Miss Landau St. Jerusalem,50 min - 1 hr 25 min
+2628,Sderot Ben Gurion Netanya,1 hr 5 min - 1 hr 40 min
+2629,"Yosef Lapid St.  3,Netanya",
+2630,HaZayit St. Pardesiya,1 hr - 1 hr 50 min
+2631,Marcel Janco St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+2632,Topaz St. Beer Yaakov,16 - 35 min
+2633,Maze St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+2634,Emek Refaim St. Jerusalem,55 min - 1 hr 40 min
+2635,"Shmaaya St.  14,Elad",35 min - 1 hr 10 min
+2636,Ein Gedi St. Jerusalem,55 min - 1 hr 40 min
+2637,Eliezer ha-Levi St. Jerusalem,45 min - 1 hr 15 min
+2638,Eliezer ha-Levi St. Jerusalem,45 min - 1 hr 15 min
+2639,HaMelits St. Jerusalem,55 min - 1 hr 40 min
+2640,Ben Yefune St. Jerusalem,55 min - 1 hr 40 min
+2641,Moshe Yustman St. Jerusalem,50 min - 1 hr 30 min
+2642,Binyamin mi-Tudela St. Jerusalem,45 min - 1 hr 30 min
+2643,Beit Lehem Road Jerusalem,55 min - 1 hr 40 min
+2644,HaPalmach St. Jerusalem,50 min - 1 hr 40 min
+2645,Refael de la Pergola St. Jerusalem,
+2646,Ein Gedi St. Jerusalem,55 min - 1 hr 40 min
+2647,Gershon Avner St. Jerusalem,
+2648,Miss Landau St. Jerusalem,50 min - 1 hr 25 min
+2649,Agripas St. Jerusalem,45 min - 1 hr 25 min
+2650,Shimshon St. Jerusalem,55 min - 1 hr 40 min
+2651,Shimshon St. Jerusalem,55 min - 1 hr 40 min
+2652,Eliyahu Hakim St. Jerusalem,1 hr - 1 hr 40 min
+2653,Mahane Yehuda St. Jerusalem,45 min - 1 hr 20 min
+2654,Nisim Bachar St. Jerusalem,45 min - 1 hr 20 min
+2655,Beit Lehem Road Jerusalem,55 min - 1 hr 40 min
+2656,Harduf St. Jerusalem,
+2657,Zeev Vilnai St. Jerusalem,45 min - 1 hr 20 min
+2658,HaZefira St. Jerusalem,55 min - 1 hr 30 min
+2659,Hashofet Haim Cohen St. Jerusalem,1 hr - 1 hr 40 min
+2660,"Nitai HaArbeli St.  20,Jerusalem",50 min - 1 hr 25 min
+2661,Arieh Ben Eliezer St. Jerusalem,50 min - 1 hr 25 min
+2662,"Tsvi Arkin St.  2,Gedera",14 - 28 min
+2663,HaTurmos St. Rishon LeTsiyon,18 - 35 min
+2664,Lavontin St. Rishon LeTsiyon,18 - 35 min
+2665,"HaKovesh St.  12,Rishon LeTsiyon",22 - 40 min
+2666,"Ha-Teenim St.  39,Kiryat Ata",1 hr 30 min - 2 hr 20 min
+2667,"Ha-Teenim St.  39,Kiryat Ata",1 hr 30 min - 2 hr 20 min
+2668,Herzl St. Bat Yam,
+2669,Tchernikhovski St. Bat Yam,
+2670,"Yehuda ha-Maccabi St.  23,Ashdod",26 - 50 min
+2671,"Nave Sha'anan St.  132,Ari'el",55 min - 1 hr 40 min
+2672,"Amichai St.  22,Ramla",16 - 35 min
+2673,"Abarbanel St.  23,Jerusalem",50 min - 1 hr 30 min
+2674,Ha-Tsiyonut St. Ashdod,28 - 55 min
+2675,Rogozin St. Ashdod,28 min - 1 hr
+2676,"Khatam Sofer St.  30,עמנואל",1 hr 5 min - 1 hr 40 min
+2677,"Yehoshua Rabinovich St.  38,Holon",22 - 40 min
+2678,HaEtrog St. Ramla,16 - 35 min
+2679,Ha-Hagana St. Zikhron Yaakov,1 hr 25 min - 2 hr 10 min
+2680,"Aharon Buganim St.  12,Ramla",16 - 35 min
+2681,"Beilinson St.  6,Holon",
+2682,"David HaMelech St.  8,Netanya",1 hr 10 min - 1 hr 50 min
+2683,"Arik Lavi St.  14,Netanya",1 hr 5 min - 1 hr 40 min
+2684,Geula St. Raanana,50 min - 1 hr 25 min
+2685,Nordau St. Rishon LeTsiyon,16 - 30 min
+2686,"Avraham Shapira St.  17,Ashdod",26 - 50 min
+2687,"Kheil ha-Khimush St.  15,Rishon LeTsiyon",22 - 40 min
+2688,Kdoshei Kahir St. Bat Yam,26 - 50 min
+2689,"Kinneret St.  5,Haifa",1 hr 30 min - 2 hr 20 min
+2690,Aluf Kalman Magen St. Tel Aviv-Yafo,35 min - 1 hr
+2691,Herzl St. Nahariyya,
+2692,Sa Nes St. Beer Yaakov,16 - 40 min
+2693,"HaShikma St.  24,Bat Yam",24 - 45 min
+2694,Ha-Kalanit St. Ashdod,24 - 50 min
+2695,David Niv St. Beer Sheva,1 hr - 1 hr 40 min
+2696,Bar Nisan St. Beer Sheva,1 hr - 1 hr 40 min
+2697,Sanhedrin St. Beer Sheva,55 min - 1 hr 25 min
+2698,Sderot Johana Jabotinsky Beersheba,1 hr - 1 hr 40 min
+2699,Ringelblum St. Beer Sheva,55 min - 1 hr 25 min
+2700,Wingate St. Beer Sheva,55 min - 1 hr 30 min
+2701,Yona Bugla St. Rishon LeTsiyon,18 - 35 min
+2702,"Abarbanel St.  85,Bnei Brak",40 min - 1 hr 10 min
+2703,"Yisra'el Poli Polyakov St.  11,Ramla",14 - 28 min
+2704,HaOgen St. Herzliya,50 min - 1 hr 20 min
+2705,"Sderot Binyamin  23,Netanya",1 hr 10 min - 1 hr 50 min
+2706,"Ha-Alonim St.  5,Ramla",14 - 35 min
+2707,"Mohiliver St.  24,Rishon LeTsiyon",20 - 40 min
+2708,"Israel Shochat St.  6,Beer Sheva",1 hr - 1 hr 40 min
+2709,Vitkin St. Rishon LeTsiyon,20 - 40 min
+2710,"Yahalom St.  3,Or Yehuda",30 - 55 min
+2711,HaMigdal HaLavan St. Ramla,14 - 28 min
+2712,Moshe Sharet St. Beer Sheva,55 min - 1 hr 30 min
+2713,"Yahalom St.  7,Beer Yaakov",16 - 35 min
+2714,"Simtat HaDagan  15,Ramat Yishay",1 hr 25 min - 2 hr 10 min
+2715,"Gad St.  2,Beer Sheva",1 hr - 1 hr 40 min
+2716,Alef Samech Levi St. Ramla,14 - 35 min
+2717,Khaviva Reik St. Bat Yam,24 - 45 min
+2718,HaRav Kuk St. Holon,26 - 55 min
+2719,John Kennedy St. Rosh Haayin,40 min - 1 hr 10 min
+2720,"Rabbi Yanai St.  7,Bet Shemesh",35 min - 1 hr
+2721,"Nissim Aloni St.  21,Tel Aviv-Yafo",
+2722,"Nissim Aloni St.  21,Tel Aviv-Yafo",
+2723,Ha Almogim St. Ashdod,28 min - 1 hr
+2724,Ha-Rav Khayim Pinto St. Ashdod,24 - 45 min
+2725,Mango St. Ashdod,
+2726,Keren ha-Yesod St. Ashdod,30 - 55 min
+2727,Egoz St. Ashdod,30 - 55 min
+2728,"Hativat Harel St.  4,Lod",16 - 35 min
+2729,"לאה אימנו  12,Lod",18 - 40 min
+2730,"Yakinton St.  2,Lod",20 - 45 min
+2731,"Sigalon St.  16,Lod",20 - 40 min
+2732,"Ha-Matsbiim St.  8,Lod",16 - 35 min
+2733,Tsvi Hirschfeld St. Rishon LeTsiyon,16 - 26 min
+2734,HaGanim St. Ramat Hasharon,45 min - 1 hr 15 min
+2735,"Eshkolit  1,Ashdod",NA
+2736,"Givat HaTahmoshet St.  28,Holon",20 - 40 min
+2737,Shivat Tsiyon St. Rishon LeTsiyon,18 - 35 min
+2738,"Tsvi Herman Shapira St.  16,Rishon LeTsiyon",18 - 35 min
+2739,Ein Dor St. Rishon LeTsiyon,20 - 40 min
+2740,Shivat Tsiyon St. Rishon LeTsiyon,18 - 35 min
+2741,Mishmar HaYarden St. Rishon LeTsiyon,20 - 40 min
+2742,Natan Bernitski St. Rishon LeTsiyon,16 - 28 min
+2743,Dror St. Rishon LeTsiyon,20 - 40 min
+2744,Haim Saraf St. Rishon LeTsiyon,20 - 40 min
+2745,Abarbanel St. Rishon LeTsiyon,22 - 45 min
+2746,Na'aman St. Rishon LeTsiyon,20 - 35 min
+2747,Tsvi Frank St. Rishon LeTsiyon,20 - 45 min
+2748,Dror St. Rishon LeTsiyon,20 - 40 min
+2749,Jerusalem St. Rishon LeTsiyon,20 - 40 min
+2750,Yehoshua Gibstein St. Rishon LeTsiyon,18 - 30 min
+2751,Rambam St. Rishon LeTsiyon,22 - 40 min
+2752,Pnina U-Moshe St. Rishon LeTsiyon,22 - 40 min
+2753,Lubman St. Rishon LeTsiyon,18 - 35 min
+2754,Margolin St. Rishon LeTsiyon,20 - 40 min
+2755,Rambam St. Rishon LeTsiyon,22 - 40 min
+2756,David Remez St. Rishon LeTsiyon,14 - 24 min
+2757,Hannah U-Michael Levin St. Rishon LeTsiyon,22 - 40 min
+2758,Tsadi Gimel Banot St. Rishon LeTsiyon,
+2759,Eisenband St. Rishon LeTsiyon,22 - 40 min
+2760,Rashi St. Rishon LeTsiyon,22 - 40 min
+2761,Ha-Avot St. Rishon LeTsiyon,20 - 35 min
+2762,"Mordekhai Moteleh Rosenstein St.  8,Rishon LeTsiyon",22 - 45 min
+2763,Ha-Akhad Asar St. Rishon LeTsiyon,20 - 40 min
+2764,Ha-Gefen St. Rishon LeTsiyon,16 - 30 min
+2765,Asher Levin St. Rishon LeTsiyon,20 - 40 min
+2766,Yona Tsvi Feinstein St. Rishon LeTsiyon,18 - 30 min
+2767,David Alroi St. Rishon LeTsiyon,22 - 40 min
+2768,Nordau St. Rishon LeTsiyon,16 - 30 min
+2769,Stefan Weiz St. Rishon LeTsiyon,20 - 40 min
+2770,Spinoza St. Rishon LeTsiyon,18 - 35 min
+2771,Hazon Ish St. Rishon LeTsiyon,20 - 40 min
+2772,Henrietta Szold St. Rishon LeTsiyon,20 - 40 min
+2773,"Milkhemet Sheshet ha-Yamim St.  34,Netanya",1 hr 10 min - 1 hr 50 min
+2774,"Ezel St.  20,Holon",26 - 45 min
+2775,"The anemone  47,Eli",NA
+2776,Rifts Bekaot,1 hr 25 min - 2 hr 10 min
+2777,HaRav Arye Levin St. Ramla,16 - 35 min
+2778,"Elfa'l St.  1,Lod",20 - 45 min
+2779,"Moshe Levi  11,Ramla",16 - 35 min
+2780,"Dani Mas St.  11,Ramla",14 - 30 min
+2781,Aharon Kron St. Rishon LeTsiyon,16 - 30 min
+2782,Aharon Kron St. Rishon LeTsiyon,16 - 30 min
+2783,Rothschild St. Rishon LeTsiyon,
+2784,Rothschild St. Rishon LeTsiyon,
+2785,Rothschild St. Rishon LeTsiyon,
+2786,"Avraham Nisan St.  18,Jerusalem",50 min - 1 hr 20 min
+2787,"Eilot St.  7,Ariel",55 min - 1 hr 30 min
+2788,"Nakhal Lakhish St.  5,Ashdod",30 - 55 min
+2789,"HaOgen St.  7,Herzliya",50 min - 1 hr 20 min
+2790,Dizengoff St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+2791,Ahad HaAm St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+2792,Hankin St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+2793,Tsidon St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+2794,"Kinneret St.  14,Tel Aviv-Yafo",30 min - 1 hr 5 min
+2795,Yehuda ha-Levi St. Tel Aviv-Yafo,35 min - 1 hr 10 min
+2796,Alexander Yannai St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+2797,Ben Shaprut St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+2798,Dizengoff St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+2799,Doctor Bodenheimer St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+2800,Lassalle St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+2801,Sderot Chen Tel Aviv-Yafo,40 min - 1 hr 10 min
+2802,Tverya St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+2803,Ruppin St. Tel Aviv-Yafo,40 min - 1 hr 20 min
+2804,Shaul Avigur St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+2805,Balfour St. Tel Aviv-Yafo,35 min - 1 hr 5 min
+2806,HaGaon Eliyahu St. Ramat Gan,40 min - 1 hr 15 min
+2807,Nakhum Sokolov St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+2808,"Derech HaTsiyonut  36,Ariel",55 min - 1 hr 40 min
+2809,"Moshe Montefiore St.  15,Netanya",1 hr 10 min - 1 hr 50 min
+2810,Alon Tsvi St. Netanya,1 hr 10 min - 1 hr 50 min
+2811,"Yafa Yarkoni St.  6,Rosh Haayin",40 min - 1 hr 10 min
+2812,"Alef Samech Levi St.  11,Ramla",14 - 30 min
+2813,"Metula St.  5,Ramat Gan",35 min - 1 hr 10 min
+2814,Arava St. Karmiel,1 hr 50 min - 2 hr 50 min
+2815,"Ha-Tsiyonut St.  135,Ashdod",30 - 55 min
+2816,"Shlomo Skulski St.  8,Beer Sheva",1 hr 15 min - 2 hr 10 min
+2817,Har Knaan St. Ashdod,30 - 55 min
+2818,David HaMelech St. Ashdod,28 - 50 min
+2819,HaTikva St. Ashdod,28 - 55 min
+2820,HaDmumit Alley Ashdod,26 - 50 min
+2821,"Ha-Gra St.  6,Netanya",1 hr 10 min - 1 hr 50 min
+2822,Kohav HaTsafon St. Ashdod,28 - 55 min
+2823,HaEm St. Ramat Gan,35 min - 1 hr 10 min
+2824,Kokhav ha-Shakhar St. Ashdod,28 - 55 min
+2825,"Keren ha-Yesod St.  22,Ashdod",30 - 55 min
+2826,"Ehud Manor St.  14,Netanya",1 hr 5 min - 1 hr 50 min
+2827,Ehud Manor St. Beer Yaakov,18 - 35 min
+2828,"Sokolov St.  32,Holon",24 - 40 min
+2829,"A. Y. Shakhrai St.  22,Jerusalem",50 min - 1 hr 20 min
+2830,Abba Ahimeir St. Ramla,16 - 35 min
+2831,"Eitan Nave St.  18,Kiryat Gat",35 min - 1 hr
+2832,Sprinzak St. Rishon LeTsiyon,14 - 24 min
+2833,David Wolffsohn St. Rishon LeTsiyon,16 - 28 min
+2834,"Khoma u-Migdal St.  12,Haifa",1 hr 40 min - 2 hr 30 min
+2835,"Sarah Aaronsohn St.  18,Ashdod",30 - 55 min
+2836,"Ha-Shlosha St.  5,Bat Yam",24 - 45 min
+2837,"Sderot HaHaskala  17,Tel Aviv-Yafo",35 min - 1 hr
+2838,"Tsvi Horowits St.  154,Rehovot",6 - 9 min
+2839,Max Nordau St. Bat Yam,26 - 50 min
+2840,"Yoni Netanyahu St.  6,Givat Shmuel",35 min - 1 hr 5 min
+2841,"Tnuat HaMeri St.  5,Ramat Gan",40 min - 1 hr 10 min
+2842,Emek Yizrael St. Nahariyya,NA
+2843,"Sderot Yerushalayim  101,Ramat Gan",40 min - 1 hr 15 min
+2844,"HaAtsmaut Boulevard  67,Bat Yam",26 - 50 min
+2845,Shmaryahu Levin St. Holon,24 - 45 min
+2846,"Ya'ara St.  1,Kiryat Ekron",9 - 18 min
+2847,Dakar St. Lod,18 - 40 min
+2848,Tsadi Gimel Banot St. Rishon LeTsiyon,20 - 40 min
+2849,Olei HaGardom St. Rishon LeTsiyon,16 - 28 min
+2850,Ha-Rotem St. Rishon LeTsiyon,18 - 35 min
+2851,HaKongres St. Tel Aviv-Yafo,28 - 55 min
+2852,"Sderot Golda Meir  19,Netanya",1 hr 5 min - 1 hr 50 min
+2853,Beeri St. Netanya,1 hr 10 min - 2 hr
+2854,"Shalma Road  121,Tel Aviv-Yafo",30 min - 1 hr
+2855,Ha-Hagana St. Nahariyya,2 - 3 hr
+2856,Mivtsa Hiram St. Rishon LeTsiyon,18 - 35 min
+2857,Leah Imenu St. Beer Sheva,1 hr - 1 hr 30 min
+2858,Yisrael Najara St. Holon,22 - 40 min
+2859,"Yehoshua Hankin St.  84,Holon",26 - 55 min
+2860,"Reuven Barkat St.  9,Netanya",1 hr 10 min - 1 hr 50 min
+2861,"Ben Petakhya St.  7,Bnei Brak",45 min - 1 hr 20 min
+2862,"Shnei Eliyahu St.  5,Ashkelon",45 min - 1 hr 20 min
+2863,"Beit Yaakov St.  5,Jerusalem",45 min - 1 hr 25 min
+2864,"Naomi Shemer  9,Bat Yam",24 - 45 min
+2865,"Nakhshol St.  4,Ramla",16 - 35 min
+2866,HaShalom Road Tel Aviv-Yafo,35 min - 1 hr
+2867,Ha-Alon St. Nahariyya,NA
+2868,Yefe Nof St. Shlomi,2 - 3 hr
+2869,Soskin St. Nahariyya,2 - 3 hr
+2870,Khelets St. Holon,22 - 40 min
+2871,"Nakhal Lakhish St.  39,Ashdod",30 - 55 min
+2872,"Ahad Ha'Am St.  37,Nahariyya",1 hr 50 min - 3 hr
+2873,Kakal St. Bat Yam,22 - 40 min
+2874,"Yosef Lapid St.  3,Netanya",1 hr 10 min - 1 hr 50 min
+2875,Khayim Barlev St. Ramla,18 - 40 min
+2876,"Ben Shemen St.  11,Lod",20 - 40 min
+2877,"Yosef Burg St.  10,Beer Sheva",1 hr - 1 hr 40 min
+2878,Feinberg St. Rishon LeTsiyon,20 - 40 min
+2879,"Bilu St.  3,Ness Ziona",14 - 24 min
+2880,"Balfour St.  20,Ashkelon",35 min - 1 hr 5 min
+2881,HaGdud Haivri St. Rishon LeTsiyon,20 - 40 min
+2882,Derech Ben Gurion Bat Yam,26 - 50 min
+2883,Yohanan HaSandlar St. Bat Yam,24 - 45 min
+2884,"Yohanan HaSandlar St.  6,Bat Yam",24 - 45 min
+2885,"Arik Einstein  3,Bat Yam",24 - 45 min
+2886,"HaAluf David St.  9,Rishon LeTsiyon",18 - 35 min
+2887,Wingate St. Tel Aviv-Yafo,30 - 55 min
+2888,"HaRav Uziel St.  22,Tiberias",1 hr 50 min - 2 hr 40 min
+2889,"Har HaTsofim St.  1,Rehovot",10 - 18 min
+2890,"Moshe Montefiore St.  17,Netanya",1 hr 10 min - 1 hr 50 min
+2891,"HaMahteret St.  1,Even Yehuda",1 hr 5 min - 1 hr 50 min
+2892,"Nissim Aloni St.  2,Tel Aviv-Yafo",40 min - 1 hr 5 min
+2893,Sderot Chen Tel Aviv-Yafo,40 min - 1 hr 10 min
+2894,Har ha-Tsofim St. Holon,20 - 40 min
+2895,Sderot Binyamin Netanya,1 hr 10 min - 1 hr 50 min
+2896,Shlomo Iraki St. Rishon LeTsiyon,16 - 30 min
+2897,"Masaryk St.  14,Petah Tikva",40 min - 1 hr 15 min
+2898,"Ha-Khartsit St.  10,Ashdod",28 - 50 min
+2899,Alfe Twina St. Ramla,16 - 35 min
+2900,Uzi Hitman St. Ramla,14 - 28 min
+2901,Efrayim Kishon St. Beer Yaakov,18 - 35 min
+2902,"Aviya ha-Shofet St.  1,Beer Sheva",55 min - 1 hr 25 min
+2903,Ayit St. Beer Sheva,1 hr 15 min - 2 hr 20 min
+2904,"Ha-Pisga St.  1,Ariel",55 min - 1 hr 30 min
+2905,David Wolffsohn St. Ashdod,30 - 55 min
+2906,"Rogozin St.  66,Ashdod",30 min - 1 hr
+2907,"Ha-Dekel St.  9,Ashdod",28 min - 1 hr
+2908,Tel-Chay Boulevard Ashdod,30 - 55 min
+2909,"Albert Ainshtein St.  15,Rosh Haayin",40 min - 1 hr 10 min
+2910,"Gardens  1,Ari'el",40 min - 1 hr 10 min
+2911,Haim Weizman St. Holon,24 - 45 min
+2912,"Derech Ben Gurion  11,Rehovot",8 - 14 min
+2913,Yoseftal St. Bat Yam,24 - 45 min
+2914,"Sakhlav St.  6,Lod",26 - 50 min
+2915,"Nahal Hatsvi St.  104,Migdal HaEmek",1 hr 40 min - 2 hr 30 min
+2916,Bar Yehuda St. Bat Yam,26 - 50 min
+2917,"HaAlonim Boulevard  3,Beer Yaakov",16 - 35 min
+2918,"Fishelzon St.  6,Rishon LeTsiyon",22 - 40 min
+2919,Sderot Yitshak Rabin Beer Yaakov,14 - 30 min
+2920,Yitshak Sadeh St. Bat Yam,24 - 45 min
+2921,Balfour St. Bat Yam,26 - 50 min
+2922,"Shoshana Damari St.  16,Ramla",12 - 26 min
+2923,Moshe Dayan St. Ramla,16 - 35 min
+2924,"HaYakinton St.  1,Hatzor HaGlilit",2 - 3 hr
+2925,"HaYakinton St.  1,Hatzor HaGlilit",2 - 3 hr
+2926,"Yitshak Sadeh St.  6,Bat Yam",24 - 45 min
+2927,HaAlonim Boulevard Beer Yaakov,16 - 35 min
+2928,"Shlomo ha-Melekh St.  46,Netanya",1 hr 10 min - 2 hr
+2929,"Irus ha-Argaman St.  44,Netanya",1 hr 10 min - 1 hr 50 min
+2930,"Rambam St.  27,Petah Tikva",40 min - 1 hr 15 min
+2931,Gush Etsyon St. Rishon LeTsiyon,22 - 40 min
+2932,Ha-Tamar St. Rishon LeTsiyon,20 - 35 min
+2933,"Shoham St.  30,Harish",1 hr 10 min - 2 hr
+2934,"Rakhel St.  11,Haifa",1 hr 40 min - 2 hr 30 min
+2935,"Herzl St.  67,Zikhron Yaakov",1 hr 25 min - 2 hr 10 min
+2936,"Derech HaTsiyonut  6,Ariel",55 min - 1 hr 30 min
+2937,"Sheshet Ha-Yamim St.  24,אריאל",55 min - 1 hr 30 min
+2938,"Herman Haim Kaufman St.  8,Rehovot",4 - 9 min
+2939,"Shlom ha-Galil St.  2,Acre",1 hr 50 min - 2 hr 40 min
+2940,"Shlom ha-Galil St.  2,Acre",1 hr 50 min - 2 hr 40 min
+2941,"Teitlbaum St.  22,Ramla",14 - 30 min
+2942,Simha Holtsberg St. Ramla,16 - 35 min
+2943,"Abba Hillel Silver St.  16,Netanya",1 hr 10 min - 1 hr 50 min
+2944,"Chaim Herzog St.  25,Rosh Haayin",40 min - 1 hr 10 min
+2945,"Nissim Aloni St.  2,Tel Aviv-Yafo",40 min - 1 hr 5 min
+2946,"Rahvat Yotam  8,Beersheba",55 min - 1 hr 30 min
+2947,HaAliya HaShniya St. Holon,24 - 40 min
+2948,Maapilei Egoz St. Tel Aviv-Yafo,35 min - 1 hr
+2949,Sheinkin St. Givatayim,40 min - 1 hr 15 min
+2950,Hahida St. Beer Sheva,1 hr - 1 hr 40 min
+2951,Yosef ha-Levi St. Rishon LeTsiyon,20 - 40 min
+2952,HaKishon St. Rishon LeTsiyon,14 - 26 min
+2953,"HaAtsmaut Boulevard  67,Bat Yam",26 - 50 min
+2954,"Beitar St.  17,Jerusalem",1 hr - 1 hr 40 min
+2955,"Derech Ben Gurion  13,Rehovot",8 - 14 min
+2956,"Akhad ha-Am St.  6,Ashdod",28 min - 1 hr
+2957,Khalutsei Yesud ha-Maala St. Rishon LeTsiyon,18 - 30 min
+2958,Shalom Aleichem St. Ramla,18 - 40 min
+2959,Sderot Shlomo HaMelech Lod,20 - 45 min
+2960,"Menucha Venachala St.  11,Rehovot",7 - 16 min
+2961,"Fishelzon St.  6,Rishon LeTsiyon",22 - 40 min
+2962,"Yehoshafat ha-Melekh St.  6,Ashdod",28 - 50 min
+2963,Erez St. Lod,20 - 45 min
+2964,Goshen St. Lod,18 - 40 min
+2965,"Ussishkin St.  10,Ramat Hasharon",45 min - 1 hr 20 min
+2966,Shmuel Shrira St. Rishon LeTsiyon,20 - 40 min
+2967,Ramat Hen St. Ramat Gan,35 min - 1 hr
+2968,"Yehoshafat ha-Melekh St.  6,Ashdod",28 - 50 min
+2969,"Nissim Aloni St.  16,Tel Aviv-Yafo",40 min - 1 hr 5 min
+2970,"Bostanai St.  33,Jerusalem",55 min - 1 hr 40 min
+2971,"Maale Ha-Gat St.  18,Ashkelon",40 min - 1 hr 10 min
+2972,"HaRav Shimon Yitshak Afaryat St.  1,Ramla",18 - 40 min
+2973,"Kalman Byaler St.  2,Rehovot",4 min
+2974,"HaHashmonaim St.  76,Tel Aviv-Yafo",35 min - 1 hr 5 min
+2975,"Giyora Yoseftal St.  30,Beer Sheva",55 min - 1 hr 20 min
+2976,Asaf Simkhoni St. Beer Sheva,1 hr - 1 hr 40 min
+2977,"HaGdud Haivri St.  81,Rishon LeTsiyon",22 - 40 min
+2978,"Bnei Akiva St.  3,Ashkelon",40 min - 1 hr 15 min
+2979,Eliyahu Nekhaisi St. Bat Yam,24 - 40 min
+2980,"Tel Giborim St.  32,Tel Aviv-Yafo",26 - 45 min
+2981,"HaRav Tana St.  22,Beer Sheva",1 hr - 1 hr 50 min
+2982,Zamenhoff St. Nahariyya,2 - 3 hr
+2983,Derech HaMeshahrerim Beersheba,1 hr - 1 hr 40 min
+2984,HaRav Reines St. Netanya,1 hr 10 min - 1 hr 50 min
+2985,"Mishol ha-Yahalom  17,Holon",NA
+2986,"Binyamin St.  20,Rehovot",6 - 12 min
+2987,"Ha-Aliya St.  3,Bet Shemesh",30 - 55 min
+2988,Zeev Yavets St. Rehovot,8 - 16 min
+2989,578 Migdalim,NA
+2990,"Natan Elbaz St.  6,Ashdod",28 - 50 min
+2991,"Nahal Kishon St.  15,Ashdod",30 - 55 min
+2992,"Sigalit St.  2,Kiryat Yam",1 hr 40 min - 2 hr 30 min
+2993,"Henry Herts St.  9,Lod",18 - 40 min
+2994,"Eliyahu Meridor St.  51,Jerusalem",50 min - 1 hr 30 min
+2995,"Nissim Aloni St.  21,Tel Aviv-Yafo",40 min - 1 hr 10 min
+2996,Sderot HaHaskala Tel Aviv-Yafo,35 min - 1 hr
+2997,"Alfasi St.  3,Beer Sheva",1 hr - 1 hr 30 min
+2998,Shadmot Dvora St. Rishon LeTsiyon,20 - 40 min
+2999,HaDugit St. Rishon LeTsiyon,20 - 35 min
+3000,Heil HaShiryon St. Rishon LeTsiyon,22 - 40 min
+3001,Naomi Shemer Bat Yam,24 - 45 min
+3002,Luz St. Rishon LeTsiyon,20 - 35 min
+3003,Reines St. Rishon LeTsiyon,18 - 30 min
+3004,Mivtsa Aviv Neurim St. Rishon LeTsiyon,18 - 35 min
+3005,HaDugit St. Rishon LeTsiyon,
+3006,"Sderot Ben Gurion  141,Netanya",
+3007,Herzl St. Rehovot,5 - 10 min
+3008,"Yehuda Halevi St.  45,Rishon LeTsiyon",20 - 40 min
+3009,"Reuven Barkat St.  9,Netanya",
+3010,"Sinai St.  1,Beer Sheva",1 hr - 1 hr 40 min
+3011,"Sderot Ben Gurion  17,Holon",24 - 45 min
+3012,"Arye Shenkar St.  27,Holon",26 - 45 min
+3013,"Shulamit Aloni St.  1,Rishon LeTsiyon",16 - 30 min
+3014,"Dganya St.  2,Holon",26 - 50 min
+3015,"Pinkhas Lavon St.  23,Holon",24 - 45 min
+3016,"Ibn Ezra St.  7,Holon",24 - 40 min
+3017,"Tchernikhovski St.  11,Holon",24 - 45 min
+3018,"Shlomo ha-Melekh St.  20,Netanya",1 hr 10 min - 1 hr 50 min
+3019,Smilanski St. Netanya,1 hr 10 min - 2 hr
+3020,Ha-Brosh St. Sde Tzvi,45 min - 1 hr 10 min
+3021,"Nissim Aloni St.  6,Tel Aviv-Yafo",40 min - 1 hr 5 min
+3022,Meir Bar Ilan St. Ramla,16 - 35 min
+3023,Davidzon St. Rishon LeTsiyon,24 - 45 min
+3024,Uchmanit St. Beer Sheva,1 hr 5 min - 1 hr 40 min
+3025,HaCarmel St. Ramla,14 - 30 min
+3026,"Milkhemet Sheshet ha-Yamim St.  65,Qiryat Shemona",2 hr 10 min - 3 hr 20 min
+3027,"Ussishkin St.  1,Ramat Hasharon",45 min - 1 hr 20 min
+3028,Ha-Shlosha St. Bat Yam,24 - 40 min
+3029,Nissim Aloni St. Tel Aviv-Yafo,40 min - 1 hr 5 min
+3030,"HaCarmel St.  1,Ramla",16 - 30 min
+3031,"Dolphin St.  7,Holon",22 - 40 min
+3032,"Ha-Rav Avraham Hillel St.  5,Ramla",16 - 35 min
+3033,"Aqbat e-Saraya St.  70,Jerusalem",1 hr 10 min - 2 hr 10 min
+3034,Yoseftal St. Bat Yam,
+3035,Ha-Matsbiim St. Lod,16 - 35 min
+3036,Herzl St. Rishon LeTsiyon,16 - 28 min
+3037,"Yoram St.  13,Tel Aviv-Yafo",30 - 50 min
+3038,Sderot Ben Gurion Lod,18 - 40 min
+3039,"Rabi Akiva St.  59,Bnei Brak",45 min - 1 hr 20 min
+3040,"Derech Ben Gurion  38,Bat Yam",26 - 50 min
+3041,Baruch Ram St. Netanya,1 hr 10 min - 1 hr 50 min
+3042,Arlozorov St. Holon,24 - 45 min
+3043,Ha-Rav Nisanbaum St. Bat Yam,24 - 45 min
+3044,"Derech Lamerhav  35,Pardes Hana-Karkur",1 hr 10 min - 2 hr
+3045,Eliezer Balaban St. Rishon LeTsiyon,20 - 45 min
+3046,"Ha-Rav Landers St.  1,Ramat Gan",35 min - 1 hr 10 min
+3047,Yehoshua Rabinovich St. Holon,22 - 40 min
+3048,"Gush Etsyon St.  75,Beer Sheva",1 hr - 1 hr 30 min
+3049,Nahal Kidron St. Ashdod,30 - 55 min
+3050,"Ha-Shaked St.  31,Netanya",1 hr 10 min - 2 hr
+3051,"Petah Tikva St.  67,Netanya",1 hr 5 min - 1 hr 50 min
+3052,"Ha-Rav Ben Meir St.  5,Netanya",1 hr 10 min - 1 hr 50 min
+3053,"Habad St.  4,Netanya",1 hr 10 min - 2 hr
+3054,"Petah Tikva St.  51,Netanya",1 hr 5 min - 1 hr 50 min
+3055,"Bar Yehuda St.  13,Kadima Zoran",1 hr 5 min - 1 hr 50 min
+3056,"Givat Khayim St.  12,Netanya",1 hr 10 min - 1 hr 50 min
+3057,"HaGdud Haivri St.  36,Netanya",1 hr 10 min - 1 hr 50 min
+3058,HaHashmonaim St. Netanya,1 hr 10 min - 1 hr 50 min
+3059,"Ussishkin St.  24,Netanya",1 hr 10 min - 1 hr 50 min
+3060,"Sokolov St.  39,Netanya",1 hr 10 min - 1 hr 50 min
+3061,Wolfson St. Nahariyya,1 hr 50 min - 3 hr
+3062,"HaGolan St.  6,Netanya",1 hr 5 min - 1 hr 50 min
+3063,"Lavontin St.  8,Netanya",1 hr 10 min - 1 hr 50 min
+3064,"Arieh Ben Eliezer St.  43,Netanya",1 hr 10 min - 1 hr 50 min
+3065,"Doctor Shmorek St.  22,Netanya",1 hr 5 min - 1 hr 50 min
+3066,Halper St. Bat Yam,26 - 50 min
+3067,"Moshe Tsdaka St.  3,Ramla",12 - 26 min
+3068,Gidon St. Netanya,1 hr 10 min - 1 hr 50 min
+3069,"HaOren St.  41,Yavne",14 - 22 min
+3070,"Sderot HaRav Yosef Hayim  12,Bnei Brak",45 min - 1 hr 15 min
+3071,"Kokhavei Yitskhak St.  13,Tel Aviv-Yafo",30 - 55 min
+3072,"hardware  32,Hamra",NA
+3073,Lehi Road Tel Aviv-Yafo,28 - 45 min
+3074,Divrei Khayim St. Netanya,1 hr 10 min - 1 hr 50 min
+3075,"Tseelon St.  26,Kiryat Motzkin",1 hr 40 min - 2 hr 30 min
+3076,Shraga Abramson St. Beer Sheva,55 min - 1 hr 25 min
+3077,"Moshe Tsdaka St.  1,Ramla",14 - 28 min
+3078,"Borochov St.  11,Ramla",18 - 40 min
+3079,"Ein Shakhak St.  3,Mitzpe Ramon",1 hr 50 min - 2 hr 30 min
+3080,"Dukhifat St.  13,Shlomi",NA
+3081,Lev HaZahav St. Ramat Gan,35 min - 1 hr 5 min
+3082,"Ha-Kablan St.  43,Jerusalem",40 min - 1 hr 15 min
+3083,"Ha-Kablan St.  43,Jerusalem",40 min - 1 hr 15 min
+3084,"Rambam St.  48,Beer Sheva",1 hr - 1 hr 40 min
+3085,Katzenelson St. Givatayim,40 min - 1 hr 10 min
+3086,"Ahad HaAm St.  37,Nahariyya",1 hr 50 min - 3 hr
+3087,"Nahum Sarig St.  40,Beer Sheva",55 min - 1 hr 25 min
+3088,Yaakov Ben Sira St. Rishon LeTsiyon,18 - 40 min
+3089,Ha-Yarden St. Ramat Gan,35 min - 1 hr 10 min
+3090,"HaRav Frank St.  13,Beer Sheva",55 min - 1 hr 25 min
+3091,HaBanim St. Ramat Gan,35 min - 1 hr 5 min
+3092,"David Baruch St.  1,Lod",20 - 45 min
+3093,"Rotem St.  1,Lod",20 - 45 min
+3094,"Sprinzak St.  17,Lod",18 - 40 min
+3095,"Sderot Hatsiyonut  9,Lod",16 - 40 min
+3096,"Sderot Trumpeldor  15,Haifa",1 hr 30 min - 2 hr 20 min
+3097,Bareket St. Ashdod,
+3098,"Hashofet Haim Cohen St.  34,Jerusalem",1 hr 10 min - 2 hr
+3099,HaNofar St. Netanya,1 hr 5 min - 1 hr 50 min
+3100,"Abba Ahimeir St.  21,Ramla",16 - 35 min
+3101,"Tsonzer St.  3,Tel Aviv-Yafo",26 - 50 min
+3102,"HaHagana St.  9,Holon",26 - 45 min
+3103,Rambam St. Ashdod,24 - 50 min
+3104,Shivtei Israel St. Tel Aviv-Yafo,26 - 45 min
+3105,Khativat Giv'ati St. Netanya,1 hr 5 min - 1 hr 50 min
+3106,"HaMaharal St.  15,Be'er Sheva",55 min - 1 hr 25 min
+3107,Professor Avraham Amir St. Beer Sheva,55 min - 1 hr 25 min
+3108,Yohanan HaSandlar St. Netanya,1 hr 10 min - 1 hr 50 min
+3109,"HaRav Minz St.  3,Rishon LeTsiyon",18 - 35 min
+3110,Ha-Rav Avraham Hillel St. Ramla,16 - 35 min
+3111,Ha-Rav Avraham Hillel St. Ramla,16 - 35 min
+3112,"Hess St.  32,Haifa",1 hr 40 min - 2 hr 30 min
+3113,Brazil St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+3114,Pinkas St. Tel Aviv-Yafo,40 min - 1 hr 5 min
+3115,Moshe Barazani St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+3116,Prof. Yuval Neeman St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+3117,Ruppin St. Tel Aviv-Yafo,
+3118,Prof. Yuval Neeman St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+3119,Moshe Barazani St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+3120,Pines St. Tel Aviv-Yafo,30 min - 1 hr 5 min
+3121,Bnei Binyamin St. Netanya,1 hr 5 min - 1 hr 50 min
+3122,"Ha-Rina St.  7,Netanya",1 hr 5 min - 1 hr 50 min
+3123,Ehud Manor St. Netanya,1 hr 5 min - 1 hr 50 min
+3124,"Rabbi Shimon ben Shetach St.  21,Elad",40 min - 1 hr 10 min
+3125,"Bialik St.  40,Ashkelon",40 min - 1 hr 15 min
+3126,"Ha-Lamed Hei St.  61,Givatayim",40 min - 1 hr 10 min
+3127,Bar Yehuda St. Bat Yam,
+3128,"Tsafrir St.  7,Or Yehuda",NA
+3129,"HaTsanhanim  1,Nahariya",NA
+3130,Rishon LeTsiyon St. Netanya,NA
+3131,"HaAmadot St.  6,Bat Yam",26 - 50 min
+3132,"Arie (Luba) Eliav St.  18,Haifa",1 hr 30 min - 2 hr 20 min
+3133,"Nissim Aloni St.  3,Tel Aviv-Yafo",40 min - 1 hr 5 min
+3134,"Sderot Hen  14,Rehovot",6 - 12 min
+3135,Adar St. Ashdod,28 - 55 min
+3136,"Rothschild St.  34,Ness Ziona",14 - 22 min
+3137,"Ha-Migdal St.  16,Givatayim",35 min - 1 hr 5 min
+3138,Ha-Vradim St. Netanya,1 hr 5 min - 1 hr 40 min
+3139,"Daniel St.  3,Ramat Gan",35 min - 1 hr
+3140,HaRav Zinger St. Rishon LeTsiyon,18 - 35 min
+3141,Amnon Lipkin played Netanya,NA
+3142,Yerushalayim St. Acre,1 hr 50 min - 2 hr 50 min
+3143,"Ha-Hagana St.  39,Acre",NA
+3144,Shaul HaMelech St. Beer Sheva,
+3145,"Shmaaya St.  14,Elad",35 min - 1 hr 10 min
+3146,Ha-Rav Nisanbaum St. Bat Yam,24 - 45 min
+3147,"Haim Nachman Bialik St.  151,Beer Sheva",1 hr - 1 hr 40 min
+3148,Avigdor Hameiri St. Beer Sheva,1 hr - 1 hr 40 min
+3149,Shaar ha-Gai St. Beer Sheva,1 hr - 1 hr 40 min
+3150,Yosef Burg St. Beer Sheva,1 hr - 1 hr 40 min
+3151,Shaul HaMelech St. Beer Sheva,
+3152,Rahvat Mivtsa Erez Beersheba,55 min - 1 hr 25 min
+3153,Rahvat Ahazya Beersheba,55 min - 1 hr 30 min
+3154,Derech HaShalom Beersheba,1 hr - 1 hr 40 min
+3155,Moshe Sharet St. Ramla,18 - 35 min
+3156,HaRav Yitshak Nisim St. Bat Yam,24 - 40 min
+3157,Balfour St. Bat Yam,
+3158,Shoshana Damari St. Ramla,12 - 26 min
+3159,Hadar St. Holon,24 - 40 min
+3160,Derech Ben Gurion Bat Yam,
+3161,"Derech Ben Gurion  138,Bat Yam",
+3162,Harduf St. Ramla,16 - 35 min
+3163,Yitshak Ben Zvi St. Ramla,16 - 35 min
+3164,"Ruhama St.  15,Tel Aviv-Yafo",28 - 50 min
+3165,Derech Ben Gurion Bat Yam,
+3166,Herzl St. Nahariyya,
+3167,Nili St. Gan Yavne,22 - 40 min
+3168,"Ha-Rina St.  7,Netanya",1 hr 5 min - 1 hr 50 min
+3169,"Zalman Shazar St.  3,Netanya",1 hr - 1 hr 50 min
+3170,"Struma St.  8,Netanya",1 hr 10 min - 1 hr 50 min
+3171,"Ein Gev St.  3,Tel Aviv-Yafo",30 - 55 min
+3172,Betsalel St. Beer Sheva,1 hr - 1 hr 40 min
+3173,"Arye Kremer St.  6,Ramla",18 - 35 min
+3174,"Yehoshua Hankin St.  58,Holon",26 - 50 min
+3175,"Baal HaAkeda St.  8,Tel Aviv-Yafo",28 - 55 min
+3176,"Arieh Ben Eliezer St.  53,Ramat Gan",35 min - 1 hr 5 min
+3177,Yaakov Fichman St. Beer Sheva,1 hr - 1 hr 40 min
+3178,"HaAtsmaut St.  21,Rosh Haayin",40 min - 1 hr 10 min
+3179,Zeev Jabotinsky St. Ramat Gan,40 min - 1 hr 10 min
+3180,Elyashiv St. Ramat Gan,35 min - 1 hr 10 min
+3181,"Herzl St.  82,Ramat Gan",40 min - 1 hr 10 min
+3182,Shlomo Skulski St. Beer Sheva,1 hr - 1 hr 40 min
+3183,"Chaim Herzog St.  29,Rosh Haayin",40 min - 1 hr 10 min
+3184,"Giborei Yisrael St.  2,Ramla",16 - 35 min
+3185,"Yad Vashem St.  4,Beer Sheva",1 hr - 1 hr 40 min
+3186,Khayim Grinfeld St. Beer Sheva,55 min - 1 hr 25 min
+3187,"Shlomo Skulski St.  3,Beer Sheva",1 hr - 1 hr 40 min
+3188,Bialik St. Bat Yam,26 - 50 min
+3189,"Ha-Rishonim St.  22,Ramat Gan",35 min - 1 hr
+3190,Ha-Ziporen St. Jerusalem,50 min - 1 hr 25 min
+3191,"onyx  2,Be'er Ya'akov",14 - 30 min
+3192,"Moriya St.  6,Ariel",55 min - 1 hr 40 min
+3193,"HaYasmin St.  74,Kiryat Gat",35 min - 1 hr 5 min
+3194,Yehoshua Rabinovich St. Holon,22 - 40 min
+3195,Yitshak Sadeh St. Bat Yam,
+3196,Sa Nes St. Beer Yaakov,16 - 40 min
+3197,Rekhavam Zeevi St. Ness Ziona,14 - 28 min
+3198,Givati St. Ness Ziona,12 - 28 min
+3199,Kibuts Galuyot St. Ness Ziona,14 - 30 min
+3200,Ehud Manor St. Beer Yaakov,
+3201,Ha-Meyasdim St. Netanya,1 hr 10 min - 1 hr 50 min
+3202,"Ze'ev Jabotinsky St.  7,Ramat Gan",35 min - 1 hr 5 min
+3203,HaShla St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+3204,Berl Katzenelson St. Bat Yam,24 - 45 min
+3205,Sde Nahum St. Rishon LeTsiyon,20 - 35 min
+3206,Davidzon St. Rishon LeTsiyon,24 - 45 min
+3207,Kheil ha-Yam St. Rishon LeTsiyon,22 - 40 min
+3208,HaYarkon St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+3209,Pinkas St. Tel Aviv-Yafo,40 min - 1 hr 5 min
+3210,"Mivtsa Litani St.  9,Rehovot",6 - 12 min
+3211,"HaRav Mordechai Eliahu St.  115,Lod",20 - 45 min
+3212,Dov Gruner St. Bnei Brak,40 min - 1 hr 15 min
+3213,Wolfson St. Nahariyya,NA
+3214,"Albert Einstein St.  30,Lod",20 - 45 min
+3215,"Yefe Nof St.  26,Ashkelon",40 min - 1 hr 10 min
+3216,Ha-Lamed Hei St. Ra'anana,50 min - 1 hr 25 min
+3217,"Yaravam ha-Melekh St.  9,Ashdod",NA
+3218,Ha-Arava St. Migdal HaEmek,NA
+3219,"Yitshak Steinberg St.  5,Rehovot",7 - 14 min
+3220,"Kadesh St.  49,Migdal HaEmek",1 hr 30 min - 2 hr 20 min
+3221,"Nahal Hatsvi St.  24,Migdal HaEmek",1 hr 30 min - 2 hr 20 min
+3222,Givati St. Rishon LeTsiyon,20 - 40 min
+3223,Abba Ahimeir St. Ramla,
+3224,"Moshe Sharet St.  9,Bat Yam",24 - 45 min
+3225,HaShiloah St. Netanya,1 hr 10 min - 1 hr 50 min
+3226,Khabad St. Rishon LeTsiyon,22 - 40 min
+3227,"Sderot Golda Meir  31,Netanya",1 hr - 1 hr 40 min
+3228,Archi Sherman St. Netanya,1 hr 5 min - 1 hr 50 min
+3229,Ben Gurion St. Raanana,50 min - 1 hr 20 min
+3230,"Almog St.  16,Ramla",16 - 35 min
+3231,"HaCarmel St.  1,Ramla",16 - 30 min
+3232,Nurit St. Holon,22 - 45 min
+3233,Akhad ha-Am St. Raanana,50 min - 1 hr 25 min
+3234,Herzl St. Nahariyya,
+3235,Ha-Tsiyonut St. Ashdod,28 - 55 min
+3236,"Efrim Kishon St.  3,Rishon LeTsiyon",18 - 40 min
+3237,Hahistadrut St. Petah Tikva,40 min - 1 hr 15 min
+3238,HaPalmach St. Petah Tikva,40 min - 1 hr 15 min
+3239,"Yitshak Steinberg St.  8,Rehovot",7 - 14 min
+3240,Ha-Sar Shapira St. Bat Yam,26 - 50 min
+3241,Balfour St. Bat Yam,
+3242,"Ha-Tsiyonut St.  105,Ashdod",28 - 55 min
+3243,Yosef ha-Levi St. Rishon LeTsiyon,
+3244,Rabbi Halafta St. Jerusalem,50 min - 1 hr 25 min
+3245,Helets St. Jerusalem,55 min - 1 hr 40 min
+3246,"Ha-Rav Shalom Shabazi St.  155,Rosh Haayin",40 min - 1 hr 10 min
+3247,Anne Frank St. Bat Yam,22 - 40 min
+3248,"Tel-Chay Boulevard  50,Ashdod",30 - 55 min
+3249,Derech Ben Gurion Bat Yam,
+3250,"Tzvi Tadmor  8,Holon",26 - 50 min
+3251,"Eliezer Ben Yehuda St.  31,Rehovot",9 - 20 min
+3252,"Rambam St.  67,Rehovot",5 - 7 min
+3253,"Eli Cohen St.  12,Bat Yam",24 - 40 min
+3254,"Doctor Shmorek St.  22,Netanya",1 hr 5 min - 1 hr 50 min
+3255,"Ha-Rav Refael Anakuwa St.  16,Netanya",1 hr 5 min - 1 hr 50 min
+3256,"Ramat HaGolan St.  10,Ari'el",55 min - 1 hr 30 min
+3257,"Tamar St.  8,Harish",1 hr 10 min - 2 hr
+3258,Pierre Koenig St. Netanya,1 hr 5 min - 1 hr 50 min
+3259,Rokach St. Ramat Gan,40 min - 1 hr 5 min
+3260,Grinboim St. Rishon LeTsiyon,18 - 35 min
+3261,Keren Kayemet le-Yisrael St. Rehovot,7 - 16 min
+3262,Uzi Hitman St. Netanya,1 hr 5 min - 1 hr 50 min
+3263,Ahi Mezanek St. Rishon LeTsiyon,22 - 40 min
+3264,Sapir St. Harish,1 hr 10 min - 2 hr
+3265,Shmuel Yosef Agnon St. Bat Yam,24 - 45 min
+3266,"Gilad St.  20,Beer Sheva",55 min - 1 hr 25 min
+3267,Shmuel Shrira St. Rishon LeTsiyon,
+3268,"Yaakov Fichman St.  4,Beer Sheva",1 hr - 1 hr 40 min
+3269,"Avraham Mapu St.  2,Beer Sheva",1 hr 5 min - 1 hr 40 min
+3270,"Eliezer Smoli St.  9,Beer Sheva",1 hr - 1 hr 40 min
+3271,Kalischer St. Beer Sheva,1 hr - 1 hr 30 min
+3272,Yokhanan ha-Sandlar St. Rishon LeTsiyon,22 - 45 min
+3273,"Uzi Narkis St.  23,Beer Sheva",55 min - 1 hr 25 min
+3274,Shaar ha-Gai St. Karmiel,1 hr 50 min - 2 hr 50 min
+3275,Yehuda Halevi St. Beer Sheva,55 min - 1 hr 30 min
+3276,"Israel Shochat St.  51,Be'er Sheva",1 hr 5 min - 1 hr 40 min
+3277,"Israel Shochat St.  29,Be'er Sheva",1 hr 5 min - 1 hr 40 min
+3278,Elyashiv St. Ramat Gan,35 min - 1 hr 10 min
+3279,Bruriah Bat Teradyon St. Petah Tikva,50 min - 1 hr 25 min
+3280,"HaShikma St.  45,Bat Yam",24 - 45 min
+3281,"Sheshet Ha-Yamim St.  7,Ariel",55 min - 1 hr 30 min
+3282,"Derech Don Yitshak Abarbanel  9,Netanya",NA
+3283,"Feinstein St.  4,Lod",20 - 45 min
+3284,Sheshet ha-Yamim St. Bat Yam,24 - 45 min
+3285,Uziya HaMelech St. Beer Sheva,55 min - 1 hr 30 min
+3286,Iyar St. Netanya,1 hr 5 min - 1 hr 40 min
+3287,"Derech Tat Aluf Uri Baron  15,Ariel",55 min - 1 hr 30 min
+3288,"John Kennedy St.  33,Rosh Haayin",40 min - 1 hr 10 min
+3289,"Mivtsa Dani St.  3,Rosh Haayin",40 min - 1 hr 10 min
+3290,Usha St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+3291,Yoseftal St. Bat Yam,
+3292,"Ha-Neviim St.  11,Bat Yam",24 - 45 min
+3293,Sheshet ha-Yamim St. Bat Yam,24 - 45 min
+3294,Herzl St. Bat Yam,
+3295,Jabotinsky St. Bat Yam,28 - 50 min
+3296,"Eli Cohen St.  18,Bat Yam",24 - 45 min
+3297,Tchernikhovski St. Bat Yam,
+3298,"Derech Tat Aluf Uri Baron  20,Ariel",55 min - 1 hr 30 min
+3299,"Hairis  52,Nofim",55 min - 1 hr 40 min
+3300,"emerald  11,Eli",NA
+3301,"Mehola  161,Mehola",NA
+3302,"taken down  32,Eli",NA
+3303,"sapphire  5,Eli",NA
+3304,"Ha-Negev St.  10,Ariel",55 min - 1 hr 30 min
+3305,Shivtei Israel St. Tel Aviv-Yafo,26 - 45 min
+3306,"Henri Kendel St.  10,Beer Sheva",1 hr - 1 hr 40 min
+3307,Olei HaGardom St. Rishon LeTsiyon,
+3308,"Ha-Maronitim St.  11,Acre",1 hr 50 min - 2 hr 50 min
+3309,El Jazzar St. Acre,1 hr 50 min - 2 hr 50 min
+3310,"Lokhamei ha-Getaot St.  27,Acre",1 hr 50 min - 2 hr 40 min
+3311,"Salah ad Din St.  27,Acre",1 hr 50 min - 2 hr 40 min
+3312,"Ha-Hagana St.  11,Acre",NA
+3313,Louis HaTshii St. Acre,NA
+3314,El Jazzar St. Acre,1 hr 50 min - 2 hr 50 min
+3315,"Ha-Hagana St.  11,Acre",1 hr 50 min - 2 hr 40 min
+3316,"Ha-Hagana St.  2,Acre",1 hr 50 min - 2 hr 40 min
+3317,Ha-Hagana St. Acre,1 hr 50 min - 2 hr 40 min
+3318,"Mordekhai Anielewicz St.  49,Acre",1 hr 50 min - 2 hr 50 min
+3319,Keren ha-Yesod St. Rishon LeTsiyon,18 - 35 min
+3320,"HaBaron Hirsch St.  1,Rishon LeTsiyon",18 - 35 min
+3321,San Martin St. Lod,18 - 40 min
+3322,Khalelei Egoz St. Lod,24 - 50 min
+3323,Sderot Shlomo HaMelech Lod,
+3324,Disraeli St. Lod,20 - 45 min
+3325,Dror St. Rishon LeTsiyon,20 - 40 min
+3326,"Shoshana Damari St.  16,Ra`anana",55 min - 1 hr 30 min
+3327,Bialik St. Rishon LeTsiyon,18 - 35 min
+3328,HaMeyasedim St. Raanana,50 min - 1 hr 25 min
+3329,HaMeyasedim St. Raanana,50 min - 1 hr 25 min
+3330,Ha-Gilgal St. Ramat Gan,40 min - 1 hr 15 min
+3331,"Ehud Manor St.  2,Beer Yaakov",18 - 40 min
+3332,Bakhur Shitrit St. Beer Sheva,1 hr - 1 hr 30 min
+3333,"Dani Mas St.  4,Ramla",18 - 40 min
+3334,Ha-Kalanit St. Raanana,50 min - 1 hr 25 min
+3335,"Elkharizi St.  16,Netanya",1 hr 5 min - 1 hr 50 min
+3336,Efner St. Givatayim,40 min - 1 hr 10 min
+3337,Beit Hilel St. Ramat Gan,40 min - 1 hr 15 min
+3338,Zeev Jabotinsky St. Ramat Gan,40 min - 1 hr 10 min
+3339,Alumot St. Givatayim,35 min - 1 hr 5 min
+3340,Givati St. Rishon LeTsiyon,20 - 40 min
+3341,"HaAlonim Boulevard  18,Beer Yaakov",16 - 35 min
+3342,Aya St. Karmiel,1 hr 50 min - 2 hr 50 min
+3343,Givat HaTahmoshet St. Holon,20 - 40 min
+3344,Manya Shohat St. Rishon LeTsiyon,16 - 28 min
+3345,Kdoshei Kahir St. Bat Yam,26 - 50 min
+3346,Givati St. Rishon LeTsiyon,20 - 40 min
+3347,Kheil ha-Khimush St. Rishon LeTsiyon,22 - 40 min
+3348,Rambam St. Rishon LeTsiyon,22 - 40 min
+3349,"Eilat St.  23,Holon",26 - 45 min
+3350,Sapir St. Ramla,16 - 30 min
+3351,"Teitlbaum St.  12,Ramla",14 - 28 min
+3352,"Yosef Aharonovich St.  43,Holon",22 - 45 min
+3353,Dwight Eisenhower St. Netanya,1 hr 5 min - 1 hr 40 min
+3354,"Eli Daivis St.  6,Beer Sheva",1 hr - 1 hr 40 min
+3355,"Khayim Grinfeld St.  17,Beer Sheva",55 min - 1 hr 20 min
+3356,"Simtat Yehonatan  20,Beersheba",55 min - 1 hr 30 min
+3357,"Gershon Shofman St.  15,Beer Sheva",1 hr 5 min - 1 hr 40 min
+3358,Givat HaTahmoshet St. Holon,20 - 40 min
+3359,Beni Berman St. Netanya,1 hr 5 min - 1 hr 40 min
+3360,Bnei Binyamin St. Netanya,1 hr 5 min - 1 hr 50 min
+3361,"Kiryat Shmona St.  17,Holon",22 - 45 min
+3362,Kadesh St. Netanya,1 hr 10 min - 1 hr 50 min
+3363,Doctor Meir Avner St. Netanya,1 hr 10 min - 1 hr 50 min
+3364,Doctor Meir Avner St. Netanya,1 hr 10 min - 1 hr 50 min
+3365,"Uzi Hitman St.  21,Netanya",1 hr 5 min - 1 hr 40 min
+3366,Uzi Hitman St. Netanya,1 hr 5 min - 1 hr 40 min
+3367,Yosef Burg St. Beer Sheva,1 hr - 1 hr 40 min
+3368,"Mhari Kapah St.  7,Modiin Ilit",30 min - 1 hr
+3369,Derech Ben Gurion Bat Yam,
+3370,"Har Metsada St.  5,Ashdod",30 - 55 min
+3371,HaBrigada HaYehudit St. Netanya,1 hr 5 min - 1 hr 40 min
+3372,"אורגד  4,Netanya",1 hr 10 min - 1 hr 50 min
+3373,"Shoshana Damari St.  2,Ramla",12 - 26 min
+3374,"HaEtrog St.  8,Ramla",16 - 35 min
+3375,"HaMigdal HaLavan St.  6,Ramla",14 - 28 min
+3376,Kibuts Galuyot St. Bat Yam,24 - 45 min
+3377,Golomb St. Raanana,50 min - 1 hr 25 min
+3378,"Abba Ahimeir St.  25,Lod",18 - 40 min
+3379,Eli Cohen St. Lod,20 - 45 min
+3380,"Avot Yeshurun St.  8,Ashdod",30 - 55 min
+3381,Shamah St. Ramla,16 - 35 min
+3382,"Shlomo Kaplanski St.  6,Rishon LeTsiyon",16 - 26 min
+3383,"Hahermon St.  7,Beer Yaakov",16 - 35 min
+3384,"Yitshak Ben Zvi St.  18,Ramla",16 - 35 min
+3385,"Ha-Teenim St.  12,Ramla",22 - 45 min
+3386,"Khayim Barlev St.  10,Ramla",18 - 40 min
+3387,"Yehuda Ragunis St.  26,Rishon LeTsiyon",22 - 45 min
+3388,"Moshe Dayan St.  4,Ramla",
+3389,Levi Eshkol St. Ramla,16 - 35 min
+3390,"Yitshak Sadeh St.  4,Bat Yam",
+3391,Yohanan HaSandlar St. Bat Yam,
+3392,Rehavam Zeevi St. Holon,24 - 40 min
+3393,Yerushalayim St. Bat Yam,24 - 45 min
+3394,Uzi Hitman St. Netanya,1 hr 5 min - 1 hr 40 min
+3395,Yosef Lapid St. Netanya,1 hr 5 min - 1 hr 50 min
+3396,Nitsa Boulevard Netanya,1 hr 10 min - 1 hr 50 min
+3397,Dudu Dotan St. Netanya,1 hr 5 min - 1 hr 40 min
+3398,HaRakefet St. Netanya,1 hr 10 min - 1 hr 50 min
+3399,Ehud Manor St. Netanya,1 hr 5 min - 1 hr 40 min
+3400,Harzfeld St. Herzliya,50 min - 1 hr 20 min
+3401,"Rambam St.  68,Beer Sheva",1 hr - 1 hr 40 min
+3402,Avraham Mapu St. Beer Sheva,1 hr - 1 hr 40 min
+3403,Rival St. Rishon LeTsiyon,20 - 35 min
+3404,"Yaakov Tamari  7,Rehovot",NA
+3405,"Sderot Shlomo HaMelech  63,Lod",18 - 40 min
+3406,Yosef Burg St. Beer Sheva,1 hr - 1 hr 40 min
+3407,Ha-Tsiyonut St. Ashdod,28 - 55 min
+3408,Yehuda Halevi St. Ashdod,28 - 55 min
+3409,Tel-Chay Boulevard Ashdod,
+3410,Shmuel HaNagid St. Ashdod,28 min - 1 hr
+3411,Har Knaan St. Ashdod,
+3412,Aharon Ben Yosef St. Ramla,18 - 40 min
+3413,Khabad St. Rishon LeTsiyon,22 - 40 min
+3414,HaMetsuda St. Holon,24 - 45 min
+3415,"Sanhedrin St.  86,Beer Sheva",55 min - 1 hr 25 min
+3416,"Nahal Hatsvi St.  63,Migdal HaEmek",1 hr 30 min - 2 hr 20 min
+3417,"Moshe Sharet St.  14,Bat Yam",24 - 45 min
+3418,Yermiyahu St. Holon,24 - 45 min
+3419,HaGalil St. Karmiel,1 hr 50 min - 2 hr 50 min
+3420,HaEtsel St. Ashdod,26 - 55 min
+3421,Eshhar St. Karmiel,NA
+3422,Gefen St. Harish,1 hr 10 min - 2 hr
+3423,"Hasar Pinkas St.  18,Bat Yam",26 - 50 min
+3424,"Nadav St.  18,Tel Aviv-Yafo",30 - 55 min
+3425,"Yefet St.  222,Tel Aviv-Yafo",24 - 45 min
+3426,Derech Menachem Begin Bat Yam,24 - 45 min
+3427,"Kibuts Galuyot St.  32,Bat Yam",24 - 40 min
+3428,"Memorial Gimel St.  5,Bat Yam",28 - 45 min
+3429,"Yoseftal St.  70,Bat Yam",26 - 50 min
+3430,"HaAtsmaut Boulevard  67,Bat Yam",
+3431,"Rothschild St.  59,Bat Yam",24 - 40 min
+3432,"Balfour St.  106,Bat Yam",26 - 50 min
+3433,"HaAtsmaut Boulevard  2,Bat Yam",26 - 50 min
+3434,"Sumkan St.  32,Tel Aviv-Yafo",24 - 40 min
+3435,"Balfour St.  52,Bat Yam",26 - 50 min
+3436,"Yohanan HaSandlar St.  8,Bat Yam",24 - 45 min
+3437,"Memorial Gimel St.  5,Bat Yam",28 - 45 min
+3438,"Eli Cohen St.  20,Bat Yam",24 - 45 min
+3439,"Matitiyahu Ganam St.  14,Bat Yam",22 - 40 min
+3440,"Ha-Sar Shapira St.  9,Bat Yam",26 - 50 min
+3441,"Daniel St.  50,Bat Yam",24 - 45 min
+3442,"Masaryk St.  18,Bat Yam",26 - 50 min
+3443,"Jabotinsky St.  13,Bat Yam",28 - 50 min
+3444,"Ha-Sar Rabinovich St.  18,Bat Yam",24 - 45 min
+3445,"Dizengoff St.  13,Netanya",1 hr 10 min - 1 hr 50 min
+3446,Shlomo ha-Melekh St. Netanya,1 hr 10 min - 1 hr 50 min
+3447,"Rishon LeTsiyon St.  7,Netanya",1 hr 10 min - 1 hr 50 min
+3448,Shlomo Kaplanski St. Rishon LeTsiyon,16 - 26 min
+3449,Nahal Peret Be'er Sheva,1 hr 5 min - 1 hr 40 min
+3450,"Ben Tsvi Boulevard  74,Netanya",1 hr 5 min - 1 hr 40 min
+3451,HaDganit St. Acre,1 hr 50 min - 2 hr 50 min
+3452,Natan Bernitski St. Rishon LeTsiyon,16 - 28 min
+3453,Safed St. Holon,22 - 40 min
+3454,Yehuda Halevi St. Rishon LeTsiyon,20 - 40 min
+3455,"Ha-Rav Nisanbaum St.  37,Bat Yam",24 - 45 min
+3456,"Yisra'el Poli Polyakov St.  8,Ramla",14 - 28 min
+3457,Aliza Begin St. Rishon LeTsiyon,18 - 35 min
+3458,Rambam St. Rishon LeTsiyon,22 - 40 min
+3459,Nordau St. Rishon LeTsiyon,16 - 30 min
+3460,"Nof HaEmek St.  4,Migdal HaEmek",1 hr 30 min - 2 hr 20 min
+3461,"Zahal St.  1,Ramla",18 - 40 min
+3462,Avraham Shlonsky St. Netanya,1 hr 5 min - 1 hr 40 min
+3463,"Meir Ariel St.  13,Ramla",14 - 28 min
+3464,HaShalom Road Tel Aviv-Yafo,
+3465,Granados St. Ramat Gan,35 min - 1 hr 10 min
+3466,Alumim St. Ramat Gan,35 min - 1 hr 5 min
+3467,Derech Struma Nahariya,1 hr 50 min - 3 hr
+3468,Shivtei Israel St. Tel Aviv-Yafo,26 - 45 min
+3469,"Melvin Calvin  12,Rosh Haayin",40 min - 1 hr 10 min
+3470,Daniel St. Bat Yam,24 - 45 min
+3471,Yosef ha-Levi St. Rishon LeTsiyon,
+3472,"HaYarden St.  2,Rishon LeTsiyon",16 - 28 min
+3473,Rakefet St. Gan Yavne,24 - 40 min
+3474,Harimon St. Kfar Hananya,1 hr 50 min - 2 hr 40 min
+3475,Harimon St. Kfar Hananya,1 hr 50 min - 2 hr 40 min
+3476,David Shimoni St. Holon,24 - 45 min
+3477,"Dudu Dotan St.  4,Netanya",1 hr 5 min - 1 hr 40 min
+3478,"Nahal Hatsvi St.  63,Migdal HaEmek",NA
+3479,"Dov Ronel St.  35,Beer Sheva",1 hr - 1 hr 40 min
+3480,"HaRav Tana St.  34,Beer Sheva",1 hr - 1 hr 50 min
+3481,"Arye Motskin St.  25,Netanya",1 hr 5 min - 1 hr 40 min
+3482,"Yohanan HaSandlar St.  5,Netanya",1 hr 10 min - 1 hr 50 min
+3483,"Ben Tsvi Boulevard  118,Netanya",1 hr 5 min - 1 hr 40 min
+3484,"Reuven Rubin St.  5,Be'er Sheva",55 min - 1 hr 30 min
+3485,Binyamin Metudela St. Beer Sheva,55 min - 1 hr 25 min
+3486,Mivtsa Kadesh St. Raanana,50 min - 1 hr 25 min
+3487,"Rozmarin St.  11,Be'er Sheva",1 hr - 1 hr 40 min
+3488,"David Alroi St.  27,Beer Sheva",1 hr - 1 hr 30 min
+3489,Ha-Nakhal St. Petah Tikva,40 min - 1 hr 15 min
+3490,"Feierberg St.  23,Beer Sheva",1 hr 5 min - 1 hr 40 min
+3491,HaRav Tana St. Beer Sheva,1 hr - 1 hr 50 min
+3492,"Moriya St.  58,Beer Sheva",1 hr - 1 hr 40 min
+3493,"Herzl Rosenblum St.  13,Beer Sheva",1 hr - 1 hr 40 min
+3494,"Hahida St.  4,Beer Sheva",1 hr - 1 hr 30 min
+3495,"Yefe Nof St.  26,Ashkelon",40 min - 1 hr 10 min
+3496,Derech Ben Gurion Bat Yam,
+3497,Yehudah Al Harizi St. Beer Sheva,1 hr - 1 hr 30 min
+3498,Ela St. Karmiel,1 hr 50 min - 2 hr 50 min
+3499,Avraham Mapu St. Beer Sheva,1 hr - 1 hr 40 min
+3500,Derech Metsada Beersheba,55 min - 1 hr 30 min
+3501,Mordekhai Gur St. Netanya,1 hr 5 min - 1 hr 40 min
+3502,"Kadish Silman St.  1,Beer Sheva",1 hr - 1 hr 40 min
+3503,Rubin St. Harish,1 hr 10 min - 2 hr
+3504,"Etrog  1,Harish",1 hr 10 min - 2 hr
+3505,Shoham St. Harish,1 hr 10 min - 1 hr 50 min
+3506,"Reuven Barkat St.  38,Holon",26 - 45 min
+3507,Dudu Dotan St. Netanya,1 hr 5 min - 1 hr 40 min
+3508,"Kdoshei Kehilat Mezerich St.  10,Lod",20 - 45 min
+3509,"San Martin St.  11,Lod",18 - 40 min
+3510,"Rakhel Alter St.  15,Lod",18 - 40 min
+3511,"Sderot David HaMelech  13,Lod",18 - 45 min
+3512,Vakhtangov St. Tel Aviv-Yafo,24 - 45 min
+3513,"Elyakim ha-Melekh St.  11,Ashdod",26 - 50 min
+3514,Elfal St. Lod,20 - 45 min
+3515,"Sokolov St.  46,Netanya",1 hr 10 min - 1 hr 50 min
+3516,"Alef Samech Levi St.  12,Ramla",14 - 30 min
+3517,Ha-Kalanit St. Ashdod,24 - 50 min
+3518,Derech HaShalom Beersheba,1 hr - 1 hr 40 min
+3519,Shraga Abramson St. Beer Sheva,55 min - 1 hr 25 min
+3520,"Avraham Perrera St.  1,Jerusalem",45 min - 1 hr 15 min
+3521,"Weizman St.  10,Nahariyya",NA
+3522,David Elazar St. Rehovot,8 - 12 min
+3523,Archi Sherman St. Netanya,1 hr 5 min - 1 hr 50 min
+3524,Atad St. Karmiel,1 hr 50 min - 2 hr 50 min
+3525,Carmel St. Lod,18 - 40 min
+3526,Nissim Aloni St. Tel Aviv-Yafo,40 min - 1 hr 5 min
+3527,"Balfour St.  1,Lod",20 - 40 min
+3528,"Knei Suf St.  3,Lod",20 - 45 min
+3529,Gissin St. Rishon LeTsiyon,16 - 35 min
+3530,"Kiryat Sefer St.  12,Rishon LeTsiyon",18 - 35 min
+3531,"Ha-Gefen St.  8,Netanya",1 hr 10 min - 1 hr 50 min
+3532,"Afarsemon St.  5,Ashdod",30 - 55 min
+3533,Yitshak Ben Zvi St. Ramla,16 - 35 min
+3534,"Simha Holtsberg St.  16,Ramla",16 - 35 min
+3535,Yad Vashem St. Beer Sheva,1 hr - 1 hr 40 min
+3536,Eliyahu ha-Navi St. Beer Sheva,55 min - 1 hr 25 min
+3537,Mivtsa Uvda St. Beer Sheva,1 hr - 1 hr 30 min
+3538,Moriya St. Beer Sheva,1 hr - 1 hr 40 min
+3539,"Tsvi Ganot St.  6,Rishon LeTsiyon",18 - 35 min
+3540,"Ha-Neviim St.  26,Bat Yam",24 - 45 min
+3541,"Gordon St.  3,Beer Sheva",1 hr - 1 hr 40 min
+3542,"Derech Ben Gurion  41,Bat Yam",28 - 50 min
+3543,Irit St. Jerusalem,50 min - 1 hr 25 min
+3544,HaAlon St. Raanana,50 min - 1 hr 25 min
+3545,"Rambam St.  68,Beer Sheva",1 hr - 1 hr 40 min
+3546,Kibuts Galuyot St. Nahariyya,1 hr 50 min - 3 hr
+3547,Gordon St. Beer Sheva,1 hr - 1 hr 40 min
+3548,"Sderot Johana Jabotinsky  38,Beersheba",1 hr - 1 hr 40 min
+3549,"HaEla St.  3,Lod",18 - 45 min
+3550,"Haim Moshe Shapira St.  13,Lod",16 - 40 min
+3551,"Henrietta Szold St.  114,Lod",18 - 40 min
+3552,"Barak St.  4,Lod",18 - 40 min
+3553,"Dakar St.  21,Lod",18 - 40 min
+3554,"Rakhel Alter St.  19,Lod",20 - 40 min
+3555,"Lilach St.  4,Lod",20 - 40 min
+3556,"Sapir St.  12,Beer Yaakov",16 - 35 min
+3557,Khayim Arlozorov St. Lod,18 - 40 min
+3558,Rashi St. Beer Sheva,55 min - 1 hr 25 min
+3559,Kadesh St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+3560,"Ha-Vered St.  10,Migdal HaEmek",1 hr 30 min - 2 hr 20 min
+3561,Ha-Yaara St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+3562,"Nahal Hatsvi St.  75,Migdal HaEmek",1 hr 30 min - 2 hr 20 min
+3563,Nahal Hatsvi St. Migdal HaEmek,1 hr 30 min - 2 hr 20 min
+3564,"Ha-Yaara St.  7,Migdal HaEmek",1 hr 30 min - 2 hr 20 min
+3565,"HaAyalon St.  15,Lod",20 - 40 min
+3566,Rashi St. Beer Sheva,55 min - 1 hr 25 min
+3567,Rakhel Alter St. Lod,20 - 45 min
+3568,David Tuviyahu Ave Beersheba,1 hr - 1 hr 40 min
+3569,"Egoz St.  16,Lod",18 - 40 min
+3570,Yosef Katran St. Acre,1 hr 50 min - 2 hr 40 min
+3571,Shlomo Kaplanski St. Rishon LeTsiyon,16 - 26 min
+3572,"Shlomo ha-Melekh St.  46,Netanya",
+3573,Feierberg St. Beer Sheva,1 hr 5 min - 1 hr 40 min
+3574,Aharon ha-Cohen St. Rishon LeTsiyon,18 - 40 min
+3575,2380 Tel Aviv-Yafo,50 min - 1 hr 15 min
+3576,"Ha-Gdud ha-Ivri St.  1,Ramla",16 - 35 min
+3577,"Sprinzak St.  10,Lod",20 - 40 min
+3578,"Yakinton St.  32,Lod",20 - 40 min
+3579,"Sderot David HaMelech  16,Lod",18 - 45 min
+3580,"Yakinton St.  32,Lod",20 - 40 min
+3581,HaAlon St. Raanana,50 min - 1 hr 25 min
+3582,"Sa Nes St.  11,Beer Yaakov",16 - 40 min
+3583,Hativat Harel St. Lod,16 - 35 min
+3584,"Rambam St.  19,Bat Yam",28 - 50 min
+3585,Louis HaTshii St. Acre,1 hr 50 min - 2 hr 50 min
+3586,Tchernikhovski St. Bat Yam,
+3587,Sderot Levi Eshkol Tel Aviv-Yafo,40 min - 1 hr 15 min
+3588,Heil HaTothanim St. Rishon LeTsiyon,22 - 40 min
+3589,Haviva Reik St. Beer Sheva,1 hr - 1 hr 40 min
+3590,Eisenband St. Rishon LeTsiyon,22 - 40 min
+3591,"Abba Ahimeir St.  8,Lod",18 - 40 min
+3592,"Sderot David HaMelech  20,Lod",20 - 45 min
+3593,"Sderot Shlomo HaMelech  17,Lod",18 - 45 min
+3594,"Elfal St.  1,Lod",20 - 45 min
+3595,"Ha-Matsbiim St.  11,Lod",16 - 35 min
+3596,"Khalelei Egoz St.  15,Lod",24 - 50 min
+3597,"San Martin St.  9,Lod",18 - 40 min
+3598,"Hativat Harel St.  2,Lod",16 - 35 min
+3599,"HaEla St.  12,Lod",20 - 45 min
+3600,"HaEla St.  10,Lod",20 - 45 min
+3601,"Dakar St.  1,Lod",20 - 40 min
+3602,Weizman St. Nahariyya,NA
+3603,"Gavriel St.  2,Lod",18 - 40 min
+3604,HaKukiya St. Rishon LeTsiyon,20 - 35 min
+3605,"Ahi Lahav St.  5,Rishon LeTsiyon",22 - 40 min
+3606,Sapir St. Beer Yaakov,16 - 35 min
+3607,"Knei Suf St.  9,Lod",20 - 45 min
+3608,"Herzl St.  17,Lod",18 - 40 min
+3609,"Agas St.  2,Lod",20 - 45 min
+3610,"Dakar St.  21,Lod",18 - 40 min
+3611,"Tzemach Tzedek St.  17,Lod",20 - 40 min
+3612,"Henrietta Szold St.  112,Lod",18 - 40 min
+3613,"Sderot Washington  27,Tel Aviv-Yafo",28 - 50 min
+3614,"Amatsya ha-Melekh St.  2,Ashdod",26 - 50 min
+3615,"Ha-Melakhim St.  32,Netanya",1 hr 10 min - 1 hr 50 min
+3616,"Ha-Kalanit St.  5,Ashdod",26 - 50 min
+3617,"San Martin St.  8,Lod",18 - 40 min
+3618,"Herzl St.  19,Lod",18 - 40 min
+3619,"Aharon Lublin St.  47,Lod",26 - 50 min
+3620,"Yoseftal St.  25,Lod",18 - 40 min
+3621,Mivtsa Kadesh St. Raanana,50 min - 1 hr 25 min
+3622,Mivtsa Nakhshon St. Karmiel,NA
+3623,"Hativat Harel St.  2,Lod",16 - 35 min
+3624,"Ha-Prakhim St.  5,Lod",18 - 40 min
+3625,"Eli Cohen St.  2,Lod",20 - 45 min
+3626,"Yud Alef Halalei Minchen St.  11,Lod",18 - 40 min
+3627,"Henry Herts St.  1,Lod",20 - 45 min
+3628,"Kdoshei Kehilat Mezerich St.  4,Lod",20 - 45 min
+3629,"Kiryat Shmona St.  30,Holon",22 - 40 min
+3630,"Eilat St.  5,Lod",18 - 40 min
+3631,"Sapir St.  7,Ramla",16 - 35 min
+3632,"Vigodski St.  7,Rishon LeTsiyon",20 - 40 min
+3633,"Gershon Duvenboim St.  8,Rehovot",4 - 7 min
+3634,"Herzl St.  6,Kfar Yona",1 hr - 1 hr 40 min
+3635,"Ha-Atsmaut St.  44,Ashdod",28 - 55 min
+3636,"Yehoakhaz ha-Melekh St.  3,Ashdod",30 - 55 min
+3637,"Sderot Shlomo HaMelech  61,Lod",18 - 40 min
+3638,"Hubert Humphry St.  5,Lod",18 - 45 min
+3639,"Aharon Lublin St.  52,Lod",26 - 50 min
+3640,"Jabotinski St.  13,Lod",18 - 40 min
+3641,San Martin St. Lod,18 - 40 min
+3642,"San Martin St.  9,Lod",18 - 40 min
+3643,Ha-Matsbiim St. Lod,16 - 35 min
+3644,"Eli Cohen St.  4,Lod",20 - 45 min
+3645,"HaRav Mordechai Eliyahoo St.  6,Lod",20 - 45 min
+3646,"Hativat Harel St.  9,Lod",16 - 35 min
+3647,Hativat Harel St. Lod,16 - 35 min
+3648,HaEla St. Lod,20 - 45 min
+3649,Barak St. Lod,18 - 40 min
+3650,Yerikho St. Lod,18 - 40 min
+3651,Avishai Elashvili St. Lod,20 - 45 min
+3652,Rotem St. Lod,20 - 45 min
+3653,"Rabbi Meir Baal HaNess St.  3,Beer Yaakov",16 - 40 min
+3654,Jabotinski St. Lod,18 - 40 min
+3655,Reuven Rubin St. Lod,20 - 45 min
+3656,"Haim Hefer St.  9,Rishon LeTsiyon",18 - 40 min
+3657,Sderot Hen Netanya,1 hr 10 min - 1 hr 50 min
+3658,Nitsa Boulevard Netanya,1 hr 10 min - 1 hr 50 min
+3659,Bilu St. Ra'anana,50 min - 1 hr 20 min
+3660,"Zeev Jabotinsky St.  46,Holon",26 - 45 min
+3661,"Louis HaTshii St.  15,Acre",1 hr 50 min - 2 hr 50 min
+3662,HaShayarot St. Jerusalem,50 min - 1 hr 40 min
+3663,Mevo Banin Jerusalem,50 min - 1 hr 40 min
+3664,Yosef Ben Matityahu St. Jerusalem,45 min - 1 hr 25 min
+3665,Moshe Kol St. Jerusalem,45 min - 1 hr 15 min
+3666,Mordekhay Caspi St. Jerusalem,1 hr - 1 hr 50 min
+3667,Dror St. Rishon LeTsiyon,20 - 40 min
+3668,Misgav St. Karmiel,1 hr 50 min - 2 hr 50 min
+3669,"Ahad HaAm St.  1,Nahariyya",1 hr 50 min - 3 hr
+3670,Yosef Burg St. Beer Sheva,1 hr - 1 hr 40 min
+3671,Rahvat Ahazya Beersheba,55 min - 1 hr 30 min
+3672,"David Noy St.  42,Acre",1 hr 50 min - 2 hr 50 min
+3673,"Maze St.  54,Tel Aviv-Yafo",35 min - 1 hr 5 min
+3674,Tsvi Herman Shapira St. Rishon LeTsiyon,18 - 35 min
+3675,"Yaakobi St.  4,Rehovot",5 - 12 min
+3676,Bnei Binyamin St. Netanya,1 hr 5 min - 1 hr 50 min
+3677,"Yefe Nof St.  36,Ashkelon",40 min - 1 hr 10 min
+3678,Yefe Nof St. Ashkelon,40 min - 1 hr 10 min
+3679,"Yefe Nof St.  36,Ashkelon",40 min - 1 hr 10 min
+3680,Pola Ben Gurion St. Rishon LeTsiyon,18 - 30 min
+3681,Abarbanel St. Rishon LeTsiyon,22 - 45 min
+3682,Uzi Hitman St. Netanya,1 hr 5 min - 1 hr 40 min
+3683,HaEshel St. Raanana,50 min - 1 hr 25 min
+3684,Aharon ha-Cohen St. Rishon LeTsiyon,18 - 40 min
+3685,Shmaryahu Levin St. Rishon LeTsiyon,18 - 35 min
+3686,"Arik Lavi St.  18,Netanya",1 hr 5 min - 1 hr 40 min
+3687,"Derech Menachem Begin  144,Tel Aviv-Yafo",
+3688,Kinor St. Ashdod,28 - 55 min
+3689,Sheftel St. Rishon LeTsiyon,16 - 28 min
+3690,Ha-Prakhim St. Karmiel,NA
+3691,Pierre Koenig St. Netanya,1 hr 5 min - 1 hr 50 min
+3692,Nitsa Boulevard Netanya,1 hr 10 min - 1 hr 50 min
+3693,Nitsa Boulevard Netanya,1 hr 10 min - 1 hr 50 min
+3694,HaTana'im St. Netanya,1 hr 10 min - 1 hr 50 min
+3695,HaTehila St. Netanya,1 hr 5 min - 1 hr 50 min
+3696,Imanu'el Mol St. Netanya,1 hr 10 min - 1 hr 50 min
+3697,Nitsa Boulevard Netanya,1 hr 10 min - 1 hr 50 min
+3698,"Simha Holtsberg St.  16,Ramla",16 - 35 min
+3699,Mivtsa Yekev St. Beer Sheva,55 min - 1 hr 30 min
+3700,"Yehuda Halevi St.  5,Herzliya",50 min - 1 hr 20 min
+3701,Ha-Eshel St. Herzliya,50 min - 1 hr 20 min
+3702,HaRav Kuk St. Netanya,1 hr 10 min - 1 hr 50 min
+3703,Pierre Koenig St. Netanya,1 hr 5 min - 1 hr 50 min
+3704,"HaRakafot St.  8,Alonei Abba",1 hr 30 min - 2 hr 20 min
+3705,HaRe'ut St. Netanya,1 hr 5 min - 1 hr 50 min
+3706,"Ha-Ktoret  115,Shiloh",NA
+3707,Shmuel HaNatziv St. Netanya,1 hr 10 min - 1 hr 50 min
+3708,A.D. Gordon St. Netanya,1 hr 10 min - 1 hr 50 min
+3709,Herzl St. Raanana,50 min - 1 hr 20 min
+3710,Nordau St. Herzliya,50 min - 1 hr 15 min
+3711,Pardes Meshutaf St. Raanana,50 min - 1 hr 20 min
+3712,Beilinson St. Netanya,1 hr 10 min - 1 hr 50 min
+3713,Gidon Hausner St. Jerusalem,50 min - 1 hr 15 min
+3714,Pierre Koenig St. Netanya,1 hr 5 min - 1 hr 50 min
+3715,HaRe'ut St. Netanya,1 hr 5 min - 1 hr 50 min
+3716,"HaRav Reines St.  15,Netanya",1 hr 10 min - 1 hr 50 min
+3717,Avshalom Khaviv St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+3718,Rothschild Boulevard Tel Aviv-Yafo,35 min - 1 hr 10 min
+3719,Rothschild Boulevard Tel Aviv-Yafo,35 min - 1 hr 10 min
+3720,"Retsif Herbert Samuel St.  30,Tel Aviv-Yafo",35 min - 1 hr 5 min
+3721,HaYarkon St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+3722,"Pierre Koenig St.  3,Netanya",1 hr 5 min - 1 hr 50 min
+3723,"Ha-Shamayim St.  26,Caesarea",1 hr 25 min - 2 hr 10 min
+3724,"Shalva St.  8,Herzliya",50 min - 1 hr 20 min
+3725,Ha-Neviim St. Bat Yam,
+3726,Ha-Neviim St. Bat Yam,
+3727,Ha-Nevi'im St. Bat Yam,24 - 45 min
+3728,"Yitshak Sadeh St.  4,Bat Yam",
+3729,"Ha-Rav Avraham Yitskhak ha-Cohen Kook St.  1,Bnei Brak",40 min - 1 hr 15 min
+3730,Gdud Barak St. Tiberias,1 hr 50 min - 2 hr 50 min
+3731,Gdud Barak St. Tiberias,1 hr 50 min - 2 hr 50 min
+3732,Barzilai St. Tel Aviv-Yafo,30 min - 1 hr
+3733,Isaac Bashevis Singer St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+3734,Beeri St. Tel Aviv-Yafo,40 min - 1 hr 10 min
+3735,Herzl Rosenblum St. Tel Aviv-Yafo,45 min - 1 hr 15 min
+3736,Rothschild Boulevard Tel Aviv-Yafo,35 min - 1 hr 10 min
+3737,Ben Shaprut St. Tel Aviv-Yafo,40 min - 1 hr 15 min
+3738,Isaac Bashevis Singer St. Tel Aviv-Yafo,45 min - 1 hr 20 min
+3739,HaGolshim St. Ashdod,30 min - 1 hr
+3740,Dror St. Rishon LeTsiyon,20 - 40 min
+3741,Nitsa Boulevard Netanya,1 hr 10 min - 1 hr 50 min
+3742,Bnei Binyamin St. Netanya,1 hr 5 min - 1 hr 50 min
+3743,Bnei Binyamin St. Netanya,1 hr 5 min - 1 hr 50 min
+3744,HaHashmona'im St. Netanya,1 hr 10 min - 1 hr 50 min
