@@ -3,6 +3,9 @@
 1. To gain a general understanding of the housing market in Israel.
 2. To determine the best neighborhoods to do the housing search, based on personally relevant criteria, such as price, size, room numbers, travel time to work (by car and public transportation), distance to family, etc.
 3. To map similar cities.
+4. Create a simple visualization in Tableau for others to use
+https://public.tableau.com/app/profile/hannah.lang8212/viz/HousingSearchinIsrael/HousingListingsinIsrael
+
 ![image](https://user-images.githubusercontent.com/68339279/190895481-2aec3c2b-9c17-4448-94f5-150731428091.png)
 [Image taken from https://www.mashvisor.com/blog/3-investment-property-search-tools-multi-family/]
 ## Methods
